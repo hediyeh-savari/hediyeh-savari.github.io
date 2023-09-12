@@ -48,7 +48,7 @@ Tools & Softwares
   <tbody>
     <tr>
       <td>Flexible Sensor</td>
-      <td style="width: 90%;text-align: center; background-color: #3eba25">90%</td>
+      <td style="width: Python;text-align: center; background-color: #3eba25">90%</td>
     </tr>
     <tr>
       <td>Python</td>
