@@ -38,6 +38,56 @@ The main configuration file for the site is in the base directory in [_config.ym
 
 Tools & Softwares
 ------
+<table class="table table-bordered table-striped">
+  <thead>
+    <tr>
+      <th style="text-align: center;">Programming Language</th>
+      <th style="text-align: center;">Proficiency</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>MATLAB</td>
+      <td style="width: 90%;text-align: center; background-color: #3eba25">90%</td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td style="width: 90%;text-align: center; background-color: #3eba25">90%</td>
+    </tr>
+    <tr>
+      <td>Javascript</td>
+      <td style="width: 40%;text-align: center; background-color: #ffba00">40%</td>
+    </tr>
+    <tr>
+      <td>PHP</td>
+      <td style="width: 60%;text-align: center; background-color: #d1f100">60%</td>
+    </tr>
+    <tr>
+      <td>Assembly</td>
+      <td style="width: 60%;text-align: center; background-color: #d1f100">60%</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td style="width: 60%;text-align: center; background-color: #d1f100">60%</td>
+    </tr>
+    <tr>
+      <td>Solidity</td>
+      <td style="width: 40%;text-align: center; background-color: #ffba00">40%</td>
+    </tr>
+    <tr>
+      <td>Verilog</td>
+      <td style="width: 60%;text-align: center; background-color: #d1f100">60%</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+
+
 For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
 **Hobbies**
