@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @hediyeh_savari
 facebook:
-  username               :
+  username               : hediyeh.savari
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : https://www.facebook.com/hediyeh.savari/
   foursquare       :
   github           : "hediyeh-savari"
   google_plus      :
