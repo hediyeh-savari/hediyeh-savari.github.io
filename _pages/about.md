@@ -10,7 +10,7 @@ redirect_from:
 
 This is the front page of a website that is powered by the (https://ut.ac.ir/en)
 
-I have successfully completed a Bachelor's degree in Electronic Engineering at the (Iran University of Science and Technology), followed by a Master's degree in MEMS at the "https://ut.ac.ir/en". For the past eight years, I have been actively involved in MEMS research, where I have focused on wearable, multifunctional, pressure, and strain sensors. During my academic journey, I undertook my senior project under the supervision of (Dr. Alireza Nik Farjam) and served as his teaching assistant for two years.
+I have successfully completed a Bachelor's degree in Electronic Engineering at the (Iran University of Science and Technology), followed by a Master's degree in MEMS at the <a href="https://ut.ac.ir/en">University of Tehran</a>. For the past eight years, I have been actively involved in MEMS research, where I have focused on wearable, multifunctional, pressure, and strain sensors. During my academic journey, I undertook my senior project under the supervision of (Dr. Alireza Nik Farjam) and served as his teaching assistant for two years.
 
 
 I am now actively seeking a Ph.D. position in the field of MEMS or a related area, where I can apply my knowledge, expertise, and research skills to further advance the current state of knowledge in the field.
