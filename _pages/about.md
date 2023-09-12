@@ -41,7 +41,7 @@ Tools & Softwares
 <table class="table table-bordered table-striped">
   <thead>
     <tr>
-      <th style="text-align: center;">Programming Language</th>
+      <th style="text-align: center;">Laboratory Skills</th>
       <th style="text-align: center;">Proficiency</th>
     </tr>
   </thead>
