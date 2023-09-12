@@ -42,7 +42,7 @@ Tools & Softwares
   <thead>
     <tr>
       <th style="text-align: center;">Laboratory Skills</th>
-      <th style="text-align: center;">Proficiency</th>
+      <th style="text-align: center;">Programming Language</th>
     </tr>
   </thead>
   <tbody>
