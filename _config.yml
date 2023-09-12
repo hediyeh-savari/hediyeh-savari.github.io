@@ -11,7 +11,7 @@ title                    : "Hediyeh Savari / Academic Page"
 title_separator          : "-"
 name                     : &name "Hediyeh Savari"
 description              : &description "Graduated Research Assistant in Microelectromechanical Systems (MEMS)"
-url                      : "https://https://hediyeh-savari.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://hediyeh-savari.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hediyeh-savari/hediyeh-savari.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @hediyeh_savari
+  username               : "@hediyeh_savari"
 facebook:
-  username               : hediyeh.savari
+  username               : "hediyeh.savari"
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,21 +80,21 @@ analytics:
 
 # Site Author
 author:
-  name             : Hediyeh Savari"
+  name             : "Hediyeh Savari"
   avatar           : "profile.JPG"
   bio              : "born on 29 April 1995, Graduated Research Assistant in Microelectromechanical Systems (MEMS)"
   location         : "Tehran, Tehran, Iran"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :  "hediehsavari@gmail.com
+  email            :  "hediehsavari@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Hediyeh-Savari"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : https://www.facebook.com/hediyeh.savari/
+  facebook         : "https://www.facebook.com/hediyeh.savari/"
   foursquare       :
   github           : "hediyeh-savari"
   google_plus      :
