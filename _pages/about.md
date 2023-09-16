@@ -95,7 +95,7 @@ Tools & Softwares
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Homogenizer</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Microsoft Office</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8"></td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Ultrasonication</td>
@@ -103,11 +103,11 @@ Tools & Softwares
     </tr>
      <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Compound light microscope</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Photoshop</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">CorelDRAW</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Hotplate Stirrer</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">CorelDRAW</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Photoshop</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Centrifuge</td>
@@ -115,11 +115,11 @@ Tools & Softwares
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Laboratory Furnaces</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Excel for XRD Data Analysis</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Microsoft Office</td>
     </tr>
      <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Laboratory oven</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Excel for XRD Data Analysis</td>
     </tr>
   </tbody>
 </table>
