@@ -17,7 +17,7 @@ I am now actively seeking a Ph.D. position in the field of MEMS or a related are
 
 
 Spoken Language
-======
+------
 
 * English (Fluent)
 <br> 
@@ -32,11 +32,11 @@ TOEFL iBT: Overall score: 98 (Reading: 24, Listening: 27, Speaking: 23, Writing:
 
 
 My Projects
-======
+------
 Like ma
 
 My CV
-======
+------
 1. Reg
 
 
@@ -128,7 +128,7 @@ Tools & Softwares
 
 
 **Hobbies**
-
+------
 
 * Hiking
 * Swimming
