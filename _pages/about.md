@@ -61,17 +61,17 @@ Tools & Softwares
   <thead>
     <tr>
       <th style="text-align: center; background-color: #D6EEEE">Laboratory Skills</th>
-      <th style="text-align: center; background-color: #D6EEEE">Programming Language</th>
+      <th style="text-align: center; background-color: #D6EEEE">Software Skills</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">DC Sputtering</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Python</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">COMSOL</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">UV/Vis Spectroscopy</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Microsoft Office</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Python (Programming Language)</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Wet and Dry Etching</td>
@@ -83,7 +83,7 @@ Tools & Softwares
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Physical Vapor Deposition (PVD)</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">COMSOL</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Mathematica</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Lithography</td>
@@ -91,11 +91,11 @@ Tools & Softwares
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Homogenizer</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Silvaco</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Microsoft Office</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Ultrasonics</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Mathematica</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Silvaco</td>
     </tr>
   </tbody>
 </table>
