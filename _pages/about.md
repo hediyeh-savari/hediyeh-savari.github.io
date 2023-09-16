@@ -38,11 +38,13 @@ Research Interests
 ------
 * Micro/Nano Electromechanical Systems (MEMS/NEMS)
 * Sensor Fabrication
+* Multifunction Sensors
+* Flexible Sensors
 * Wearable Sensors
-* Smart Materials
+* Remote Sensing 
 * Nanotechnology
 * Nanoelectronics
-* Remote Sensing 
+* Smart Materials
 
 
 
