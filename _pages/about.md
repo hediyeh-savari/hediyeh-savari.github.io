@@ -98,10 +98,35 @@ I have also created [a set of Jupyter notebooks](https://github.com/academicpage
 Contact Me
 ------
 
-Please fill out the form below to contact me. I will get back to you as soon as possible.
-
-<textarea name="message" placeholder="Your Message"></textarea> Send
-You can also contact me by:
+<section class="contact-me">
+  <div class="row">
+    <div class="col-md-6">
+      <p>
+        Please fill out the form below to contact me. I will get back to you as soon as possible.
+      </p>
+      <form action="mailto:mohammadreza.arani.bidhendi@gmail.com" method="post">
+        <input type="hidden" name="from" value="your@email.address">
+        <input type="text" name="name" placeholder="Your Name">
+        <input type="email" name="email" placeholder="Your Email">
+        <input type="text" name="subject" placeholder="Subject">
+        <textarea name="message" placeholder="Your Message"></textarea>
+        <button type="submit">Send</button>
+      </form>
+    </div>
+    <div class="col-md-6">
+      <p>
+        You can also contact me by:
+      </p>
+      <ul>
+        <li><a href="mailto:mohammadreza.arani.bidhendi@gmail.com">Email</a></li>
+        <li><a href="tel:+989011690305">Phone</a></li>
+        <li><a href="https://www.linkedin.com/in/mohammadreza-arani-bidhendi/">LinkedIn</a></li>
+        <li><a href="https://stackoverflow.com/users/9048111/s-a-m-ir">StackoverFlow</a></li>
+        <li><a href="https://www.researchgate.net/profile/Mohammadreza-Arani">ResearchGate</a></li>
+      </ul>
+    </div>
+  </div>
+</section>
 
 
 
