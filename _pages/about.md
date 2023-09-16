@@ -60,7 +60,7 @@ Tools & Softwares
 <table class="table table-bordered table-striped">
   <thead>
     <tr>
-      <th style="text-align: center; background-color: #D6EEEE">Laboratory Skills</th>
+      <th style="text-align: center; background-color: #D6EEEE; font-size:30px">Laboratory Skills</th>
       <th style="text-align: center; background-color: #D6EEEE">Software Skills</th>
     </tr>
   </thead>
