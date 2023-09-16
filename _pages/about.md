@@ -36,13 +36,13 @@ My CV
 
 Research Interests
 ------
-* Optimization & Numerical Methods
-* RF Circuits & Systems Design & Implementation
-* Remote Sensing & High-Frequency Imaging
-* Blockchain Development (Decentralized Applications) & Security
-* Neural Networks & Machine Learning Applications
-* Wireless Communications
-* Quantum Computation
+* Micro/Nano Electromechanical Systems (MEMS/NEMS)
+* Sensor Fabrication
+* Wearable Sensors
+* Smart Materials
+* Nanotechnology
+* Nanoelectronics
+* Remote Sensing 
 
 
 
