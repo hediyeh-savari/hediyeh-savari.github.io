@@ -67,35 +67,35 @@ Tools & Softwares
   <tbody>
     <tr>
       <td>DC Sputtering</td>
-      <td style="width: 50%;text-align: center; background-color: #D6EEEE">Python</td>
+      <td style="width: 50%;text-align: center; background-color: #F5F5F5">Python</td>
     </tr>
     <tr>
       <td>UV/Vis Spectroscopy</td>
-      <td style="width: 50%;text-align: center; background-color: #D6EEEE">Microsoft Office</td>
+      <td style="width: 50%;text-align: center; background-color: #F5F5F5">Microsoft Office</td>
     </tr>
     <tr>
       <td>Wet and Dry Etching</td>
-      <td style="width: 50%;text-align: center; background-color: #D6EEEE">Matlab</td>
+      <td style="width: 50%;text-align: center; background-color: #F5F5F5">Matlab</td>
     </tr>
     <tr>
       <td>Spin Coating</td>
-      <td style="width: 50%;text-align: center; background-color: #D6EEEE">LaTeX</td>
+      <td style="width: 50%;text-align: center; background-color: #F5F5F5">LaTeX</td>
     </tr>
     <tr>
       <td>Physical Vapor Deposition (PVD)</td>
-      <td style="width: 50%;text-align: center; background-color: #D6EEEE">COMSOL</td>
+      <td style="width: 50%;text-align: center; background-color: #F5F5F5">COMSOL</td>
     </tr>
     <tr>
       <td>Lithography</td>
-      <td style="width: 50%;text-align: center; background-color: #D6EEEE">CorelDRAW</td>
+      <td style="width: 50%;text-align: center; background-color: #F5F5F5">CorelDRAW</td>
     </tr>
     <tr>
       <td>Homogenizer</td>
-      <td style="width: 50%;text-align: center; background-color: #D6EEEE">Silvaco</td>
+      <td style="width: 50%;text-align: center; background-color: #F5F5F5">Silvaco</td>
     </tr>
     <tr>
       <td>Ultrasonics</td>
-      <td style="width: 50%;text-align: center; background-color: #D6EEEE">Mathematica</td>
+      <td style="width: 50%;text-align: center; background-color: #F5F5F5">Mathematica</td>
     </tr>
   </tbody>
 </table>
