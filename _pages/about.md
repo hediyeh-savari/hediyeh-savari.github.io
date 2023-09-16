@@ -52,32 +52,32 @@ Tools & Softwares
   </thead>
   <tbody>
     <tr>
-      <td>Flexible Sensor</td>
+      <td>DC Sputtering</td>
       <td style="width: Python;text-align: center; background-color: #D6EEEE">Python</td>
     </tr>
     <tr>
       <td>UV/Vis Spectroscopy</td>
-      <td style="width: 90%;text-align: center; background-color: #D6EEEE">90%</td>
+      <td style="width: 90%;text-align: center; background-color: #D6EEEE">Microsoft Office</td>
     </tr>
     <tr>
-      <td>Javascript</td>
-      <td style="width: 40%;text-align: center; background-color: #D6EEEE">40%</td>
+      <td>Wet and Dry Etching</td>
+      <td style="width: 40%;text-align: center; background-color: #D6EEEE">Matlab</td>
     </tr>
     <tr>
-      <td>PHP</td>
-      <td style="width: 60%;text-align: center; background-color: #D6EEEE">60%</td>
+      <td>Spin Coating</td>
+      <td style="width: 60%;text-align: center; background-color: #D6EEEE">LaTeX</td>
     </tr>
     <tr>
-      <td>Assembly</td>
-      <td style="width: 60%;text-align: center; background-color: #D6EEEE">60%</td>
+      <td>Physical Vapor Deposition (PVD)</td>
+      <td style="width: 60%;text-align: center; background-color: #D6EEEE">COMSOL</td>
     </tr>
     <tr>
-      <td>C</td>
-      <td style="width: 60%;text-align: center; background-color: #D6EEEE">60%</td>
+      <td>Lithography</td>
+      <td style="width: 60%;text-align: center; background-color: #D6EEEE">CorelDRAW</td>
     </tr>
     <tr>
       <td>Solidity</td>
-      <td style="width: 40%;text-align: center; background-color: #D6EEEE">40%</td>
+      <td style="width: 40%;text-align: center; background-color: #D6EEEE">Silvaco</td>
     </tr>
     <tr>
       <td>Verilog</td>
