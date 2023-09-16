@@ -92,10 +92,10 @@ For site content, there is one markdown file for each type of content, which are
 
 **Hobbies**
 
-* Chess
+
 * Hiking
 * Swimming
-
+* Chess
 
   
 
