@@ -121,8 +121,7 @@ Contact Me
         <li><a href="mailto:hediehsavari@gmail.com">Email</a></li>
         <li><a href="tel:+989370763755">Phone</a></li>
         <li><a href="https://www.linkedin.com/in/hediyeh-savari-6b065b106/">LinkedIn</a></li>
-        <li><a href="https://stackoverflow.com/users/9048111/s-a-m-ir">StackoverFlow</a></li>
-        <li><a href="https://www.researchgate.net/profile/Mohammadreza-Arani">ResearchGate</a></li>
+        <li><a href="https://www.researchgate.net/profile/Hediyeh-Savari">ResearchGate</a></li>
       </ul>
     </div>
   </div>
