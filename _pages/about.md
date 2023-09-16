@@ -101,6 +101,22 @@ Tools & Softwares
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Compound light microscope</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Photoshop</td>
     </tr>
+    <tr>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Hotplate Stirrer</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Silvaco</td>
+    </tr>
+    <tr>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Centrifuge</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Silvaco</td>
+    </tr>
+    <tr>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Laboratory Furnaces</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Silvaco</td>
+    </tr>
+     <tr>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Laboratory oven</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Silvaco</td>
+    </tr>
   </tbody>
 </table>
 
