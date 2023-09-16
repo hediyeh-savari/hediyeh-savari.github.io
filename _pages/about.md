@@ -94,8 +94,12 @@ Tools & Softwares
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Microsoft Office</td>
     </tr>
     <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Ultrasonics</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Ultrasonication</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Silvaco</td>
+    </tr>
+     <tr>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Compound light microscope</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Photoshop</td>
     </tr>
   </tbody>
 </table>
