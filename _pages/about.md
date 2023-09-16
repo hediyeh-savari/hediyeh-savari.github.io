@@ -66,7 +66,7 @@ Tools & Softwares
   <tbody>
     <tr>
       <td>DC Sputtering</td>
-      <td style="width: Python;text-align: center; background-color: #D6EEEE">Python</td>
+      <td style="width: 50%;text-align: center; background-color: #D6EEEE">Python</td>
     </tr>
     <tr>
       <td>UV/Vis Spectroscopy</td>
