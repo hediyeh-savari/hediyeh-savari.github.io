@@ -61,7 +61,7 @@ Tools & Softwares
   <thead>
     <tr>
       <th style="text-align: center; background-color: #D6EEEE">Laboratory Skills</th>
-      <th style="text-align: center;">Programming Language</th>
+      <th style="text-align: center; background-color: #D6EEEE">Programming Language</th>
     </tr>
   </thead>
   <tbody>
