@@ -60,8 +60,8 @@ Tools & Softwares
 <table class="table table-bordered table-striped">
   <thead>
     <tr>
-      <th style="text-align: center; background-color: #D6EEEE; font-size:30px">Laboratory Skills</th>
-      <th style="text-align: center; background-color: #D6EEEE">Software Skills</th>
+      <th style="text-align: center; background-color: #D6EEEE; font-size:20px">Laboratory Skills</th>
+      <th style="text-align: center; background-color: #D6EEEE; font-size:20px">Software Skills</th>
     </tr>
   </thead>
   <tbody>
@@ -79,11 +79,11 @@ Tools & Softwares
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Spin Coating</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">LaTeX</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">C++</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Doctor Blade Coating</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">LaTeX</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">HTML</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Physical Vapor Deposition (PVD)</td>
@@ -91,7 +91,7 @@ Tools & Softwares
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Lithography</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">CorelDRAW</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">LaTeX</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Homogenizer</td>
@@ -107,15 +107,15 @@ Tools & Softwares
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Hotplate Stirrer</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Adobe Premiere Pro</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">CorelDRAW</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Centrifuge</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">C++</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Adobe Premiere Pro</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Laboratory Furnaces</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">HTML</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8"></td>
     </tr>
      <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Laboratory oven</td>
