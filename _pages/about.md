@@ -70,31 +70,31 @@ Tools & Softwares
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Python</td>
     </tr>
     <tr>
-      <td>UV/Vis Spectroscopy</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">UV/Vis Spectroscopy</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Microsoft Office</td>
     </tr>
     <tr>
-      <td>Wet and Dry Etching</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Wet and Dry Etching</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Matlab</td>
     </tr>
     <tr>
-      <td>Spin Coating</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Spin Coating</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">LaTeX</td>
     </tr>
     <tr>
-      <td>Physical Vapor Deposition (PVD)</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Physical Vapor Deposition (PVD)</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">COMSOL</td>
     </tr>
     <tr>
-      <td>Lithography</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Lithography</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">CorelDRAW</td>
     </tr>
     <tr>
-      <td>Homogenizer</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Homogenizer</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Silvaco</td>
     </tr>
     <tr>
-      <td>Ultrasonics</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Ultrasonics</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Mathematica</td>
     </tr>
   </tbody>
