@@ -82,6 +82,10 @@ Tools & Softwares
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">LaTeX</td>
     </tr>
     <tr>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Doctor Blade Coating</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">LaTeX</td>
+    </tr>
+    <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Physical Vapor Deposition (PVD)</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Mathematica</td>
     </tr>
@@ -103,19 +107,19 @@ Tools & Softwares
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Hotplate Stirrer</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Silvaco</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Adobe Premiere Pro</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Centrifuge</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Silvaco</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">C++</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Laboratory Furnaces</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Silvaco</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">HTML</td>
     </tr>
      <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Laboratory oven</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Silvaco</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">?</td>
     </tr>
   </tbody>
 </table>
