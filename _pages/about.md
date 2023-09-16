@@ -61,7 +61,7 @@ Tools & Softwares
   <thead>
     <tr>
       <th style="text-align: center; background-color: #D6EEEE; font-size:20px">Laboratory Skills</th>
-      <th style="text-align: center; background-color: #D6EEEE; font-size:20px">Software Skills</th>
+      <th style="text-align: center; background-color: #D6EEEE; font-size:18px">Software Skills</th>
     </tr>
   </thead>
   <tbody>
