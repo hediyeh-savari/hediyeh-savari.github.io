@@ -76,12 +76,12 @@ Tools & Softwares
       <td style="width: 60%;text-align: center; background-color: #D6EEEE">CorelDRAW</td>
     </tr>
     <tr>
-      <td>Solidity</td>
+      <td>Homogenizer</td>
       <td style="width: 40%;text-align: center; background-color: #D6EEEE">Silvaco</td>
     </tr>
     <tr>
-      <td>Verilog</td>
-      <td style="width: 60%;text-align: center; background-color: #D6EEEE">60%</td>
+      <td>Ultrasonics</td>
+      <td style="width: 60%;text-align: center; background-color: #D6EEEE">Mathematica</td>
     </tr>
   </tbody>
 </table>
