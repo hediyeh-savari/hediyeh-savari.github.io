@@ -56,32 +56,32 @@ Tools & Softwares
       <td style="width: Python;text-align: center; background-color: #D6EEEE">Python</td>
     </tr>
     <tr>
-      <td>Python</td>
-      <td style="width: 90%;text-align: center; background-color: #3eba25">90%</td>
+      <td>UV/Vis Spectroscopy</td>
+      <td style="width: 90%;text-align: center; background-color: #D6EEEE">90%</td>
     </tr>
     <tr>
       <td>Javascript</td>
-      <td style="width: 40%;text-align: center; background-color: #ffba00">40%</td>
+      <td style="width: 40%;text-align: center; background-color: #D6EEEE">40%</td>
     </tr>
     <tr>
       <td>PHP</td>
-      <td style="width: 60%;text-align: center; background-color: #d1f100">60%</td>
+      <td style="width: 60%;text-align: center; background-color: #D6EEEE">60%</td>
     </tr>
     <tr>
       <td>Assembly</td>
-      <td style="width: 60%;text-align: center; background-color: #d1f100">60%</td>
+      <td style="width: 60%;text-align: center; background-color: #D6EEEE">60%</td>
     </tr>
     <tr>
       <td>C</td>
-      <td style="width: 60%;text-align: center; background-color: #d1f100">60%</td>
+      <td style="width: 60%;text-align: center; background-color: #D6EEEE">60%</td>
     </tr>
     <tr>
       <td>Solidity</td>
-      <td style="width: 40%;text-align: center; background-color: #ffba00">40%</td>
+      <td style="width: 40%;text-align: center; background-color: #D6EEEE">40%</td>
     </tr>
     <tr>
       <td>Verilog</td>
-      <td style="width: 60%;text-align: center; background-color: #d1f100">60%</td>
+      <td style="width: 60%;text-align: center; background-color: #D6EEEE">60%</td>
     </tr>
   </tbody>
 </table>
