@@ -66,7 +66,7 @@ Tools & Softwares
   </thead>
   <tbody>
     <tr>
-      <td>DC Sputtering</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">DC Sputtering</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Python</td>
     </tr>
     <tr>
