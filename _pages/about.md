@@ -98,6 +98,10 @@ Tools & Softwares
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Lithography</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Microsoft Office</td>
     </tr>
+     <tr>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Mask Design</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8"></td>
+    </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Laboratory Furnaces</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Excel for XRD Data Analysis</td>
