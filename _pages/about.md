@@ -83,11 +83,11 @@ Tools & Softwares
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">C++</td>
     </tr>
     <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Mask Design</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Physical Vapor Deposition (PVD)</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">HTML</td>
     </tr>
     <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Physical Vapor Deposition (PVD)</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Mask Design</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Wolfram Mathematica</td>
     </tr>
     <tr>
@@ -124,10 +124,6 @@ Tools & Softwares
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Centrifuge</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8"></td>
-    </tr>
-    <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8"></td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8"></td>
     </tr>
   </tbody>
