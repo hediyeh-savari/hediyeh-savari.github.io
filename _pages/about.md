@@ -100,11 +100,11 @@ Tools & Softwares
     </tr>
      <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Laboratory oven</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Excel for XRD Data Analysis</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Laboratory Furnaces</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Excel for XRD Data Analysis</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">UV/Vis Spectroscopy</td>
     </tr>
      <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Ultrasonication</td>
