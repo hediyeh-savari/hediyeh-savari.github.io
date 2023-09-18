@@ -138,6 +138,7 @@ Tools & Softwares
 * Hiking
 * Swimming
 * Chess
+* Fitness
 
   
 
