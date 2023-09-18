@@ -52,6 +52,7 @@ Research Interests
 * Nanotechnology
 * Nanoelectronics
 * Smart Materials
+* Artificial Intelligence
 
 
 
