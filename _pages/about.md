@@ -69,34 +69,34 @@ Tools & Softwares
   </thead>
   <tbody>
     <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Research and Development (R&D)</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">COMSOL</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Communication</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Research and Development (R&D)</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">COMSOL</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Communication</td>
     </tr>
     <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Device Fabrication</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Scanning Electron Microscopy (SEM) analysis</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Collaboration</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Device Fabrication</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Scanning Electron Microscopy (SEM) analysis</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Collaboration</td>
     </tr>
     <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Microfabrication</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Transmission Electron Microscopy (TEM) analysis</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Problem-solving</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Microfabrication</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Transmission Electron Microscopy (TEM) analysis</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Problem-solving</td>
     </tr>
     <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">DC sputtering and RF sputtering</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">X-ray Diffraction (XRD) analysis</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Critical thinking</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">DC sputtering and RF sputtering</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">X-ray Diffraction (XRD) analysis</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Critical thinking</td>
     </tr>
     <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Spin Coating</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">UV/Vis Spectroscopy analysis</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Decision-making</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Spin Coating</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">UV/Vis Spectroscopy analysis</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Decision-making</td>
     </tr>
     <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Doctor Blade Coating</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">FTIR Spectroscopy analysis</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Work Ethic</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Doctor Blade Coating</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">FTIR Spectroscopy analysis</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Work Ethic</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Physical Vapor Deposition (PVD)</td>
