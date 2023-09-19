@@ -161,6 +161,7 @@ Tools & Softwares
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8"></td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Microsoft Office</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Networking</td>
     </tr>
   </tbody>
 </table>
