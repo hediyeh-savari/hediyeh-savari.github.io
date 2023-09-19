@@ -81,17 +81,17 @@ Tools & Softwares
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Microfabrication</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Transmission Electron Microscopy (TEM) analysis</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Problem-solving</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Problem-Solving</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Nanomaterial Synthesis</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">X-ray Diffraction (XRD) analysis</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Critical thinking</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Critical Thinking</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">DC sputtering and RF sputtering</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">UV/Vis Spectroscopy analysis</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Decision-making</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Decision-Making</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Chemical Vapor Deposition (CVD)</td>
@@ -106,7 +106,7 @@ Tools & Softwares
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Spin Coating</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Characterization</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Self-motivation</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Self-Motivation</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Doctor Blade Coating</td>
@@ -116,7 +116,7 @@ Tools & Softwares
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Mask Design</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">CorelDRAW</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Active listening</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Active Listening</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Lithography</td>
@@ -126,7 +126,7 @@ Tools & Softwares
      <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Wet and Dry Etching</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Premiere</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Emotional intelligence</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Emotional Intelligence</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Laboratory ovens</td>
