@@ -106,14 +106,17 @@ Tools & Softwares
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Chemical Vapor Deposition (CVD)</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Characterization</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Self-motivation</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Mask Design</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Silvaco</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Public Speaking</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Lithography</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">CorelDRAW</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Active listening</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Wet and Dry Etching</td>
