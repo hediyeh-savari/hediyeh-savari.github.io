@@ -71,10 +71,12 @@ Tools & Softwares
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Research and Development (R&D)</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">COMSOL</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Communication</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Device Fabrication</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Scanning Electron Microscopy (SEM) analysis</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Collaboration</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Microfabrication</td>
