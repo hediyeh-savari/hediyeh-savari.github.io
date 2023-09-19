@@ -99,48 +99,49 @@ Tools & Softwares
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Work Ethic</td>
     </tr>
     <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Physical Vapor Deposition (PVD)</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Scanning Tunneling Microscopy (STM) analysis</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Physical Vapor Deposition (PVD)</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Scanning Tunneling Microscopy (STM) analysis</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Creativity</td>
     </tr>
     <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Chemical Vapor Deposition (CVD)</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Characterization</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Chemical Vapor Deposition (CVD)</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Characterization</td>
     </tr>
     <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Mask Design</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Silvaco</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Mask Design</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Silvaco</td>
     </tr>
     <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Lithography</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">CorelDRAW</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Lithography</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">CorelDRAW</td>
     </tr>
     <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Wet and Dry Etching</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Photoshop</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Wet and Dry Etching</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Photoshop</td>
     </tr>
      <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Laboratory Furnaces</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Premiere</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Laboratory Furnaces</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Premiere</td>
     </tr>
     <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Laboratory oven</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Python</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Laboratory oven</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Python</td>
     </tr>
      <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Ultrasonication</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Matlab</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Ultrasonication</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Matlab</td>
     </tr>
     <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Homogenizer</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">C++</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Homogenizer</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">C++</td>
     </tr>
     <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Hotplate Stirrer</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">HTML</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Hotplate Stirrer</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">HTML</td>
     </tr>
      <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Compound light microscope</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Wolfram Mathematica</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Compound light microscope</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Wolfram Mathematica</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Centrifuge</td>
