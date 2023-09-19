@@ -68,6 +68,10 @@ Tools & Softwares
   </thead>
   <tbody>
     <tr>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Research and Development (R&D)</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8"></td>
+    </tr>
+    <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Microfabrication</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">COMSOL</td>
     </tr>
