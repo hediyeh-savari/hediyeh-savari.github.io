@@ -31,6 +31,44 @@ TOEFL iBT: Overall score: 98 (Reading: 24, Listening: 27, Speaking: 23, Writing:
 
 
 
+
+ <div class="my-projects-box">
+    <h2 style="color: #54b3d6; font-weight: bold; font-style: italic; text-align:center; text-decoration: underline;"><a href="/Projects.html">My Projects</a></h2>
+  </div>
+
+<style>
+.my-projects-box {
+  background-color: #ffffff;
+}
+
+.my-projects-box:hover {
+  background-color: #f0f8ff;
+}
+</style>
+
+  <div class="my-projects-box2">
+    <h2 style="color: #82d220; font-weight: bold; font-style: italic; text-align:center; text-decoration: underline;"><a href="/cv/" style="color: #0686c2;">My CV</a></h2>
+  </div>
+
+<style>
+.my-projects-box2 {
+  background-color: #ffffff;
+}
+
+.my-projects-box2:hover {
+  background-color: #c9f5ca;
+}
+</style>
+
+
+
+
+
+
+
+
+
+
 My Projects
 ------
 * Design and Fabrication of a Flexible Strain and Pressure Sensor based on Conductive Nanocomposites
