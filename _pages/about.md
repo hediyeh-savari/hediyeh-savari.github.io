@@ -84,17 +84,17 @@ Tools & Softwares
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Problem-solving</td>
     </tr>
     <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">DC sputtering and RF sputtering</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Nanomaterial Synthesis</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">X-ray Diffraction (XRD) analysis</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Critical thinking</td>
     </tr>
     <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Spin Coating</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">DC sputtering and RF sputtering</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">UV/Vis Spectroscopy analysis</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Decision-making</td>
     </tr>
     <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Doctor Blade Coating</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Chemical Vapor Deposition (CVD)</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">FTIR Spectroscopy analysis</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Work Ethic</td>
     </tr>
@@ -104,52 +104,52 @@ Tools & Softwares
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Creativity</td>
     </tr>
     <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Chemical Vapor Deposition (CVD)</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Spin Coating</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Characterization</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Self-motivation</td>
     </tr>
     <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Mask Design</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Doctor Blade Coating</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Silvaco</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Public Speaking</td>
     </tr>
     <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Lithography</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Mask Design</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">CorelDRAW</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Active listening</td>
     </tr>
     <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Wet and Dry Etching</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Lithography</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Photoshop</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Adaptability</td>
     </tr>
      <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Laboratory Furnaces</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Wet and Dry Etching</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Premiere</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Emotional intelligence</td>
     </tr>
     <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Laboratory oven</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Laboratory ovens</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Python</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Cultural Sensitivity</td>
     </tr>
      <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Ultrasonication</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Laboratory Furnaces</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Matlab</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Leadership</td>
     </tr>
     <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Homogenizer</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Ultrasonication</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">C++</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Conflict Management</td>
     </tr>
     <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Hotplate Stirrer</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Homogenizer</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">HTML</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Professional Attitude</td>
     </tr>
      <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Compound light microscope</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Hotplate Stirrer</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Wolfram Mathematica</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Time Management</td>
     </tr>
@@ -159,7 +159,7 @@ Tools & Softwares
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Teamwork</td>
     </tr>
     <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Compound light microscope</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Microsoft Office</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Networking</td>
     </tr>
