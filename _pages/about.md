@@ -73,11 +73,11 @@ Tools & Softwares
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Device Fabrication</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">UV/Vis Spectroscopy</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Scanning Electron Microscopy (SEM)</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Microfabrication</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Transmission Electron Microscopy (TEM)</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">DC sputtering and RF sputtering</td>
@@ -96,6 +96,10 @@ Tools & Softwares
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">HTML</td>
     </tr>
     <tr>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Chemical Vapor Deposition (CVD)</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">X-ray Diffraction (XRD)</td>
+    </tr>
+    <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Mask Design</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Wolfram Mathematica</td>
     </tr>
@@ -108,12 +112,12 @@ Tools & Softwares
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Microsoft Office</td>
     </tr>
      <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Laboratory oven/Furnaces</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Laboratory Furnaces</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Excel for XRD Data Analysis</td>
     </tr>
     <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Laboratory oven</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">UV/Vis Spectroscopy</td>
     </tr>
      <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Ultrasonication</td>
@@ -133,7 +137,7 @@ Tools & Softwares
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Centrifuge</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Scanning Tunneling Microscopy (STM)</td>
     </tr>
   </tbody>
 </table>
