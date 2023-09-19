@@ -33,7 +33,18 @@ TOEFL iBT: Overall score: 98 (Reading: 24, Listening: 27, Speaking: 23, Writing:
 
 My Projects
 ------
-Like ma
+* Design and Fabrication of a Flexible Strain and Pressure Sensor based on Conductive Nanocomposites
+Master's Thesis, University of Tehran
+Supervisor: Alireza Nikfarjam
+Feb. 2021 - Jul. 2022
+
+
+* Investigating the Structure, Properties and Behavior Prediction of GaAs Semiconductor Laser with 808(nm) Radiation Wavelength and Less than 5(nm) Bandwidth
+Bachelor's Thesis, Iran University of Science and Technology
+Supervisor: Vahid Reza Yazdanpanah
+May. 2018 - Sep. 2018
+
+
 
 My CV
 ------
