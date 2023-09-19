@@ -121,14 +121,17 @@ Tools & Softwares
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Wet and Dry Etching</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Photoshop</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Adaptability</td>
     </tr>
      <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Laboratory Furnaces</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Premiere</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Emotional intelligence</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Laboratory oven</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Python</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Cultural Sensitivity</td>
     </tr>
      <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Ultrasonication</td>
