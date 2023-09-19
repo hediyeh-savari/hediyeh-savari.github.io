@@ -85,17 +85,17 @@ Tools & Softwares
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Nanomaterial Synthesis</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">X-ray Diffraction (XRD) analysis</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">X-ray Diffraction (XRD) Analysis</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Critical Thinking</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">DC sputtering and RF sputtering</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">UV/Vis Spectroscopy analysis</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">UV/Vis Spectroscopy Analysis</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Decision-Making</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Chemical Vapor Deposition (CVD)</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">FTIR Spectroscopy analysis</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">FTIR Spectroscopy Analysis</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Work Ethic</td>
     </tr>
     <tr>
@@ -129,7 +129,7 @@ Tools & Softwares
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Emotional Intelligence</td>
     </tr>
     <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Laboratory ovens</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Laboratory Ovens</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Python</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Cultural Sensitivity</td>
     </tr>
@@ -159,7 +159,7 @@ Tools & Softwares
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Teamwork</td>
     </tr>
     <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Compound light microscope</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Compound Light Microscope</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Microsoft Office</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Networking</td>
     </tr>
