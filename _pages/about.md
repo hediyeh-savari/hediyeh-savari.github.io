@@ -136,22 +136,27 @@ Tools & Softwares
      <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Ultrasonication</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Matlab</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Leadership</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Homogenizer</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">C++</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Conflict Management</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Hotplate Stirrer</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">HTML</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Professional Attitude</td>
     </tr>
      <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Compound light microscope</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Wolfram Mathematica</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Time Management</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Centrifuge</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">LaTeX</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Teamwork</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8"></td>
