@@ -81,18 +81,22 @@ Tools & Softwares
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Microfabrication</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Transmission Electron Microscopy (TEM) analysis</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Problem-solving</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">DC sputtering and RF sputtering</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">X-ray Diffraction (XRD) analysis</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Critical thinking</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Spin Coating</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">UV/Vis Spectroscopy analysis</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Decision-making</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Doctor Blade Coating</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">FTIR Spectroscopy analysis</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Work Ethic</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Physical Vapor Deposition (PVD)</td>
