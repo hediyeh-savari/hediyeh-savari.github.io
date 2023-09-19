@@ -44,7 +44,7 @@ Feb. 2021 - Jul. 2022
 
 * Investigating the Structure, Properties and Behavior Prediction of GaAs Semiconductor Laser with 808(nm) Radiation Wavelength and Less than 5(nm) Bandwidth
   <br> 
-Bachelor's Thesis, Iran University of Science and Technology
+Undergraduate's Thesis, Iran University of Science and Technology
  <br> 
 Supervisor: Vahid Reza Yazdanpanah
  <br> 
