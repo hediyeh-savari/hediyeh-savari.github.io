@@ -73,11 +73,11 @@ Tools & Softwares
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Device Fabrication</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Scanning Electron Microscopy (SEM)</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Scanning Electron Microscopy (SEM) analysis</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Microfabrication</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Transmission Electron Microscopy (TEM)</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Transmission Electron Microscopy (TEM) analysis</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">DC sputtering and RF sputtering</td>
@@ -97,7 +97,7 @@ Tools & Softwares
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Chemical Vapor Deposition (CVD)</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">X-ray Diffraction (XRD)</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">X-ray Diffraction (XRD) analysis</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Mask Design</td>
@@ -117,7 +117,7 @@ Tools & Softwares
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Laboratory oven</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">UV/Vis Spectroscopy</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">UV/Vis Spectroscopy analysis</td>
     </tr>
      <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Ultrasonication</td>
@@ -137,7 +137,7 @@ Tools & Softwares
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Centrifuge</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Scanning Tunneling Microscopy (STM)</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Scanning Tunneling Microscopy (STM) analysis</td>
     </tr>
   </tbody>
 </table>
