@@ -154,14 +154,14 @@ Tools & Softwares
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Time Management</td>
     </tr>
     <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Centrifuge</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">LaTeX</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Teamwork</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Centrifuge</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">LaTeX</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Teamwork</td>
     </tr>
     <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Microsoft Office</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Networking</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Microsoft Office</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Networking</td>
     </tr>
   </tbody>
 </table>
