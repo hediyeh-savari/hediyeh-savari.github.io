@@ -69,11 +69,15 @@ Tools & Softwares
   <tbody>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Research and Development (R&D)</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">COMSOL</td>
+    </tr>
+    <tr>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Device Fabrication</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">UV/Vis Spectroscopy</td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Microfabrication</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">COMSOL</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8"></td>
     </tr>
     <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">DC sputtering and RF sputtering</td>
@@ -104,12 +108,12 @@ Tools & Softwares
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Microsoft Office</td>
     </tr>
      <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Laboratory oven</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Laboratory oven/Furnaces</td>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Excel for XRD Data Analysis</td>
     </tr>
     <tr>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">Laboratory Furnaces</td>
-      <td style="width: 50%;text-align: center; background-color: #F8F8F8">UV/Vis Spectroscopy</td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 50%;text-align: center; background-color: #F8F8F8"></td>
     </tr>
      <tr>
       <td style="width: 50%;text-align: center; background-color: #F8F8F8">Ultrasonication</td>
