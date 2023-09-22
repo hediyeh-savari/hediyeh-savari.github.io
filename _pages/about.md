@@ -99,7 +99,7 @@ Tools & Softwares
   <tbody>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Research and Development (R&D)</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">COMSOL</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">COMSOL Multiphysics</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Communication</td>
     </tr>
     <tr>
