@@ -109,6 +109,27 @@ Research Interests
 * Smart Materials
 * Artificial Intelligence
 * Machine Learning
+* Optimization
+
+
+
+* MEMS/NEMS
+* Flexible Sensors 
+* Wearable Sensors 
+* Multifunction Sensors
+* Sensor Fabrication
+* Flexible electronics 
+* Smart Materials
+* Disease Diagnosis
+* Nanotechnology
+* Nanoelectronics
+* Artificial Intelligence
+* Machine Learning
+* Optimization
+* Remote Sensing and Image Processing 
+
+
+
 
 
 
