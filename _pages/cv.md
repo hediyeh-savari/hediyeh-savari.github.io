@@ -12,15 +12,15 @@ redirect_from:
 
 Education
 ======
-* **M.S. in Microelectromechanical Systems (MEMS)**, University of Tehran, 2018-2022
+* **M.S. in Microelectromechanical Systems (MEMS)**, University of Tehran
 <br> 
-  GPA: 4/4 (18.19/20)
-* **B.S. in Electrical and Electronics Engineering**, Iran University of Science and Technology, 2013-2018
+2018-2022 , GPA: 4/4 (18.19/20)
+* **B.S. in Electrical and Electronics Engineering**, Iran University of Science and Technology
 <br> 
-   GPA: 3/4 (15.02/20)
-* **High School Diploma in Mathematics**, National Organization for Development of Exceptional Talents, 2009 - 2013
+2013-2018 , GPA: 3/4 (15.02/20)
+* **High School Diploma in Mathematics**, National Organization for Development of Exceptional Talents
 <br> 
-  GPA: 4/4 (19.66/20)
+2009 - 2013 , GPA: 4/4 (19.66/20)
 
 Research & Work experience
 ======
