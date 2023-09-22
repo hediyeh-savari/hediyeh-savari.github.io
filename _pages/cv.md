@@ -108,18 +108,7 @@ TA-Ship Experiences
 ------
 * **Teaching Assistant at Advanced Micro and Nano Device Lab**
   * [Alireza Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)----------2021-2022   
-* **Antenna 1 Course**
-  * [Prof. Rashed](https://ece.ut.ac.ir/~jrashed)----------2023 
-* **Engineering Mathematics**
-  * [Prof. Tale-Masouleh](https://profile.ut.ac.ir/~m.t.masouleh)----------2019 
-* **Introduction to Computing and Programming**
-  * [Prof. Moradih](https://ece.ut.ac.ir/~moradih)----------2019,2020
-* **Electrical Engineering Fundamentals**
-  * [Prof. Shahabadi](https://ece.ut.ac.ir/~shahabad)----------2020
-* **Electrical Machines and Power Electronics**
-  * [Dr. M.Abedini](https://ece.ut.ac.ir/~m.abedini)----------2020
-* **General Physics 2**
-  * [Prof. Shaterzadeh](https://profile.ut.ac.ir/~zahra.shaterzadeh)----------2020 
+
 
 Certificates 
 =====
