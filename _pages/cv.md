@@ -120,14 +120,14 @@ Certificates
 =====
 * **Recent Advances in Freeform Electronics**
 <br> 
-  offered by Yonsei University
+  offered by Yonsei University, Instructor: Jang-Ung Park
 <br> 
 Coursera, Credential ID: QCVZFHCKBF37
 <br> 
 Issued May 2023
 * **Programming for Everybody (Getting Started with Python)**
 <br> 
-  offered by University of Michigan
+  offered by University of Michigan, Instructor: Charles Russell Severance
 <br> 
 Coursera, Credential ID: GWSLB43EDL8A
 <br> 
