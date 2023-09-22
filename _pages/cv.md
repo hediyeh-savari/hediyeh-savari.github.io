@@ -169,7 +169,7 @@ Certificates
 =====
 * **Recent Advances in Freeform Electronics**
 <br> 
-  offered by Yonsei University, [Instructor: Jang-Ung Park](https://yonsei.elsevierpure.com/en/persons/jang-ung-park)
+  offered by [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), [Instructor: Jang-Ung Park](https://yonsei.elsevierpure.com/en/persons/jang-ung-park)
 <br> 
 Coursera, Credential ID: QCVZFHCKBF37
 <br> 
@@ -191,7 +191,7 @@ Scientific Association Membership
 * Honorary Member of the Student Scientific Association of Electrical Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015-2016
 * Honorary Member of the Cultural Office of the Faculty of Electrical Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014-2015
 
-MMMMh
+
 
 
 CV File
