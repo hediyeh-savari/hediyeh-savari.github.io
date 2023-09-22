@@ -19,15 +19,15 @@ I am now actively seeking a Ph.D. position in the field of MEMS or a related are
 Spoken Language
 ------
 
-* English (Advanced)
+* **English** (Advanced)
 <br> 
-TOEFL iBT: Overall score: 98 (Reading: 24, Listening: 27, Speaking: 23, Writing: 24)
+TOEFL iBT: Overall score: **98** (Reading: **24**, Listening: **27**, Speaking: **23**, Writing: **24**)
 
-* Persian (Native)
+* **Persian** (Native)
 
-* Arabic (intermediate)
+* **Arabic** (intermediate)
 
-* German (beginner)
+* **German** (beginner)
 
 
 
