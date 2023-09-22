@@ -18,17 +18,9 @@ Education
 
 Research & Work experience
 ======
-Design and Fabrication of a Flexible Strain and Pressure Sensor based on Conductive Nanocomposites
-
-Supervisor: Alireza Nikfarjam
-Master's Thesis
-University of Tehran
-Feb. 2021 - Jul. 2022
-
-
-* Feb. 2021 - Jul. 2022: Research Assistant
+* Feb. 2021 - Jul. 2022: Master Project
   * University of Tehran
-  * Duties included: Design and Fabrication of flexible substrates, electrodes, sensing elements, analysisynig ressponse of semnsors
+  * Duties included: Design and fabrication of flexible substrates, electrodes, sensing elements, synthesis of conductive nanocomposites, conducting strain and pressure stimuli tests, analyzing the response of sensors
   * Supervisor: [Alireza Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 
 
