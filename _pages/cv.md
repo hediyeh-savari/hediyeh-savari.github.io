@@ -106,8 +106,8 @@ Notable Courses
 
 TA-Ship Experiences
 ------
-* **Convex Optimization Course**
-  * [Dr. Keshavarz](https://arezoukt.github.io/)----------2023   
+* **Teaching Assistant at Advanced Micro and Nano Device Lab**
+  * [Alireza Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)----------2021-2022   
 * **Antenna 1 Course**
   * [Prof. Rashed](https://ece.ut.ac.ir/~jrashed)----------2023 
 * **Engineering Mathematics**
