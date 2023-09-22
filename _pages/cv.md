@@ -162,21 +162,21 @@ Notable Courses
 TA-Ship Experiences
 ------
 * **Teaching Assistant at Advanced Micro and Nano Device Lab**
-  * [Lecturer: Alireza Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)----------2021-2022   
+  * Lecturer: [Alireza Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)----------2021-2022   
 
 
 Certificates 
 =====
 * **Recent Advances in Freeform Electronics**
 <br> 
-  offered by [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), [Instructor: Jang-Ung Park](https://yonsei.elsevierpure.com/en/persons/jang-ung-park)
+  offered by [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), Instructor: [Jang-Ung Park](https://yonsei.elsevierpure.com/en/persons/jang-ung-park)
 <br> 
 Coursera, Credential ID: QCVZFHCKBF37
 <br> 
 Issued May 2023
 * **Programming for Everybody (Getting Started with Python)**
 <br> 
-  offered by [University of Michigan](https://umich.edu/), Instructor: Charles Russell Severance
+  offered by [University of Michigan](https://umich.edu/), Instructor: [Charles Russell Severance](https://www.si.umich.edu/people/charles-severance)
 <br> 
 Coursera, Credential ID: GWSLB43EDL8A
 <br> 
