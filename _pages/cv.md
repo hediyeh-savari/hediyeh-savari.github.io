@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 * B.S. in Tehran, Iran University of Science and Technology, 2013-2018, GPA: **15.02/20 (3/4)**
-* M.S. in Tehran, University of Tehran, 2018-2022,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GPA: **18.19/20 (4/4)**
+* M.S. in Tehran, University of Tehran, 2018-2022,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GPA: **18.19/20 (4/4)**
 
 
 Research & Work experience
@@ -28,7 +28,7 @@ Feb. 2021 - Jul. 2022
 
 * Feb. 2021 - Jul. 2022: Research Assistant
   * University of Tehran
-  * Duties included:
+  * Duties included: Design and Fabrication of flexible substrates, electrodes, sensing elements, analysisynig ressponse of semnsors
   * Supervisor: [Alireza Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 
 
