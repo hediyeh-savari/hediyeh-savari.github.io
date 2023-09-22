@@ -113,17 +113,17 @@ Notable Courses
 TA-Ship Experiences
 ------
 * **Teaching Assistant at Advanced Micro and Nano Device Lab**
-  * [Alireza Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)----------2021-2022   
+  * [Lecturer: Alireza Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)----------2021-2022   
 
 
 Certificates 
 =====
-* **Recent Advances in Freeform Electronics**, (offered by Yonsei University)
+* **Recent Advances in Freeform Electronics**, offered by Yonsei University
 <br> 
 Coursera, Credential ID QCVZFHCKBF37
 <br> 
 Issued May 2023
-* **Programming for Everybody (Getting Started with Python)**, (offered by University of Michigan)
+* **Programming for Everybody (Getting Started with Python)**, offered by University of Michigan
 <br> 
 Coursera, Credential ID GWSLB43EDL8A
 <br> 
