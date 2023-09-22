@@ -248,11 +248,11 @@ Tools & Softwares
 **Hobbies**
 ------
 
+* Chess
 * Hiking
 * Swimming
-* Chess
 * Fitness
-
+* Traveling
   
 
 Contact Me
