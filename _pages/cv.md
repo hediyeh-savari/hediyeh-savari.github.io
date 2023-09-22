@@ -118,12 +118,16 @@ TA-Ship Experiences
 
 Certificates 
 =====
-* **Recent Advances in Freeform Electronics**, offered by Yonsei University
+* **Recent Advances in Freeform Electronics**
+<br> 
+  offered by Yonsei University
 <br> 
 Coursera, Credential ID QCVZFHCKBF37
 <br> 
 Issued May 2023
-* **Programming for Everybody (Getting Started with Python)**, offered by University of Michigan
+* **Programming for Everybody (Getting Started with Python)**
+<br> 
+  offered by University of Michigan
 <br> 
 Coursera, Credential ID GWSLB43EDL8A
 <br> 
