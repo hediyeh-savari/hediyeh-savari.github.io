@@ -110,12 +110,6 @@ May. 2018 - Sep. 2018
 
 
 
-My CV
-------
-1. Reg
-
-
-
 Research Interests
 ------
 * MEMS/NEMS
