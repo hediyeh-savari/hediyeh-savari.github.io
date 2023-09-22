@@ -8,12 +8,12 @@ redirect_from:
 ---
 {% include base_path %}
 
-
+&nbsp;&nbsp; 
 
 Education
 ======
 * B.S. in Tehran, Iran University of Science and Technology, 2013-2018, GPA: **15.02/20 (3/4)**
-* M.S. in Tehran, University of Tehran, 2018-2022, GPA: **18.19/20 (4/4)**
+* M.S. in Tehran, University of Tehran, 2018-2022,                      GPA: **18.19/20 (4/4)**
 
 
 Research & Work experience
