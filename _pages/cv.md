@@ -8,16 +8,31 @@ redirect_from:
 ---
 {% include base_path %}
 
-&nbsp;&nbsp; 
+
 
 Education
 ======
 * B.S. in Tehran, Iran University of Science and Technology, 2013-2018, GPA: **15.02/20 (3/4)**
-* M.S. in Tehran, University of Tehran, 2018-2022,                      GPA: **18.19/20 (4/4)**
+* M.S. in Tehran, University of Tehran, 2018-2022,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GPA: **18.19/20 (4/4)**
 
 
 Research & Work experience
 ======
+Design and Fabrication of a Flexible Strain and Pressure Sensor based on Conductive Nanocomposites
+
+Supervisor: Alireza Nikfarjam
+Master's Thesis
+University of Tehran
+Feb. 2021 - Jul. 2022
+
+
+* Feb. 2021 - Jul. 2022: Research Assistant
+  * University of Tehran
+  * Duties included:
+  * Supervisor: [Alireza Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
+
+
+
 * Summer 2019: Research Assistant
   * University of Tehran
   * Duties included: Implementation of Monitoring in Machine Lab using an **Xbee** end-points+**Python UI**(PyQt5) Augmented program running on a **Raspberry-pi** connected to an Xbee end-point.
