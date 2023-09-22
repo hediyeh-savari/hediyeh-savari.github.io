@@ -63,53 +63,6 @@ Test Date: September 10, 2023
 </style>
 
 
-
-
-
-
-
-
-
-
-My Projects
-------
-* Design and Fabrication of a Flexible Strain and Pressure Sensor based on Conductive Nanocomposites
- <br>
-  Supervisor: Alireza Nikfarjam
- <br> 
-Master's Thesis
- <br> 
-University of Tehran
- <br> 
-Feb. 2021 - Jul. 2022
-
-* Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates
-  <br> 
-Supervisor: Alireza Nikfarjam
-University of Tehran
-  <br>
-  May. 2021 - Sep. 2021
-
-* Synthesis of Ultra-Thin Long Silver Nanowires (AgNWs) to Create Flexible, Transparent, and Conductive Electrodes
-  <br>
-Supervisor: Alireza Nikfarjam
-  <br>
-University of Tehran
-  <br>
-  Feb. 2019 - Feb. 2020
-
-* Investigating the Structure, Properties and Behavior Prediction of GaAs Semiconductor Laser with 808(nm) Radiation Wavelength and Less than 5(nm) Bandwidth
-  <br>
-Supervisor: Vahid Reza Yazdanpanah
- <br> 
-Undergraduate's Thesis
- <br>
-Iran University of Science and Technology
- <br> 
-May. 2018 - Sep. 2018
-
-
-
 Research Interests
 ------
 * MEMS/NEMS
@@ -122,12 +75,15 @@ Research Interests
 * Disease Diagnosis
 * Nanotechnology
 * Nanoelectronics
+* Wearable Electronics
+* Printed Electronics
+* Transparent Electronics
+* Stretchable Electronics
 * Artificial Intelligence
 * Machine Learning
 * Optimization
 * Remote Sensing and Image Processing
-* Human Computer Interaction
-
+* Human-Computer Interaction
 
 
 Tools & Softwares
