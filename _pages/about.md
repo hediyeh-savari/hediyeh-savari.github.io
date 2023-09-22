@@ -90,6 +90,14 @@ May. 2018 - Sep. 2018
 
 
 
+
+
+PUBLICATION
+------
+H.Savari, A.Nikfarjam - ”Design and fabrication of a flexible strain and pressure sensor based on
+conductive nanocomposites,” , 2023. (under preparation)
+
+
 My CV
 ------
 1. Reg
@@ -98,21 +106,6 @@ My CV
 
 Research Interests
 ------
-* Micro/Nano Electromechanical Systems (MEMS/NEMS)
-* Sensor Fabrication
-* Multifunction Sensors
-* Flexible Sensors
-* Wearable Sensors
-* Remote Sensing 
-* Nanotechnology
-* Nanoelectronics
-* Smart Materials
-* Artificial Intelligence
-* Machine Learning
-* Optimization
-
-
-
 * MEMS/NEMS
 * Flexible Sensors 
 * Wearable Sensors 
@@ -127,9 +120,6 @@ Research Interests
 * Machine Learning
 * Optimization
 * Remote Sensing and Image Processing 
-
-
-
 
 
 
