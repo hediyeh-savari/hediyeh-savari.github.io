@@ -80,9 +80,15 @@ Language Skills
   
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+H.Savari, A.Nikfarjam - ”Design and fabrication of a flexible strain and pressure sensor based on
+conductive nanocomposites,” 2023. under preparation
+
+<!--
+<ul>{% for post in site.publications %}
+  {% include archive-single-cv.html %}
   {% endfor %}</ul>
+--> 
+
   
 Notable Courses
 ------
