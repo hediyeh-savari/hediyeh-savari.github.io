@@ -129,7 +129,8 @@ Research Interests
 * Artificial Intelligence
 * Machine Learning
 * Optimization
-* Remote Sensing and Image Processing 
+* Remote Sensing and Image Processing
+* Human Computer Interaction
 
 
 
