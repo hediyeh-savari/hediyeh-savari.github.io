@@ -169,7 +169,7 @@ Certificates
 =====
 * **Recent Advances in Freeform Electronics**
 <br> 
-  offered by Yonsei University, Instructor: Jang-Ung Park
+  offered by Yonsei University, [Instructor: Jang-Ung Park](https://yonsei.elsevierpure.com/en/persons/jang-ung-park)
 <br> 
 Coursera, Credential ID: QCVZFHCKBF37
 <br> 
