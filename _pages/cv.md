@@ -12,15 +12,17 @@ redirect_from:
 
 Education
 ======
-* **M.S. in Microelectromechanical Systems (MEMS)**, University of Tehran
+* **M.S. in Microelectromechanical Systems (MEMS)**, 2018-2022
 <br> 
-2018-2022 , GPA: 4/4 (18.19/20)
-* **B.S. in Electrical and Electronics Engineering**, Iran University of Science and Technology
+University of Tehran, GPA: 4/4 (18.19/20)
+* **B.S. in Electrical and Electronics Engineering**, 2013-2018 
 <br> 
-2013-2018 , GPA: 3/4 (15.02/20)
-* **High School Diploma in Mathematics**, National Organization for Development of Exceptional Talents
+Iran University of Science and Technology, GPA: 3/4 (15.02/20)
+* **High School Diploma in Mathematics**, 2009 - 2013
 <br> 
-2009 - 2013 , GPA: 4/4 (19.66/20)
+National Organization for Development of Exceptional Talents , GPA: 4/4 (19.66/20)
+
+
 
 Research & Work experience
 ======
@@ -117,10 +119,14 @@ TA-Ship Experiences
 Certificates 
 =====
 * **Recent Advances in Freeform Electronics**, (offered by Yonsei University)
+<br> 
 Coursera, Credential ID QCVZFHCKBF37
+<br> 
 Issued May 2023
 * **Programming for Everybody (Getting Started with Python)**, (offered by University of Michigan)
+<br> 
 Coursera, Credential ID GWSLB43EDL8A
+<br> 
 Issued Mar 2023
 
 
