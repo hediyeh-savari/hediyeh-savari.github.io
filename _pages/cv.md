@@ -122,14 +122,14 @@ Certificates
 <br> 
   offered by Yonsei University
 <br> 
-Coursera, Credential ID QCVZFHCKBF37
+Coursera, Credential ID: QCVZFHCKBF37
 <br> 
 Issued May 2023
 * **Programming for Everybody (Getting Started with Python)**
 <br> 
   offered by University of Michigan
 <br> 
-Coursera, Credential ID GWSLB43EDL8A
+Coursera, Credential ID: GWSLB43EDL8A
 <br> 
 Issued Mar 2023
 
@@ -137,10 +137,10 @@ Issued Mar 2023
 
 Scientific Association Membership
 =====
-* Deputy Head of the Student Scientific Association of Electrical Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              2016-2017
+* Deputy Head of the Student Scientific Association of Electrical Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               2016-2017
 * Documentary Writer of the Student Scientific Association of Electrical Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      2016-2017
-* Honorary Member of the Student Scientific Association of Electrical Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          2015-2016
-* Honorary Member of the Cultural Office of the Faculty of Electrical Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         2014-2015
+* Honorary Member of the Student Scientific Association of Electrical Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           2015-2016
+* Honorary Member of the Cultural Office of the Faculty of Electrical Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          2014-2015
 
 
 
