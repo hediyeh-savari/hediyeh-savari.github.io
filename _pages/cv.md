@@ -176,7 +176,7 @@ Coursera, Credential ID: QCVZFHCKBF37
 Issued May 2023
 * **Programming for Everybody (Getting Started with Python)**
 <br> 
-  offered by University of Michigan, Instructor: Charles Russell Severance
+  offered by [University of Michigan](https://umich.edu/), Instructor: Charles Russell Severance
 <br> 
 Coursera, Credential ID: GWSLB43EDL8A
 <br> 
