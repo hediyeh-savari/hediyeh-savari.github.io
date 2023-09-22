@@ -79,25 +79,20 @@ Supervisor: Alireza Nikfarjam
  <br> 
 Feb. 2021 - Jul. 2022
 
-
 * Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible
 Substrates
   <br> 
-Supervisor: Alireza Nikfarjam,
+Supervisor: Alireza Nikfarjam
 University of Tehran
   <br>
   May. 2021 - Sep. 2021
 
-Synthesis of Ultra-Thin Long Silver Nanowires (AgNWs) to Create Flexible, Transparent,
+* Synthesis of Ultra-Thin Long Silver Nanowires (AgNWs) to Create Flexible, Transparent,
 and Conductive Electrodes
-Supervisor: Alireza Nikfarjam, University of Tehran Feb. 2019 - Feb. 2020
-
-
-
-
-
-
-
+  <br>
+Supervisor: Alireza Nikfarjam, University of Tehran
+  <br>
+  Feb. 2019 - Feb. 2020
 
 * Investigating the Structure, Properties and Behavior Prediction of GaAs Semiconductor Laser with 808(nm) Radiation Wavelength and Less than 5(nm) Bandwidth
   <br> 
@@ -107,14 +102,6 @@ Supervisor: Vahid Reza Yazdanpanah
  <br> 
 May. 2018 - Sep. 2018
 
-
-
-
-
-PUBLICATION
-------
-H.Savari, A.Nikfarjam - ”Design and fabrication of a flexible strain and pressure sensor based on
-conductive nanocomposites,” , 2023. (under preparation)
 
 
 My CV
