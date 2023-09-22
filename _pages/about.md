@@ -16,7 +16,7 @@ I am now actively seeking a Ph.D. position in the field of MEMS or a related are
 
 
 
-Spoken Language
+Language Skills
 ------
 
 * **English** (Advanced)
