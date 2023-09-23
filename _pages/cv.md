@@ -20,7 +20,7 @@ Education
 [Iran University of Science and Technology](https://www.iust.ac.ir/en), GPA: 3/4 (15.02/20)
 * **High School Diploma in Mathematics**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2009 - 2013
 <br> 
-National Organization for Development of Exceptional Talents (NODET), GPA: 4/4 (19.66/20)
+[National Organization for Development of Exceptional Talents (NODET)](https://www.linkedin.com/school/iransampad/?originalSubdomain=ir), GPA: 4/4 (19.66/20)
 
 
 
