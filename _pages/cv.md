@@ -47,18 +47,6 @@ Research Experience
   * Duties included: Investigating the Structure, Properties and Behavior Prediction of GaAs Semiconductor Laser with 808(nm) Radiation Wavelength and Less than 5(nm) Bandwidth
   * Supervisor: [Prof. Yazdanpanah](https://www.linkedin.com/in/vahid-yazdanpanah-83a57231/)
 
-
-
- 
-* Summer 2021: Undergraduate Project
-  * University of Tehran
-  * Duties included: Study of different Antenna Designs and simulation of Slotted-Waveguide, Patch, and Slotted SIW Antenna in **77GHz** for **Autonomous vehicles** application. 
-  * Supervisor: [Prof. Kamarei](https://ece.ut.ac.ir/~kamarei)
- 
-* From Jan 2022-Present: Graduate Project
-  * University of Tehran
-  * Duties included: A Novel Framework to **Optimize Antenna Arrays** in 1, 2, and 3 dimension(s) with given physical constraints for both TX and RX. 
-  * Supervisor: [Dr. S.Akhavan](https://ece.ut.ac.ir/~s.akhavan)
   
 Skills
 ======
@@ -113,8 +101,6 @@ Notable Courses
 * Special Topics in MEMS
 * Linear Control Systems
 <br>
-
-
 
 
 TA-Ship Experiences
