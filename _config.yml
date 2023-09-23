@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hediyeh Savari / Academic Page"
 title_separator          : "-"
 name                     : &name "Hediyeh Savari"
-description              : &description "Graduated Research Assistant in Microelectromechanical Systems (MEMS), Passionate about delving into the realm of science."
+description              : &description "Graduated Research Assistant in Microelectromechanical Systems (MEMS)"
 url                      : "https://hediyeh-savari.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hediyeh-savari/hediyeh-savari.github.io"
@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Hediyeh Savari"
   avatar           : "profile.JPG"
-  bio              : "born on 29 April 1995, Graduated Research Assistant in Microelectromechanical Systems (MEMS)"
+  bio              : "born on 29 April 1995, Graduated Research Assistant in Microelectromechanical Systems (MEMS),
+  Passionate about delving into the realm of science"
   location         : "Tehran, Tehran, Iran"
   employer         :
   pubmed           : 
