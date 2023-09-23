@@ -43,26 +43,10 @@ Research Experience
   * Duties included: Synthesis of Ultra-Thin Long Silver Nanowires (AgNWs) to Create Flexible, Transparent, and Conductive Electrodes
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 
-
-
-* 
-  <br>
-Supervisor: Vahid Reza Yazdanpanah
- <br> 
-
- <br>
-Iran University of Science and Technology
- <br> 
-May. 2018 - Sep. 2018
-
-
-
-
-
-* Summer 2020: Undergraduate Project
-  * University of Tehran
+* Spring 2018 - Fall 2018: Undergraduate Project
+  * Iran University of Science and Technology
   * Duties included: Investigating the Structure, Properties and Behavior Prediction of GaAs Semiconductor Laser with 808(nm) Radiation Wavelength and Less than 5(nm) Bandwidth
-  * Supervisor: [Prof. Yazdanpanah](https://ece.ut.ac.ir/~kaghdam/network)
+  * Supervisor: [Prof. Yazdanpanah]([https://ece.ut.ac.ir/~kaghdam/network](https://www.linkedin.com/in/vahid-yazdanpanah-83a57231/))
 
 
 
