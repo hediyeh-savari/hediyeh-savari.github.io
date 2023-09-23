@@ -23,15 +23,6 @@ Education
 [National Organization for Development of Exceptional Talents (NODET)](https://www.linkedin.com/school/iransampad/?originalSubdomain=ir), GPA: 4/4 (19.66/20) m
 
 
-
-My Projects
-------
-
-
-
-
-
-
 Research Experience
 ======
 * Winter 2021 - Summer 2022: Master Project
