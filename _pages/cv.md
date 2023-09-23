@@ -31,10 +31,6 @@ My Projects
 ------
 
 
-
-
-
-
 * Synthesis of Ultra-Thin Long Silver Nanowires (AgNWs) to Create Flexible, Transparent, and Conductive Electrodes
   <br>
 Supervisor: Alireza Nikfarjam
@@ -56,7 +52,7 @@ May. 2018 - Sep. 2018
 
 
 
-Research & Work experience
+Research Experience
 ======
 * Winter 2021 - Summer 2022: Master Project
   * University of Tehran
