@@ -170,7 +170,7 @@ CV File
 <body class="w3-content" style="max-width:1600px">
 
  <div align="center"> 
-<p><a href="https://github.com/hediyeh-savari/hediyeh-savari.github.io/blob/main/files/Hediyeh_Savari_CV.pdf" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My CV</a> </p>
+<p><a href="https://github.com/hediyeh-savari/hediyeh-savari.github.io/raw/main/files/Hediyeh_Savari_CV.pdf" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My CV</a> </p>
  </div>
   
 </body>  
