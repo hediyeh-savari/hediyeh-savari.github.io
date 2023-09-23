@@ -45,7 +45,7 @@ Research Experience
 * Spring 2018 - Fall 2018: Undergraduate Project
   * Iran University of Science and Technology
   * Duties included: Investigating the Structure, Properties and Behavior Prediction of GaAs Semiconductor Laser with 808(nm) Radiation Wavelength and Less than 5(nm) Bandwidth
-  * Supervisor: [Prof. Yazdanpanah]([https://ece.ut.ac.ir/~kaghdam/network](https://www.linkedin.com/in/vahid-yazdanpanah-83a57231/))
+  * Supervisor: [Prof. Yazdanpanah](https://www.linkedin.com/in/vahid-yazdanpanah-83a57231/)
 
 
 
