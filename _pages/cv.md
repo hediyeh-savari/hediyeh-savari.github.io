@@ -12,15 +12,15 @@ redirect_from:
 
 Education
 ======
-* **M.S. in Microelectromechanical Systems (MEMS)**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018 - 2022
+* **M.S. in Microelectromechanical Systems (MEMS)**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018 - 2022
 <br> 
 [University of Tehran](https://ut.ac.ir/en), GPA: 4/4 (18.19/20)
-* **B.S. in Electrical and Electronics Engineering**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2013 - 2018 
+* **B.S. in Electrical and Electronics Engineering**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2013 - 2018 
 <br> 
 [Iran University of Science and Technology](https://www.iust.ac.ir/en), GPA: 3/4 (15.02/20)
-* **High School Diploma in Mathematics**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2009 - 2013
+* **High School Diploma in Mathematics**,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2009 - 2013
 <br> 
-[National Organization for Development of Exceptional Talents (NODET)](https://www.linkedin.com/school/iransampad/?originalSubdomain=ir), GPA: 4/4 (19.66/20)
+[National Organization for Development of Exceptional Talents (NODET)](https://www.linkedin.com/school/iransampad/?originalSubdomain=ir), GPA: 4/4 (19.66/20) m
 
 
 
@@ -28,16 +28,6 @@ My Projects
 ------
 
 
-
-* Investigating the Structure, Properties and Behavior Prediction of GaAs Semiconductor Laser with 808(nm) Radiation Wavelength and Less than 5(nm) Bandwidth
-  <br>
-Supervisor: Vahid Reza Yazdanpanah
- <br> 
-Undergraduate's Thesis
- <br>
-Iran University of Science and Technology
- <br> 
-May. 2018 - Sep. 2018
 
 
 
@@ -47,22 +37,41 @@ Research Experience
 * Winter 2021 - Summer 2022: Master Project
   * University of Tehran
   * Duties included: Design and fabrication of flexible substrates, electrodes, sensing elements, synthesis of conductive nanocomposites, conducting strain and pressure stimuli tests, analyzing the response of sensors
-  * Supervisor: [Alireza Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
+  * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 
 * Spring 2021 - Fall 2021: Research Assistant
   * University of Tehran
   * Duties included: Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates
-  * Supervisor: [Alireza Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
+  * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 
 * Winter 2019 - Winter 2020: Research Assistant
   * University of Tehran
   * Duties included: Synthesis of Ultra-Thin Long Silver Nanowires (AgNWs) to Create Flexible, Transparent, and Conductive Electrodes
-  * Supervisor: [Alireza Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
+  * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 
-* Summer 2020: Internship
+
+
+* 
+  <br>
+Supervisor: Vahid Reza Yazdanpanah
+ <br> 
+
+ <br>
+Iran University of Science and Technology
+ <br> 
+May. 2018 - Sep. 2018
+
+
+
+
+
+* Summer 2020: Undergraduate Project
   * University of Tehran
-  * Duties included: Simulation of Different Techniques to reduce Noise Level and **Spectrum leakage** in **Spectrum Analyzer** including the application of Signal Windowing for smoother signal to use with limited FFT points in MATLAB and Implementation in Xilinx. 
-  * Supervisor: [Prof. PoorAghdam](https://ece.ut.ac.ir/~kaghdam/network)
+  * Duties included: Investigating the Structure, Properties and Behavior Prediction of GaAs Semiconductor Laser with 808(nm) Radiation Wavelength and Less than 5(nm) Bandwidth
+  * Supervisor: [Prof. Yazdanpanah](https://ece.ut.ac.ir/~kaghdam/network)
+
+
+
  
 * Summer 2021: Undergraduate Project
   * University of Tehran
