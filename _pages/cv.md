@@ -29,22 +29,11 @@ National Organization for Development of Exceptional Talents , GPA: 4/4 (19.66/2
 
 My Projects
 ------
-* Design and Fabrication of a Flexible Strain and Pressure Sensor based on Conductive Nanocomposites
- <br>
-  Supervisor: Alireza Nikfarjam
- <br> 
-Master's Thesis
- <br> 
-University of Tehran
- <br> 
-Feb. 2021 - Jul. 2022
 
-* Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates
-  <br> 
-Supervisor: Alireza Nikfarjam
-University of Tehran
-  <br>
-  May. 2021 - Sep. 2021
+
+
+
+
 
 * Synthesis of Ultra-Thin Long Silver Nanowires (AgNWs) to Create Flexible, Transparent, and Conductive Electrodes
   <br>
@@ -67,17 +56,19 @@ May. 2018 - Sep. 2018
 
 
 
-
-
-
-
-
 Research & Work experience
 ======
 * Winter 2021 - Summer 2022: Master Project
   * University of Tehran
   * Duties included: Design and fabrication of flexible substrates, electrodes, sensing elements, synthesis of conductive nanocomposites, conducting strain and pressure stimuli tests, analyzing the response of sensors
   * Supervisor: [Alireza Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
+
+* Spring 2021 - Fall 2021: Research Project
+  * University of Tehran
+  * Duties included: Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates
+  * Supervisor: [Alireza Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
+
+
 
 
 
