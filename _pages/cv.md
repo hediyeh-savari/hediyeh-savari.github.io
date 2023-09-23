@@ -27,22 +27,22 @@ Education
 
 Research Experience
 ======
-* Winter 2021 - Summer 2022: Master Project
+* Feb. 2021 - Jul. 2022: Master Project
   * University of Tehran
   * Duties included: Design and fabrication of flexible substrates, electrodes, sensing elements, synthesis of conductive nanocomposites, conducting strain and pressure stimuli tests, analyzing the response of sensors
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 
-* Spring 2021 - Fall 2021: Research Assistant
+* May. 2021 - Sep. 2021: Research Assistant
   * University of Tehran
   * Duties included: Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 
-* Winter 2019 - Winter 2020: Research Assistant
+* Feb. 2019 - Feb. 2020: Research Assistant
   * University of Tehran
   * Duties included: Synthesis of Ultra-Thin Long Silver Nanowires (AgNWs) to Create Flexible, Transparent, and Conductive Electrodes
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 
-* Spring 2018 - Fall 2018: Undergraduate Project
+* May. 2018 - Sep. 2018: Undergraduate Project
   * Iran University of Science and Technology
   * Duties included: Investigating the Structure, Properties and Behavior Prediction of GaAs Semiconductor Laser with 808(nm) Radiation Wavelength and Less than 5(nm) Bandwidth
   * Supervisor: [Prof. Yazdanpanah](https://www.linkedin.com/in/vahid-yazdanpanah-83a57231/)
