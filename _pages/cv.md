@@ -24,20 +24,10 @@ National Organization for Development of Exceptional Talents , GPA: 4/4 (19.66/2
 
 
 
-
-
-
 My Projects
 ------
 
 
-* Synthesis of Ultra-Thin Long Silver Nanowires (AgNWs) to Create Flexible, Transparent, and Conductive Electrodes
-  <br>
-Supervisor: Alireza Nikfarjam
-  <br>
-University of Tehran
-  <br>
-  Feb. 2019 - Feb. 2020
 
 * Investigating the Structure, Properties and Behavior Prediction of GaAs Semiconductor Laser with 808(nm) Radiation Wavelength and Less than 5(nm) Bandwidth
   <br>
@@ -59,19 +49,15 @@ Research Experience
   * Duties included: Design and fabrication of flexible substrates, electrodes, sensing elements, synthesis of conductive nanocomposites, conducting strain and pressure stimuli tests, analyzing the response of sensors
   * Supervisor: [Alireza Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 
-* Spring 2021 - Fall 2021: Research Project
+* Spring 2021 - Fall 2021: Research Assistant
   * University of Tehran
   * Duties included: Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates
   * Supervisor: [Alireza Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 
-
-
-
-
-* Summer 2019: Research Assistant
+* Winter 2019 - Winter 2020: Research Assistant
   * University of Tehran
-  * Duties included: Implementation of Monitoring in Machine Lab using an **Xbee** end-points+**Python UI**(PyQt5) Augmented program running on a **Raspberry-pi** connected to an Xbee end-point.
-  * Supervisor: [Dr. M. Abedini](https://ece.ut.ac.ir/~m.abedini)
+  * Duties included: Synthesis of Ultra-Thin Long Silver Nanowires (AgNWs) to Create Flexible, Transparent, and Conductive Electrodes
+  * Supervisor: [Alireza Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 
 * Summer 2020: Internship
   * University of Tehran
