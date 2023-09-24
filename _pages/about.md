@@ -50,16 +50,22 @@ I am now actively seeking a Ph.D. position in the field of MEMS or a related are
 Research Interests
 ------
 
-<div class="row">
-  <div class="column"></div>
-  <div class="column"></div>
-</div>
 
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
 
-
+/* Create two equal columns that floats next to each other */
 .column {
   float: left;
   width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
@@ -68,6 +74,39 @@ Research Interests
   display: table;
   clear: both;
 }
+</style>
+</head>
+<body>
+
+<h2>Two Equal Columns</h2>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Column 1</h2>
+    <p>* MEMS/NEMS
+    <br>
+* Flexible Sensors 
+ <br>
+* Wearable Sensors 
+ <br>
+* Multifunction Sensors
+ <br>
+* Sensor Fabrication
+ <br>
+* Flexible electronics
+ <br>
+* Smart Materials</p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+</div>
+
+</body>
+</html>
+
+
 
 
 
