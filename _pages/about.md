@@ -9,16 +9,18 @@ redirect_from:
 ---
 
 
-I am currently a graduate research assistant specializing in Microelectromechanical systems at the University of Tehran. My graduate project, conducted under the guidance of [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam), focused on multifunctional flexible pressure and strain sensors. Prior to this, I completed my undergraduate studies in electrical and electronic engineering at Iran University of Science and Technology, where I delved into the realm of semiconductor lasers, supervised by Prof. Yazdan Panah.
+I am a Graduate Research Assistant specializing in Microelectromechanical Systems at the <a href="https://ut.ac.ir/en">University of Tehran</a>. My journey in academia began with my undergraduate studies in Electrical and Electronic Engineering at the Iran University of Science and Technology, where I conducted my undergraduate project under the guidance of Prof. Yazdan Panah, focusing on semiconductor lasers.
 
-My research interests primarily revolve around MEMS technology, sensor fabrication, optimization, remote sensing, machine learning, and artificial intelligence. I firmly believe that the implementation of these technologies holds the potential to streamline various global challenges and enhance the overall well-being of humanity. The satisfaction of contributing to the betterment of individuals' lives on a grand scale fuels my passion for this field.
+During my graduate studies, I had the privilege of working on an intriguing project under the mentorship of [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam). My research centered on multifunctional flexible pressure and strain sensors, contributing to the advancement of this critical technology.
+My research interests have cultivated a deep passion for various facets of engineering, particularly in MEMS technology, sensor fabrication, optimization, remote sensing, machine learning, and artificial intelligence. I firmly believe that these innovative technologies hold the potential to address complex global challenges and improve the quality of human life on a substantial scale. My aspiration is to be a part of these transformative endeavors.
 
-My enthusiasm for academic exploration drives my commitment to pursuing further studies in these domains, as I aspire to be a catalyst for transforming dreams into reality. My childhood dream has always been to make a meaningful impact and shape a brighter future through science. The boundless nature of scientific inquiry continues to be a source of fulfillment, and I relish the opportunity to continuously expand my knowledge.
+Driven by my childhood dream of making a positive impact on our world's future, I am wholeheartedly dedicated to pursuing further academic studies in these areas. Science, with its infinite possibilities, has always been a source of immense joy for me, and the pursuit of knowledge is an enduring pleasure that continually motivates me.
 
-In addition to my academic pursuits, I possess strong soft skills, enabling effective communication and collaboration with diverse individuals. My experiences across various fields have nurtured emotional intelligence and creativity, bolstering my ability to excel in collaborative environments and foster productive relationships.
+In addition to my academic pursuits, I possess strong interpersonal skills, allowing me to effectively communicate and collaborate with diverse groups. My experiences in various fields have nurtured my emotional intelligence and creativity, while my ability to establish meaningful connections with individuals has honed my teamwork skills.
 
-Furthermore, my proficiency in critical thinking, problem-solving, and decision-making positions me as a valuable asset within scientific research groups. Drawing from my academic studies, professional skills, and unwavering spirit, I am confident in my potential as an exceptional candidate for PhD programs.
+Furthermore, I excel in critical thinking, problem-solving, and decision-making, attributes that position me as a valuable asset to scientific research groups. Based on my academic achievements, professional skills, and unwavering commitment, I am confident that I am a strong candidate for Ph.D. programs.
 
+I am excited to embark on this academic journey, driven by the belief that I can contribute to shaping a brighter future through scientific exploration and innovation.
 
 
 
