@@ -9,6 +9,21 @@ redirect_from:
 ---
 
 
+I am currently a graduate research assistant specializing in Microelectromechanical systems at the University of Tehran. My graduate project, conducted under the guidance of Prof. Nikfarjam, focused on multifunctional flexible pressure and strain sensors. Prior to this, I completed my undergraduate studies in electrical and electronic engineering at Iran University of Science and Technology, where I delved into the realm of semiconductor lasers, supervised by Prof. Yazdan Panah.
+
+My research interests primarily revolve around MEMS technology, sensor fabrication, optimization, remote sensing, machine learning, and artificial intelligence. I firmly believe that the implementation of these technologies holds the potential to streamline various global challenges and enhance the overall well-being of humanity. The satisfaction of contributing to the betterment of individuals' lives on a grand scale fuels my passion for this field.
+
+My enthusiasm for academic exploration drives my commitment to pursuing further studies in these domains, as I aspire to be a catalyst for transforming dreams into reality. My childhood dream has always been to make a meaningful impact and shape a brighter future through science. The boundless nature of scientific inquiry continues to be a source of fulfillment, and I relish the opportunity to continuously expand my knowledge.
+
+In addition to my academic pursuits, I possess strong soft skills, enabling effective communication and collaboration with diverse individuals. My experiences across various fields have nurtured emotional intelligence and creativity, bolstering my ability to excel in collaborative environments and foster productive relationships.
+
+Furthermore, my proficiency in critical thinking, problem-solving, and decision-making positions me as a valuable asset within scientific research groups. Drawing from my academic studies, professional skills, and unwavering spirit, I am confident in my potential as an exceptional candidate for PhD programs.
+
+
+
+
+
+
 I have successfully completed a Bachelor's degree in Electronic Engineering at the <a href="https://www.iust.ac.ir/en">Iran University of Science and Technology</a>, followed by a Master's degree in MEMS at the <a href="https://ut.ac.ir/en">University of Tehran</a>. For the past eight years, I have been actively involved in MEMS research, where I have focused on wearable, multifunctional, pressure, and strain sensors. During my academic journey, I undertook my senior project under the supervision of <a href="https://scholar.google.com/citations?user=cGcTjmq0Uh4C&hl=en
 ">Dr. Alireza Nik Farjam</a> and served as his teaching assistant for two years, and my junior project under the supervision of Dr. Vahid Reza Yazdanpanah for six months.
 
