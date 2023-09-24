@@ -9,6 +9,26 @@ redirect_from:
 ---
 
 
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        /* Apply the text-align property to justify the text in the paragraph */
+        .justified-paragraph {
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+    <p class="justified-paragraph">I am a Graduate Research Assistant specializing in **Microelectromechanical Systems (MEMS)** at the <a href="https://ut.ac.ir/en">University of Tehran</a>. My journey in academia began with my undergraduate studies in **Electrical and Electronic Engineering** at the <a href="https://www.iust.ac.ir/en">Iran University of Science and Technology</a>, where I conducted my undergraduate project under the guidance of [Prof. Yazdanpanah](https://www.linkedin.com/in/vahid-yazdanpanah-83a57231/), focusing on **semiconductor lasers**.</p>
+</body>
+</html>
+
+
+
+
 I am a Graduate Research Assistant specializing in **Microelectromechanical Systems (MEMS)** at the <a href="https://ut.ac.ir/en">University of Tehran</a>. My journey in academia began with my undergraduate studies in **Electrical and Electronic Engineering** at the <a href="https://www.iust.ac.ir/en">Iran University of Science and Technology</a>, where I conducted my undergraduate project under the guidance of [Prof. Yazdanpanah](https://www.linkedin.com/in/vahid-yazdanpanah-83a57231/), focusing on **semiconductor lasers**.
 
 During my graduate studies, I had the privilege of working on an intriguing project under the supervision of [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam). My research centered on **multifunctional flexible pressure and strain sensors**, contributing to the advancement of this critical technology.
