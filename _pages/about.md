@@ -17,16 +17,25 @@ redirect_from:
 During my graduate studies, I had the privilege of working on an intriguing project under the supervision of [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam). My research centered on **multifunctional flexible pressure and strain sensors**, contributing to the advancement of this critical technology.
 </div>
 
+<div style='text-align: justify;'>
 My research interests have cultivated a deep passion for various facets of engineering, particularly in **MEMS technology**, **sensor fabrication**, **optimization**, **remote sensing**, **machine learning**, and **artificial intelligence**. I firmly believe that these innovative technologies hold the potential to address complex global challenges and improve the quality of human life on a substantial scale. My aspiration is to be a part of these transformative endeavors.
+</div>
 
+<div style='text-align: justify;'>
 Driven by my childhood dream of making a positive impact on our world's future, I am wholeheartedly dedicated to pursuing further academic studies in these areas. Science, with its infinite possibilities, has always been a source of immense joy for me, and the pursuit of knowledge is an enduring pleasure that continually motivates me.
+</div>
 
+<div style='text-align: justify;'>
 In addition to my academic pursuits, I possess strong interpersonal skills, allowing me to effectively communicate and collaborate with diverse groups. My experiences in various fields have nurtured my emotional intelligence and creativity, while my ability to establish meaningful connections with individuals has honed my teamwork skills.
+</div>
 
+<div style='text-align: justify;'>
 Furthermore, I excel in critical thinking, problem-solving, and decision-making, attributes that position me as a valuable asset to scientific research groups. Based on my academic achievements, professional skills, and unwavering commitment, I am confident that I am a strong candidate for **Ph.D. programs**.
+</div>
 
+<div style='text-align: justify;'>
 I am excited to embark on this academic journey, driven by the belief that I can contribute to shaping a brighter future through scientific exploration and innovation.
-
+</div>
 
 
  <div class="my-projects-box">
