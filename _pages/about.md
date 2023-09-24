@@ -9,19 +9,6 @@ redirect_from:
 ---
 
 
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        /* Apply margin to all paragraphs */
-        p {
-            margin-bottom: 100px; /* Adjust the value to set the desired space */
-        }
-    </style>
-</head>
-<body>
-
-
 <div style='text-align: justify;'>
  I am a Graduate Research Assistant specializing in <strong>Microelectromechanical Systems (MEMS)</strong> at the <a href="https://ut.ac.ir/en">University of Tehran</a>. My journey in academia began with my undergraduate studies in <strong>Electrical and Electronic Engineering</strong> at the <a href="https://www.iust.ac.ir/en">Iran University of Science and Technology</a>, where I conducted my undergraduate project under the guidance of <a href="https://www.linkedin.com/in/vahid-yazdanpanah-83a57231/">Prof. Yazdanpanah</a>, focusing on <strong>semiconductor lasers</strong>. gggggg
 </div>
@@ -50,10 +37,6 @@ Furthermore, I excel in critical thinking, problem-solving, and decision-making,
 <div style='text-align: justify;'>
 I am excited to embark on this academic journey, driven by the belief that I can contribute to shaping a brighter future through scientific exploration and innovation.
 </div>
-
-
-</body>
-</html>
 
 
 
