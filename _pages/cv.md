@@ -68,14 +68,10 @@ Skills
 * Wet Etching with various etchants
 * Dry Etching
 * Photolithography process
-*
-
-
-* 
+* Experienced with **Function Generator**, **Oscilloscope**, and **Spectrum Analyzer** devices.
 * Design & Simulation in **COMSOL**
-* Experienced with **Function Generator**, **Oscilloscope**, **Network Analyzer**, and **Spectrum Analyzer** devices.
-* Familiar with **STM32**, **Arduino**, **NRF24L**, and **ESP8266** modules. 
-* Adept with multiple Programming languages including **Python**, C, **MATLAB**, JS, PHP, **Solidity**, and Assembly.
+* Familiar with multiple Programming languages including **Python**, **C++**, **MATLAB**, **HTML**, **CSS** , and **JavaScript**
+* 
 * Experienced with Quantum Computing concepts and tools such as **Pennylane** and **Qiskit**.
 * Utilized various Numerical Methods and Frameworks to find optimal results consisting of **ML**,**Numerical Integration/Differentiation**, **Root-Finding Methods**, **FDTD**, **Genetic/PSO  Algo.**, and **Convex Optimization**.
 * Experienced with multiple Operating Systems (OS):
