@@ -11,8 +11,7 @@ redirect_from:
 
 <div style='text-align: justify;'>
  I am a Graduate Research Assistant specializing in <strong>Microelectromechanical Systems (MEMS)</strong> at the <a href="https://ut.ac.ir/en">University of Tehran</a>. My journey in academia began with my undergraduate studies in <strong>Electrical and Electronic Engineering</strong> at the <a href="https://www.iust.ac.ir/en">Iran University of Science and Technology</a>, where I conducted my undergraduate project under the guidance of <a href="https://www.linkedin.com/in/vahid-yazdanpanah-83a57231/">Prof. Yazdanpanah</a>, focusing on <strong>semiconductor lasers</strong>.
-</div>
-<br>
+</div> <br>
 <div style='text-align: justify;'>
 During my graduate studies at the <a href="https://ut.ac.ir/en">University of Tehran</a>, I had the privilege of working on an intriguing project under the supervision of 
   <a href="https://fnst.ut.ac.ir/en/~a.nikfarjam">Prof. Nikfarjam</a>. My research centered on <strong>multifunctional flexible pressure and strain sensors</strong>, contributing to the advancement of this critical technology.
