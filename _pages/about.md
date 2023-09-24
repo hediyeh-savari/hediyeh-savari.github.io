@@ -9,17 +9,17 @@ redirect_from:
 ---
 
 
-I am a Graduate Research Assistant specializing in Microelectromechanical Systems at the <a href="https://ut.ac.ir/en">University of Tehran</a>. My journey in academia began with my undergraduate studies in Electrical and Electronic Engineering at the <a href="https://www.iust.ac.ir/en">Iran University of Science and Technology</a>, where I conducted my undergraduate project under the guidance of [Prof. Yazdanpanah](https://www.linkedin.com/in/vahid-yazdanpanah-83a57231/), focusing on semiconductor lasers.
+I am a Graduate Research Assistant specializing in **Microelectromechanical Systems (MEMS)** at the <a href="https://ut.ac.ir/en">University of Tehran</a>. My journey in academia began with my undergraduate studies in **Electrical and Electronic Engineering** at the <a href="https://www.iust.ac.ir/en">Iran University of Science and Technology</a>, where I conducted my undergraduate project under the guidance of [Prof. Yazdanpanah](https://www.linkedin.com/in/vahid-yazdanpanah-83a57231/), focusing on **semiconductor lasers**.
 
-During my graduate studies, I had the privilege of working on an intriguing project under the supervision of [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam). My research centered on multifunctional flexible pressure and strain sensors, contributing to the advancement of this critical technology.
+During my graduate studies, I had the privilege of working on an intriguing project under the supervision of [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam). My research centered on **multifunctional flexible pressure and strain sensors**, contributing to the advancement of this critical technology.
 
-My research interests have cultivated a deep passion for various facets of engineering, particularly in MEMS technology, sensor fabrication, optimization, remote sensing, machine learning, and artificial intelligence. I firmly believe that these innovative technologies hold the potential to address complex global challenges and improve the quality of human life on a substantial scale. My aspiration is to be a part of these transformative endeavors.
+My research interests have cultivated a deep passion for various facets of engineering, particularly in **MEMS technology**, **sensor fabrication**, **optimization**, **remote sensing**, **machine learning**, and **artificial intelligence**. I firmly believe that these innovative technologies hold the potential to address complex global challenges and improve the quality of human life on a substantial scale. My aspiration is to be a part of these transformative endeavors.
 
 Driven by my childhood dream of making a positive impact on our world's future, I am wholeheartedly dedicated to pursuing further academic studies in these areas. Science, with its infinite possibilities, has always been a source of immense joy for me, and the pursuit of knowledge is an enduring pleasure that continually motivates me.
 
 In addition to my academic pursuits, I possess strong interpersonal skills, allowing me to effectively communicate and collaborate with diverse groups. My experiences in various fields have nurtured my emotional intelligence and creativity, while my ability to establish meaningful connections with individuals has honed my teamwork skills.
 
-Furthermore, I excel in critical thinking, problem-solving, and decision-making, attributes that position me as a valuable asset to scientific research groups. Based on my academic achievements, professional skills, and unwavering commitment, I am confident that I am a strong candidate for Ph.D. programs.
+Furthermore, I excel in critical thinking, problem-solving, and decision-making, attributes that position me as a valuable asset to scientific research groups. Based on my academic achievements, professional skills, and unwavering commitment, I am confident that I am a strong candidate for **Ph.D. programs**.
 
 I am excited to embark on this academic journey, driven by the belief that I can contribute to shaping a brighter future through scientific exploration and innovation.
 
