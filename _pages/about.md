@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently a graduate research assistant specializing in Microelectromechanical systems at the University of Tehran. My graduate project, conducted under the guidance of Prof. Nikfarjam, focused on multifunctional flexible pressure and strain sensors. Prior to this, I completed my undergraduate studies in electrical and electronic engineering at Iran University of Science and Technology, where I delved into the realm of semiconductor lasers, supervised by Prof. Yazdan Panah.
+I am currently a graduate research assistant specializing in Microelectromechanical systems at the University of Tehran. My graduate project, conducted under the guidance of [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam), focused on multifunctional flexible pressure and strain sensors. Prior to this, I completed my undergraduate studies in electrical and electronic engineering at Iran University of Science and Technology, where I delved into the realm of semiconductor lasers, supervised by Prof. Yazdan Panah.
 
 My research interests primarily revolve around MEMS technology, sensor fabrication, optimization, remote sensing, machine learning, and artificial intelligence. I firmly believe that the implementation of these technologies holds the potential to streamline various global challenges and enhance the overall well-being of humanity. The satisfaction of contributing to the betterment of individuals' lives on a grand scale fuels my passion for this field.
 
