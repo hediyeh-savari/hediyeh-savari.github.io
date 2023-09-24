@@ -32,19 +32,19 @@ Research Experience
   * Title: Design and Fabrication of a Flexible Strain and Pressure Sensor based on Conductive Nanocomposites
   * Duties included: Design and fabrication of flexible substrates, electrodes, sensing elements, synthesis of conductive nanocomposites, conducting strain and pressure stimuli tests, analyzing the response of sensors
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
-<P>
+<br> 
 * May. 2021 - Sep. 2021: Research Assistant
   * University of Tehran
   * Title: Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates
   * Duties included: 
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
-<P>
+<br> 
 * Feb. 2019 - Feb. 2020: Research Assistant
   * University of Tehran
   * Title: Synthesis of Ultra-Thin Long Silver Nanowires (AgNWs) to Create Flexible, Transparent, and Conductive Electrodes
   * Duties included: 
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
-<P> 
+<br> 
 * May. 2018 - Sep. 2018: Undergraduate Project
   * Iran University of Science and Technology
   * Title: Investigating the Structure, Properties and Behavior Prediction of GaAs Semiconductor Laser with 808(nm) Radiation Wavelength and Less than 5(nm) Bandwidth
