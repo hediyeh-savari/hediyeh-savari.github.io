@@ -69,8 +69,8 @@ Skills
 * **Dry Etching**.
 * **Photolithography** processes.
 * Proficient with **Function Generators**, **Oscilloscopes**, and Spectrum Analyzers.
-* Design & Simulation in COMSOL.
-* Familiar with multiple programming languages, including Python, C++, MATLAB, HTML, CSS, and JavaScript.
+* Design & Simulation in **COMSOL Multiphysics**.
+* Familiar with multiple programming languages, including **Python**, **C++**, **MATLAB**, **HTML**, **CSS**, and **JavaScript**.
 
 
 * Research and Development (R&D)
