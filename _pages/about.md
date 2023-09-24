@@ -10,7 +10,7 @@ redirect_from:
 
 
 <div style='text-align: justify;'>
- I am a Graduate Research Assistant specializing in <strong>Microelectromechanical Systems (MEMS)</strong> at the <a href="https://ut.ac.ir/en">University of Tehran</a>. My journey in academia began with my undergraduate studies in <strong>Electrical and Electronic Engineering</strong> at the <a href="https://www.iust.ac.ir/en">Iran University of Science and Technology</a>, where I conducted my undergraduate project under the guidance of <a href="https://www.linkedin.com/in/vahid-yazdanpanah-83a57231/">Prof. Yazdanpanah</a>, focusing on <strong>semiconductor lasers</strong>. gggggg
+ I am a Graduate Research Assistant specializing in <strong>Microelectromechanical Systems (MEMS)</strong> at the <a href="https://ut.ac.ir/en">University of Tehran</a>. My journey in academia began with my undergraduate studies in <strong>Electrical and Electronic Engineering</strong> at the <a href="https://www.iust.ac.ir/en">Iran University of Science and Technology</a>, where I conducted my undergraduate project under the guidance of <a href="https://www.linkedin.com/in/vahid-yazdanpanah-83a57231/">Prof. Yazdanpanah</a>, focusing on <strong>semiconductor lasers</strong>.
 </div>
 
 <div style='text-align: justify;'>
