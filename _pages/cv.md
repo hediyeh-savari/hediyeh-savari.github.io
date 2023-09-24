@@ -61,21 +61,21 @@ TA-Ship Experiences
 Skills
 ======
 * Research and Development (R&D)
-* Device Fabrication and Microfabrication in a cleanroom environment.
-* **Nanomaterial Synthesis**, including silver nanowires (AgNW) and copper nanowires.
-* Thin-layer coating using various approaches such as DC sputtering, RF sputtering, Chemical Vapor Deposition (CVD), Physical * Vapor Deposition (PVD), Spin Coating, and Doctor Blade Coating.
-* Mask Design using CorelDRAW.
-* Wet Etching with various etchants.
-* Dry Etching.
-* Photolithography processes.
-* Proficient with Function Generators, Oscilloscopes, and Spectrum Analyzers.
+* Device Fabrication and Microfabrication in a **cleanroom** environment.
+* **Nanomaterial Synthesis**, including Silver Nanowire(**AgNW**), Cu Nanowire (**CuNW**), Zinc oxide Nanowire (**ZnONW**), Polyaniline (**PANI**).
+* Thin-layer coating using various approaches such as **DC sputtering**, **RF sputtering**, Chemical Vapor Deposition (**CVD**), Physical Vapor Deposition (**PVD**), Spin Coating, and Doctor Blade Coating.
+* Mask Design using **CorelDRAW**.
+* **Wet Etching** with various etchants.
+* **Dry Etching**.
+* **Photolithography** processes.
+* Proficient with **Function Generators**, **Oscilloscopes**, and Spectrum Analyzers.
 * Design & Simulation in COMSOL.
 * Familiar with multiple programming languages, including Python, C++, MATLAB, HTML, CSS, and JavaScript.
 
 
 * Research and Development (R&D)
 * Device Fabrication and Microfabrication in a **cleanroom** environment
-* **Nanomaterial Synthesis** such as silver nanowire(AgNW), copper nanowire
+* **Nanomaterial Synthesis** such as Silver Nanowire(AgNW), Cu Nanowire (CuNW), Zinc oxide Nanowire (ZnONW), Polyaniline (PANI) 
 * thin layer coating using various approaches such as DC sputtering, RF sputtering, Chemical Vapor Deposition (CVD), Physical Vapor Deposition (PVD), Spin Coating, Doctor Blade Coating
 * Mask Design in CorelDRAW
 * Wet Etching with various etchants
