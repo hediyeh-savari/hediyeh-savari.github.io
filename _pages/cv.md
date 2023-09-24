@@ -47,6 +47,12 @@ Research Experience
   * Duties included: Investigating the Structure, Properties and Behavior Prediction of GaAs Semiconductor Laser with 808(nm) Radiation Wavelength and Less than 5(nm) Bandwidth
   * Supervisor: [Prof. Yazdanpanah](https://www.linkedin.com/in/vahid-yazdanpanah-83a57231/)
 
+
+TA-Ship Experiences
+------
+* **Teaching Assistant at Advanced Micro and Nano Device Lab**
+  * Lecturer: [Alireza Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)----------2021-2022   
+
   
 Skills
 ======
@@ -103,10 +109,6 @@ Notable Courses
 <br>
 
 
-TA-Ship Experiences
-------
-* **Teaching Assistant at Advanced Micro and Nano Device Lab**
-  * Lecturer: [Alireza Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)----------2021-2022   
 
 
 Certificates 
