@@ -61,15 +61,15 @@ TA-Ship Experiences
 Skills
 ======
 * Research and Development (R&D)
-* Device Fabrication and Microfabrication in the cleanroom environment
-* Nanomaterial Synthesis such as silver nanowire(AgNW), copper nanowire
+* Device Fabrication and Microfabrication in the **cleanroom** environment
+* **Nanomaterial Synthesis** such as silver nanowire(AgNW), copper nanowire
 * thin layer coating using various approaches such as DC sputtering, RF sputtering, Chemical Vapor Deposition (CVD), Physical Vapor Deposition (PVD), Spin Coating, Doctor Blade Coating
 * Mask Design in CorelDRAW
 * Wet Etching with various etchants
 * Dry Etching
 * Photolithography process
-* Experienced with **Function Generator**, **Oscilloscope**, and **Spectrum Analyzer** devices.
-* Design & Simulation in **COMSOL**
+* Experienced with **Function Generator**, **Oscilloscope**, and **Spectrum Analyzer** devices
+* Design & Simulation in **COMSOL Multiphysics**
 * Familiar with multiple Programming languages including **Python**, **C++**, **MATLAB**, **HTML**, **CSS** , and **JavaScript**
 * 
 * Experienced with Quantum Computing concepts and tools such as **Pennylane** and **Qiskit**.
