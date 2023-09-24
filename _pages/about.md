@@ -63,24 +63,24 @@ Research Interests
 <body>
     <ul class="two-column-list">
         <li>&#x2022; MEMS/NEMS</li>
-        <li>* Flexible Sensors</li>
-        <li>* Wearable Sensors</li>
-        <li>* Multifunction Sensors</li>
-        <li>* Sensor Fabrication</li>
-        <li>* Flexible Electronics</li>
-        <li>* Smart Materials</li>
-        <li>* Disease Diagnosis</li>
-        <li>* Nanotechnology</li>
-        <li>* Nanoelectronics</li>
-        <li>* Wearable Electronics</li>
-        <li>* Printed Electronics</li>
-        <li>* Transparent Electronics</li>
-        <li>* Stretchable Electronics</li>
-        <li>* Artificial Intelligence</li>
-        <li>* Machine Learning</li>
-        <li>* Optimization</li>
-        <li>* Remote Sensing and Image Processing</li>
-        <li>* Human-Computer Interaction</li>
+        <li>&#x2022; Flexible Sensors</li>
+        <li>&#x2022; Wearable Sensors</li>
+        <li>&#x2022; Multifunction Sensors</li>
+        <li>&#x2022; Sensor Fabrication</li>
+        <li>&#x2022; Flexible Electronics</li>
+        <li>&#x2022; Smart Materials</li>
+        <li>&#x2022; Disease Diagnosis</li>
+        <li>&#x2022; Nanotechnology</li>
+        <li>&#x2022; Nanoelectronics</li>
+        <li>&#x2022; Wearable Electronics</li>
+        <li>&#x2022; Printed Electronics</li>
+        <li>&#x2022; Transparent Electronics</li>
+        <li>&#x2022; Stretchable Electronics</li>
+        <li>&#x2022; Artificial Intelligence</li>
+        <li>&#x2022; Machine Learning</li>
+        <li>&#x2022; Optimization</li>
+        <li>&#x2022; Remote Sensing and Image Processing</li>
+        <li>&#x2022; Human-Computer Interaction</li>
     </ul>
 </body>
 </html>
