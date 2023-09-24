@@ -14,7 +14,7 @@ redirect_from:
 </div>
 <br>
 <div style='text-align: justify;'>
-During my graduate studies, I had the privilege of working on an intriguing project under the supervision of 
+During my graduate studies at the <a href="https://ut.ac.ir/en">University of Tehran</a>, I had the privilege of working on an intriguing project under the supervision of 
   <a href="https://fnst.ut.ac.ir/en/~a.nikfarjam">Prof. Nikfarjam</a>. My research centered on <strong>multifunctional flexible pressure and strain sensors</strong>, contributing to the advancement of this critical technology.
 </div>
 <br>
