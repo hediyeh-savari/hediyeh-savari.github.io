@@ -11,7 +11,7 @@ redirect_from:
 <style>
     /* Apply margin to all paragraphs */
     p {
-        margin-bottom: 20px; /* Adjust the value to set the desired space */
+        margin-bottom: 40px; /* Adjust the value to set the desired space */
     }
 </style>
 
