@@ -22,7 +22,7 @@ redirect_from:
 </head>
 <body>
     <p class="justified-paragraph">
-      I am a Graduate Research Assistant specializing in <b>Microelectromechanical Systems (MEMS)</b> at the <a href="https://ut.ac.ir/en">University of Tehran</a>. My journey in academia began with my undergraduate studies in <b>Electrical and Electronic Engineering</b> at the <a href="https://www.iust.ac.ir/en">Iran University of Science and Technology</a>, where I conducted my undergraduate project under the guidance of <a href="https://www.linkedin.com/in/vahid-yazdanpanah-83a57231/">Prof. Yazdanpanah</a>, focusing on <b>semiconductor lasers</b>. kkkk
+      I am a Graduate Research Assistant specializing in <b>Microelectromechanical Systems (MEMS)</b> at the <a href="https://ut.ac.ir/en">University of Tehran</a>. My journey in academia began with my undergraduate studies in <b>Electrical and Electronic Engineering</b> at the <a href="https://www.iust.ac.ir/en">Iran University of Science and Technology</a>, where I conducted my undergraduate project under the guidance of <a href="https://www.linkedin.com/in/vahid-yazdanpanah-83a57231/">Prof. Yazdanpanah</a>, focusing on <b>semiconductor lasers</b>.
     </p>
 </body>
 </html>
