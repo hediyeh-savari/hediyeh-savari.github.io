@@ -50,6 +50,22 @@ I am now actively seeking a Ph.D. position in the field of MEMS or a related are
 Research Interests
 ------
 
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <ul class="two-column-list">
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+        <li>Item 4</li>
+        <li>Item 5</li>
+        <li>Item 6</li>
+    </ul>
+</body>
+</html>
 
 
 
