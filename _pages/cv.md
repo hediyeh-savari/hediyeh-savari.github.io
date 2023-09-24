@@ -71,6 +71,7 @@ Skills
 * Proficient with **Function Generators**, **Oscilloscopes**, and **Spectrum Analyzers** devices.
 * Design & Simulation in **COMSOL Multiphysics**.
 * Familiar with multiple programming languages, including **Python**, **C++**, **MATLAB**, **HTML**, **CSS**, and **JavaScript**.
+* Experienced with Adobe **Photoshop** and **Adobe Premiere Pro**.
 * Fitting well in Teams, Taking responsibility for my work, and Sharing knowledge. 
 
 
