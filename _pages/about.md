@@ -15,7 +15,7 @@ redirect_from:
 
 <div style='text-align: justify;'>
 During my graduate studies, I had the privilege of working on an intriguing project under the supervision of 
-  <a href="https://fnst.ut.ac.ir/en/~a.nikfarjam">Prof. Nikfarjam</a>. My research centered on **multifunctional flexible pressure and strain sensors**, contributing to the advancement of this critical technology.
+  <a href="https://fnst.ut.ac.ir/en/~a.nikfarjam">Prof. Nikfarjam</a>. My research centered on <strong>multifunctional flexible pressure and strain sensors</strong>, contributing to the advancement of this critical technology.
 </div>
 
 <div style='text-align: justify;'>
