@@ -48,7 +48,7 @@ Research Experience
 * May. 2018 - Sep. 2018: Undergraduate Project
   * Iran University of Science and Technology
   * Title: Investigating the Structure, Properties and Behavior Prediction of GaAs Semiconductor Laser with 808(nm) Radiation Wavelength and Less than 5(nm) Bandwidth
-  * Duties included: Investigating and Analyzing the Structure of **Quantum Well Lasers**, Modeling 808 nm Laser Structures Using Wolfram Mathematica Software and Silvaco Software, **Optimizing** the Bandwidth of Semiconductor Laser Output Spectrum, Optimal Configuration of ""GaAs/AlGaAs"" Semiconductor Incorporating a ""Single Quantum Well""
+  * Duties included: Investigating and Analyzing the Structure of **Quantum Well Lasers**, Modeling 808 nm Laser Structures Using Wolfram Mathematica Software and Silvaco Software, **Optimizing** the Bandwidth of Semiconductor Laser Output Spectrum, Optimal Configuration of **GaAs/AlGaAs** Semiconductor Incorporating a **Single Quantum Well**
 
 
 
