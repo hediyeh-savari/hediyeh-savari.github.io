@@ -78,12 +78,32 @@ Skills
 * Fitting well in Teams, Taking responsibility for my work, and Sharing knowledge. 
 
 
-<!--
+
 Language Skills
 ======
 * TOEFL
   * Overall: **98**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date: &nbsp;&nbsp;&nbsp;&nbsp;    510th September 2023  
---> 
+
+
+
+
+Language Skills
+------
+
+* **English** (Advanced)
+<br> 
+TOEFL iBT: Overall score: **98** (Reading: **24**, Listening: **27**, Speaking: **23**, Writing: **24**)
+<br>
+Test Date: September 10, 2023
+
+* **Persian** (Native)
+
+* **Arabic** (intermediate)
+
+* **German** (beginner)
+
+
+
 
   
 Publications
