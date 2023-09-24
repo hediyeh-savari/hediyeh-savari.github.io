@@ -53,7 +53,7 @@ Research Experience
 
 
 TA-Ship Experiences
-------
+======
 * **Teaching Assistant at Advanced Micro and Nano Device Lab**
   * Lecturer: [Alireza Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)----------2021-2022   
 
@@ -134,7 +134,7 @@ Issued Mar 2023
 
   
 Notable Courses
-------
+======
 * Modern Physics
 * Solid State Electronic Devices
 * Nanotechnology
