@@ -53,16 +53,36 @@ Research Interests
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <style>
+        /* Define a class for the two-column list */
+        .two-column-list {
+            columns: 2; /* Set the number of columns to 2 */
+            list-style-type: none; /* Remove default list bullets */
+            padding: 0; /* Remove default padding for the list */
+        }
+    </style>
 </head>
 <body>
     <ul class="two-column-list">
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-        <li>Item 4</li>
-        <li>Item 5</li>
-        <li>Item 6</li>
+        <li>MEMS/NEMS</li>
+        <li>Flexible Sensors</li>
+        <li>Wearable Sensors</li>
+        <li>Multifunction Sensors</li>
+        <li>Sensor Fabrication</li>
+        <li>Flexible Electronics</li>
+        <li>Smart Materials</li>
+        <li>Disease Diagnosis</li>
+        <li>Nanotechnology</li>
+        <li>Nanoelectronics</li>
+        <li>Wearable Electronics</li>
+        <li>Printed Electronics</li>
+        <li>Transparent Electronics</li>
+        <li>Stretchable Electronics</li>
+        <li>Artificial Intelligence</li>
+        <li>Machine Learning</li>
+        <li>Optimization</li>
+        <li>Remote Sensing and Image Processing</li>
+        <li>Human-Computer Interaction</li>
     </ul>
 </body>
 </html>
