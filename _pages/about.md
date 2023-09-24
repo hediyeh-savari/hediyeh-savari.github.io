@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Graduate Research Assistant specializing in Microelectromechanical Systems at the <a href="https://ut.ac.ir/en">University of Tehran</a>. My journey in academia began with my undergraduate studies in Electrical and Electronic Engineering at the <a href="https://www.iust.ac.ir/en">Iran University of Science and Technology</a>, where I conducted my undergraduate project under the guidance of Prof. Yazdan Panah, focusing on semiconductor lasers.
+I am a Graduate Research Assistant specializing in Microelectromechanical Systems at the <a href="https://ut.ac.ir/en">University of Tehran</a>. My journey in academia began with my undergraduate studies in Electrical and Electronic Engineering at the <a href="https://www.iust.ac.ir/en">Iran University of Science and Technology</a>, where I conducted my undergraduate project under the guidance of [Prof. Yazdanpanah](https://www.linkedin.com/in/vahid-yazdanpanah-83a57231/), focusing on semiconductor lasers.
 
 During my graduate studies, I had the privilege of working on an intriguing project under the mentorship of [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam). My research centered on multifunctional flexible pressure and strain sensors, contributing to the advancement of this critical technology.
 
