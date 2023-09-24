@@ -29,27 +29,27 @@ Research Experience
 ======
 * Feb. 2021 - Jul. 2022: Master Project
   * University of Tehran
-  * Title:
-  * Duties included: Design and fabrication of flexible substrates, electrodes, sensing elements, synthesis of conductive nanocomposites, conducting strain and pressure stimuli tests, analyzing the response of sensors
-  * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
+  * **Title**: Design and Fabrication of a Flexible Strain and Pressure Sensor based on Conductive Nanocomposites
+  * **Duties included**: Design and fabrication of flexible substrates, electrodes, sensing elements, synthesis of conductive nanocomposites, conducting strain and pressure stimuli tests, analyzing the response of sensors
+  * **Supervisor**: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 
 * May. 2021 - Sep. 2021: Research Assistant
   * University of Tehran
-  * Title:
-  * Duties included: Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates
-  * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
+  * **Title**:
+  * **Duties included**: Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates
+  * **Supervisor**: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 
 * Feb. 2019 - Feb. 2020: Research Assistant
   * University of Tehran
-  * Title:
-  * Duties included: Synthesis of Ultra-Thin Long Silver Nanowires (AgNWs) to Create Flexible, Transparent, and Conductive Electrodes
-  * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
+  * **Title**:
+  * **Duties included**: Synthesis of Ultra-Thin Long Silver Nanowires (AgNWs) to Create Flexible, Transparent, and Conductive Electrodes
+  * **Supervisor**: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 
 * May. 2018 - Sep. 2018: Undergraduate Project
   * Iran University of Science and Technology
-  * Title: Investigating the Structure, Properties and Behavior Prediction of GaAs Semiconductor Laser with 808(nm) Radiation Wavelength and Less than 5(nm) Bandwidth
-  * Duties included: Investigating and Analyzing the Structure of Quantum Well Lasers, Modeling 808 nm Laser Structures Using Wolfram Mathematica Software and Silvaco Software,
-  * Supervisor: [Prof. Yazdanpanah](https://www.linkedin.com/in/vahid-yazdanpanah-83a57231/)
+  * **Title**: Investigating the Structure, Properties and Behavior Prediction of GaAs Semiconductor Laser with 808(nm) Radiation Wavelength and Less than 5(nm) Bandwidth
+  * **Duties included**: Investigating and Analyzing the Structure of Quantum Well Lasers, Modeling 808 nm Laser Structures Using Wolfram Mathematica Software and Silvaco Software, Optimizing the Bandwidth of Semiconductor Laser Output Spectrum, 
+  * **Supervisor**: [Prof. Yazdanpanah](https://www.linkedin.com/in/vahid-yazdanpanah-83a57231/)
 
 
 TA-Ship Experiences
