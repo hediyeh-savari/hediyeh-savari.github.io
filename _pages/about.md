@@ -11,7 +11,6 @@ redirect_from:
 
 
 
-<!DOCTYPE html>
 <html>
 <head>
     <style>
@@ -22,7 +21,9 @@ redirect_from:
     </style>
 </head>
 <body>
-    <p class="justified-paragraph">I am a Graduate Research Assistant specializing in **Microelectromechanical Systems (MEMS)** at the <a href="https://ut.ac.ir/en">University of Tehran</a>. My journey in academia began with my undergraduate studies in **Electrical and Electronic Engineering** at the <a href="https://www.iust.ac.ir/en">Iran University of Science and Technology</a>, where I conducted my undergraduate project under the guidance of [Prof. Yazdanpanah](https://www.linkedin.com/in/vahid-yazdanpanah-83a57231/), focusing on **semiconductor lasers**.</p>
+    <p class="justified-paragraph">
+      I am a Graduate Research Assistant specializing in **Microelectromechanical Systems (MEMS)** at the <a href="https://ut.ac.ir/en">University of Tehran</a>. My journey in academia began with my undergraduate studies in **Electrical and Electronic Engineering** at the <a href="https://www.iust.ac.ir/en">Iran University of Science and Technology</a>, where I conducted my undergraduate project under the guidance of [Prof. Yazdanpanah](https://www.linkedin.com/in/vahid-yazdanpanah-83a57231/), focusing on **semiconductor lasers**.
+    </p>
 </body>
 </html>
 
