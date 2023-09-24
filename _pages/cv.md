@@ -93,21 +93,6 @@ conductive nanocomposites,” 2023. under preparation
   {% endfor %}</ul>
 --> 
 
-  
-Notable Courses
-------
-* Modern Physics
-* Solid State Electronic Devices
-* Nanotechnology
-* Nanobiotechnology
-* Theory and Technology of Semiconductor Devices
-* Nanomaterial Characterization Techniques
-* RF-MEMS
-* Sensors and Micro-machining
-* Special Topics in MEMS
-* Linear Control Systems
-<br>
-
 
 
 
@@ -127,6 +112,27 @@ Issued May 2023
 Coursera, Credential ID: GWSLB43EDL8A
 <br> 
 Issued Mar 2023
+
+
+
+
+
+  
+Notable Courses
+------
+* Modern Physics
+* Solid State Electronic Devices
+* Nanotechnology
+* Nanobiotechnology
+* Theory and Technology of Semiconductor Devices
+* Nanomaterial Characterization Techniques
+* RF-MEMS
+* Sensors and Micro-machining
+* Special Topics in MEMS
+* Linear Control Systems
+<br>
+
+
 
 
 
