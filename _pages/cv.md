@@ -1,4 +1,4 @@
-![image](https://github.com/hediyeh-savari/hediyeh-savari.github.io/assets/127428820/105e0752-ebbd-4fbd-8d00-03c83f9a078b)---
+
 layout: archive
 title: "CV"
 permalink: /cv/
