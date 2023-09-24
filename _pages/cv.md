@@ -60,6 +60,12 @@ TA-Ship Experiences
   
 Skills
 ======
+* Research and Development (R\&D),
+* Device Fabrication and Microfabrication in the cleanroom environment
+* Nanomaterial Synthesis such as silver nanowire(AgNW), copper nanowire
+* thin layer coating using various approaches such as DC sputtering, RF sputtering, Chemical Vapor Deposition (CVD), Physical Vapor Deposition (PVD), Spin Coating, Doctor Blade Coating
+* Photolithography process including Mask Design, Wet and Dry Etching
+* 
 * Design & Simulation in **HFSS**, **CST**, **ADS**, **PsPice** and **COMSOL**.
 * Experienced with **Function Generator**, **Oscilloscope**, **Network Analyzer**, and **Spectrum Analyzer** devices.
 * Familiar with **STM32**, **Arduino**, **NRF24L**, and **ESP8266** modules. 
