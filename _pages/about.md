@@ -49,6 +49,13 @@ I am now actively seeking a Ph.D. position in the field of MEMS or a related are
 
 Research Interests
 ------
+
+<div class="row">
+  <div class="column"></div>
+  <div class="column"></div>
+</div>
+
+
 * MEMS/NEMS
 * Flexible Sensors 
 * Wearable Sensors 
