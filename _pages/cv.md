@@ -1,4 +1,4 @@
----
+![image](https://github.com/hediyeh-savari/hediyeh-savari.github.io/assets/127428820/105e0752-ebbd-4fbd-8d00-03c83f9a078b)---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -63,39 +63,14 @@ Skills
 * Research and Development (R&D)
 * Device Fabrication and Microfabrication in a **cleanroom** environment.
 * **Nanomaterial Synthesis**, including Silver Nanowire(**AgNW**), Cu Nanowire (**CuNW**), Zinc oxide Nanowire (**ZnONW**), Polyaniline (**PANI**).
-* Thin-layer coating using various approaches such as **DC sputtering**, **RF sputtering**, Chemical Vapor Deposition (**CVD**), Physical Vapor Deposition (**PVD**), Spin Coating, and Doctor Blade Coating.
-* Mask Design using **CorelDRAW**.
+* Thin-layer coating using various approaches such as **DC sputtering**, **RF sputtering**, Chemical Vapor Deposition (**CVD**), Physical Vapor Deposition (**PVD**), **Spin Coating**, and **Doctor Blade Coating**.
+* **Mask Design** using **CorelDRAW**.
 * **Wet Etching** with various etchants.
 * **Dry Etching**.
 * **Photolithography** processes.
-* Proficient with **Function Generators**, **Oscilloscopes**, and Spectrum Analyzers.
+* Proficient with **Function Generators**, **Oscilloscopes**, and **Spectrum Analyzers** devices.
 * Design & Simulation in **COMSOL Multiphysics**.
 * Familiar with multiple programming languages, including **Python**, **C++**, **MATLAB**, **HTML**, **CSS**, and **JavaScript**.
-
-
-* Research and Development (R&D)
-* Device Fabrication and Microfabrication in a **cleanroom** environment
-* **Nanomaterial Synthesis** such as Silver Nanowire(AgNW), Cu Nanowire (CuNW), Zinc oxide Nanowire (ZnONW), Polyaniline (PANI) 
-* thin layer coating using various approaches such as DC sputtering, RF sputtering, Chemical Vapor Deposition (CVD), Physical Vapor Deposition (PVD), Spin Coating, Doctor Blade Coating
-* Mask Design in CorelDRAW
-* Wet Etching with various etchants
-* Dry Etching
-* Photolithography process
-* Experienced with **Function Generator**, **Oscilloscope**, and **Spectrum Analyzer** devices
-* Design & Simulation in **COMSOL Multiphysics**
-* Familiar with multiple Programming languages including **Python**, **C++**, **MATLAB**, **HTML**, **CSS** , and **JavaScript**
-* 
-* Experienced with Quantum Computing concepts and tools such as **Pennylane** and **Qiskit**.
-* Utilized various Numerical Methods and Frameworks to find optimal results consisting of **ML**,**Numerical Integration/Differentiation**, **Root-Finding Methods**, **FDTD**, **Genetic/PSO  Algo.**, and **Convex Optimization**.
-* Experienced with multiple Operating Systems (OS):
-  * Windows 7, 8.1, 10
-  * Linux Debian like CentOS, Ubuntu, and Kali
-  * Linux Arch like Manjaro and Black-Arch
-* Configured & Implemented Virtual Environments like **VMware Workstation** & **Docker**.
-* Configured Web-servers including **NGINX** and **Apache** and **MQTT** related Broker (**Mosquitto**) and Client (**Paho-MQTT**).
-* Experienced with Network Protocols and devices like **Cisco Routers/Switches** and worked with Network troubleshooting softwares like **Tshark**, **Wireshark**, and **CICFlowMeter**.
-* Familiar with Symmetric and Asymmetric Encryption based on **RSA** and **ECC**.
-* Certified in Web-application testing using [WSTG v4.2](https://owasp.org/www-project-web-security-testing-guide/v42/).
 * Fitting well in Teams, Taking responsibility for my work, and Sharing knowledge. 
 
 
