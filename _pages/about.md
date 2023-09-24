@@ -62,7 +62,7 @@ Research Interests
 </head>
 <body>
     <ul class="two-column-list">
-        <li>* MEMS/NEMS</li>
+        <li>&#x2022; MEMS/NEMS</li>
         <li>* Flexible Sensors</li>
         <li>* Wearable Sensors</li>
         <li>* Multifunction Sensors</li>
