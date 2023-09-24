@@ -35,14 +35,14 @@ Research Experience
 
 * May. 2021 - Sep. 2021: Research Assistant
   * University of Tehran
-  * **Title**:
-  * **Duties included**: Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates
+  * **Title**: Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates
+  * **Duties included**: 
   * **Supervisor**: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 
 * Feb. 2019 - Feb. 2020: Research Assistant
   * University of Tehran
-  * **Title**:
-  * **Duties included**: Synthesis of Ultra-Thin Long **Silver Nanowires (AgNWs)** to Create **Flexible, Transparent, and Conductive Electrodes**
+  * **Title**: Synthesis of Ultra-Thin Long Silver Nanowires (AgNWs) to Create Flexible, Transparent, and Conductive Electrodes
+  * **Duties included**: 
   * **Supervisor**: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 
 * May. 2018 - Sep. 2018: Undergraduate Project
