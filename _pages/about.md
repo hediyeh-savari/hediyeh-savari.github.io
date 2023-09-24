@@ -49,8 +49,6 @@ I am now actively seeking a Ph.D. position in the field of MEMS or a related are
 
 Research Interests
 ------
-
-<!DOCTYPE html>
 <html>
 <head>
     <style>
@@ -64,25 +62,25 @@ Research Interests
 </head>
 <body>
     <ul class="two-column-list">
-        <li>MEMS/NEMS</li>
-        <li>Flexible Sensors</li>
-        <li>Wearable Sensors</li>
-        <li>Multifunction Sensors</li>
-        <li>Sensor Fabrication</li>
-        <li>Flexible Electronics</li>
-        <li>Smart Materials</li>
-        <li>Disease Diagnosis</li>
-        <li>Nanotechnology</li>
-        <li>Nanoelectronics</li>
-        <li>Wearable Electronics</li>
-        <li>Printed Electronics</li>
-        <li>Transparent Electronics</li>
-        <li>Stretchable Electronics</li>
-        <li>Artificial Intelligence</li>
-        <li>Machine Learning</li>
-        <li>Optimization</li>
-        <li>Remote Sensing and Image Processing</li>
-        <li>Human-Computer Interaction</li>
+        <li>* MEMS/NEMS</li>
+        <li>* Flexible Sensors</li>
+        <li>* Wearable Sensors</li>
+        <li>* Multifunction Sensors</li>
+        <li>* Sensor Fabrication</li>
+        <li>* Flexible Electronics</li>
+        <li>* Smart Materials</li>
+        <li>* Disease Diagnosis</li>
+        <li>* Nanotechnology</li>
+        <li>* Nanoelectronics</li>
+        <li>* Wearable Electronics</li>
+        <li>* Printed Electronics</li>
+        <li>* Transparent Electronics</li>
+        <li>* Stretchable Electronics</li>
+        <li>* Artificial Intelligence</li>
+        <li>* Machine Learning</li>
+        <li>* Optimization</li>
+        <li>* Remote Sensing and Image Processing</li>
+        <li>* Human-Computer Interaction</li>
     </ul>
 </body>
 </html>
