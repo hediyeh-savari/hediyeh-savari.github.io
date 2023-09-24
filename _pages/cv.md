@@ -69,9 +69,11 @@ Skills
 * **Dry Etching**.
 * **Photolithography** processes.
 * Proficient with **Function Generators**, **Oscilloscopes**, and **Spectrum Analyzers** devices.
-* Design & Simulation in **COMSOL Multiphysics**.
+* Design & Simulation in **COMSOL Multiphysics** and **Silvaco**.
 * Familiar with multiple programming languages, including **Python**, **C++**, **MATLAB**, **HTML**, **CSS**, and **JavaScript**.
 * Experienced with Adobe **Photoshop** and Adobe **Premiere** Pro.
+* Adept with **Microsoft Office** and **LaTeX**.
+
 * Fitting well in Teams, Taking responsibility for my work, and Sharing knowledge. 
 
 
