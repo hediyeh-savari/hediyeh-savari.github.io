@@ -18,7 +18,7 @@ During my graduate studies, I had the privilege of working on an intriguing proj
 </div>
 
 <div style='text-align: justify;'>
-My research interests have cultivated a deep passion for various facets of engineering, particularly in **MEMS technology**, **sensor fabrication**, **optimization**, **remote sensing**, **machine learning**, and **artificial intelligence**. I firmly believe that these innovative technologies hold the potential to address complex global challenges and improve the quality of human life on a substantial scale. My aspiration is to be a part of these transformative endeavors.
+My research interests have cultivated a deep passion for various facets of engineering, particularly in <strong>MEMS technology</strong>, <strong>sensor fabrication</strong>, <strong>optimization</strong>, <strong>remote sensing</strong>, <strong>machine learning</strong>, and <strong>artificial intelligence</strong>. I firmly believe that these innovative technologies hold the potential to address complex global challenges and improve the quality of human life on a substantial scale. My aspiration is to be a part of these transformative endeavors.
 </div>
 
 <div style='text-align: justify;'>
@@ -30,7 +30,7 @@ In addition to my academic pursuits, I possess strong interpersonal skills, allo
 </div>
 
 <div style='text-align: justify;'>
-Furthermore, I excel in critical thinking, problem-solving, and decision-making, attributes that position me as a valuable asset to scientific research groups. Based on my academic achievements, professional skills, and unwavering commitment, I am confident that I am a strong candidate for **Ph.D. programs**.
+Furthermore, I excel in critical thinking, problem-solving, and decision-making, attributes that position me as a valuable asset to scientific research groups. Based on my academic achievements, professional skills, and unwavering commitment, I am confident that I am a strong candidate for <strong>Ph.D. programs</strong>.
 </div>
 
 <div style='text-align: justify;'>
