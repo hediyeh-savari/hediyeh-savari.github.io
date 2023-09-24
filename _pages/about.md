@@ -86,7 +86,7 @@ Research Interests
 </html>
 
 
-
+<!==
 * MEMS/NEMS
 * Flexible Sensors 
 * Wearable Sensors 
@@ -106,6 +106,7 @@ Research Interests
 * Optimization
 * Remote Sensing and Image Processing
 * Human-Computer Interaction
+  ==>
 
 
 Tools & Softwares
