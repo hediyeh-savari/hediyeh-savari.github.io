@@ -175,7 +175,7 @@ Tools & Softwares
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Physical Vapor Deposition (PVD)</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">HTML</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">HTML, CSS, JavaScript</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Creativity</td>
     </tr>
     <tr>
