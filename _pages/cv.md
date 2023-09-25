@@ -78,6 +78,30 @@ Skills
 * Fitting well in Teams, Taking responsibility for my work, and Sharing knowledge. 
 
 
+Soft Skills
+======
+Communication
+Collaboration
+Problem-Solving
+Critical Thinking
+Decision-Making
+Work Ethic
+Creativity
+Self-Motivation
+Public Speaking
+Active Listening
+Adaptability
+Emotional Intelligence
+Cultural Sensitivity
+Leadership
+Conflict Management
+Professional Attitude
+Time Management
+Teamwork
+Networking
+
+
+
 
 Language Skills
 ======
