@@ -180,17 +180,17 @@ Tools & Softwares
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Spin Coating</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Wolfram Mathematica</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Self-Motivation</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Doctor Blade Coating</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">LaTeX</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Public Speaking</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Mask Design</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Microsoft Office</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Active Listening</td>
     </tr>
     <tr>
@@ -225,17 +225,17 @@ Tools & Softwares
     </tr>
      <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Wolfram Mathematica</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Time Management</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">LaTeX</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Teamwork</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Microsoft Office</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Networking</td>
     </tr>
   </tbody>
