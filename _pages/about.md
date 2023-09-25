@@ -150,32 +150,32 @@ Tools & Softwares
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Device Fabrication</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Silvaco</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Collaboration</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Microfabrication</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">CorelDRAW</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Problem-Solving</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Nanomaterial Synthesis</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Python</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Critical Thinking</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">DC sputtering and RF sputtering</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Matlab</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Decision-Making</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Chemical Vapor Deposition (CVD)</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">C++</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Work Ethic</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Physical Vapor Deposition (PVD)</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">HTML</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Creativity</td>
     </tr>
     <tr>
@@ -185,12 +185,12 @@ Tools & Softwares
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Doctor Blade Coating</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Silvaco</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Public Speaking</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Mask Design</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">CorelDRAW</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Active Listening</td>
     </tr>
     <tr>
@@ -205,22 +205,22 @@ Tools & Softwares
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Python</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Cultural Sensitivity</td>
     </tr>
      <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Matlab</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Leadership</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">C++</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Conflict Management</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">HTML</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Professional Attitude</td>
     </tr>
      <tr>
@@ -240,6 +240,8 @@ Tools & Softwares
     </tr>
   </tbody>
 </table>
+
+
 
 
 
