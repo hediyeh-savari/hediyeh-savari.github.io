@@ -60,7 +60,7 @@ TA-Ship Experiences
   
 Skills
 ======
-* Research and Development (R&D)
+* Research and Development (**R&D**)
 * Device Fabrication and Microfabrication in a **cleanroom** environment.
 * **Nanomaterial Synthesis**, including Silver Nanowire(**AgNW**), Cu Nanowire (**CuNW**), Zinc oxide Nanowire (**ZnONW**), Polyaniline (**PANI**).
 * Thin-layer coating using various approaches such as **DC sputtering**, **RF sputtering**, Chemical Vapor Deposition (**CVD**), Physical Vapor Deposition (**PVD**), **Spin Coating**, and **Doctor Blade Coating**.
