@@ -206,12 +206,12 @@ Tools & Softwares
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Cultural Sensitivity</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
     </tr>
      <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Leadership</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
