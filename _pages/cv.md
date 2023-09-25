@@ -73,7 +73,7 @@ Skills
 * Familiar with multiple programming languages, including **Python**, **C++**, **MATLAB**, **HTML**, **CSS**, and **JavaScript**.
 * Experienced with Adobe **Photoshop** and Adobe **Premiere** Pro.
 * Adept with **Microsoft Office** and **LaTeX**.
-
+* Adept with multiple **Characterization** including Scanning Electron Microscopy (**SEM**), Transmission Electron Microscopy (**TEM**) analysis, X-ray Diffraction (**XRD**), Energy Dispersive X-Ray Analysis (**EDX**), **UV/Vis** Spectroscopy, **FTIR** Spectroscopy, Scanning Tunneling Microscopy (**STM**),
 * Fitting well in Teams, Taking responsibility for my work, and Sharing knowledge. 
 
 
