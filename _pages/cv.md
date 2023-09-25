@@ -80,9 +80,9 @@ Professional Skills
 
 Soft Skills
 ======
+<div style='text-align: justify;'>
 Communication, Collaboration, Problem-Solving, Critical Thinking, Decision-Making, Work Ethic, Creativity, Self-Motivation, Public Speaking, Active Listening, Adaptability, Emotional Intelligence, Cultural Sensitivity, Leadership, Conflict Management, Professional Attitude, Time Management, Teamwork, Networking
-
-
+</div>
 
 
 Language Skills
