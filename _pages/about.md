@@ -134,6 +134,114 @@ Research Interests
 Tools & Softwares
 ------
 
+<table class="table table-bordered table-striped">
+  <thead>
+    <tr>
+      <th style="text-align: center; background-color: #D6EEEE; font-size:18px">Laboratory Skills</th>
+      <th style="text-align: center; background-color: #D6EEEE; font-size:18px">Software Skills</th>
+      <th style="text-align: center; background-color: #D6EEEE; font-size:18px">Soft Skills</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Research and Development (R&D)</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">COMSOL Multiphysics</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Communication</td>
+    </tr>
+    <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Device Fabrication</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Collaboration</td>
+    </tr>
+    <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Microfabrication</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Problem-Solving</td>
+    </tr>
+    <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Nanomaterial Synthesis</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Critical Thinking</td>
+    </tr>
+    <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">DC sputtering and RF sputtering</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Decision-Making</td>
+    </tr>
+    <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Chemical Vapor Deposition (CVD)</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Work Ethic</td>
+    </tr>
+    <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Physical Vapor Deposition (PVD)</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Creativity</td>
+    </tr>
+    <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Spin Coating</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Self-Motivation</td>
+    </tr>
+    <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Doctor Blade Coating</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Silvaco</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Public Speaking</td>
+    </tr>
+    <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Mask Design</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">CorelDRAW</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Active Listening</td>
+    </tr>
+    <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Lithography</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Photoshop</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Adaptability</td>
+    </tr>
+     <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Wet and Dry Etching</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Premiere</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Emotional Intelligence</td>
+    </tr>
+    <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Python</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Cultural Sensitivity</td>
+    </tr>
+     <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Matlab</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Leadership</td>
+    </tr>
+    <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">C++</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Conflict Management</td>
+    </tr>
+    <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">HTML</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Professional Attitude</td>
+    </tr>
+     <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Wolfram Mathematica</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Time Management</td>
+    </tr>
+    <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">LaTeX</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Teamwork</td>
+    </tr>
+    <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Microsoft Office</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Networking</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 <!--
 <table class="table table-bordered table-striped">
