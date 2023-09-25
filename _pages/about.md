@@ -171,7 +171,7 @@ Tools & Softwares
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Chemical Vapor Deposition (CVD)</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">C++</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Teamwork</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Physical Vapor Deposition (PVD)</td>
@@ -201,37 +201,37 @@ Tools & Softwares
      <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Wet and Dry Etching</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Premiere</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Emotional Intelligence</td>
-    </tr>
-    <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-    </tr>
-     <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-    </tr>
-    <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-    </tr>
-    <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-    </tr>
-     <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Time Management</td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Teamwork</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+    </tr>
+     <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+    </tr>
+    <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+    </tr>
+    <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+    </tr>
+     <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+    </tr>
+    <tr>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
