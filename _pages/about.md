@@ -171,7 +171,7 @@ Tools & Softwares
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Chemical Vapor Deposition (CVD)</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">C++</td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Work Ethic</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Physical Vapor Deposition (PVD)</td>
@@ -216,12 +216,12 @@ Tools & Softwares
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Conflict Management</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
     </tr>
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Professional Attitude</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
     </tr>
      <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
@@ -236,7 +236,7 @@ Tools & Softwares
     <tr>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Networking</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
     </tr>
   </tbody>
 </table>
