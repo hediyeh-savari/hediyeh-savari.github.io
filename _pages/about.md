@@ -133,6 +133,9 @@ Research Interests
 
 Tools & Softwares
 ------
+
+
+<!--
 <table class="table table-bordered table-striped">
   <thead>
     <tr>
@@ -240,7 +243,7 @@ Tools & Softwares
   </tbody>
 </table>
 
-
+-->
 
 
 **Hobbies**
