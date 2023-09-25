@@ -131,7 +131,7 @@ Research Interests
   -->
 
 
-Tools & Softwares
+Skills
 ------
 
 <table class="table table-bordered table-striped">
