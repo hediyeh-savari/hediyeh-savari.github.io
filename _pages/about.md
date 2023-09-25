@@ -203,41 +203,6 @@ Tools & Softwares
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Premiere</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Time Management</td>
     </tr>
-    <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-    </tr>
-     <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-    </tr>
-    <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-    </tr>
-    <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-    </tr>
-     <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-    </tr>
-    <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-    </tr>
-    <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8"></td>
-    </tr>
   </tbody>
 </table>
 
