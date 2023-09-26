@@ -47,8 +47,15 @@ Research Experience
   * Duties included: Examining various methods for **synthesizing silver nanowires** to achieve a high aspect ratio (ultra-thin, long AgNWs); Investigating approaches to **weld AgNWs** to enhance their conductivity and reshape the network; **Patterning AgNWs** in different configurations to create various patterns; and Exploring methods to **simultaneously improve transparency** and **conductivity**.
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 <br>
-<br> 
-* May. 2018 - Sep. 2018: Undergraduate Project
+<br>
+* May 2019 - Jul. 2019: Research Assistant
+  * University of Tehran
+  * Title: Synthesis of Heater
+  * Duties included: Chrome coating by PVD method, Gold layering using DC Sputtering, Gold layer lithography, Gold etching, Chrome layer lithography, Chrome etching.
+  * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
+<br>
+<br>
+* May 2018 - Sep. 2018: Undergraduate Project
   * Iran University of Science and Technology
   * Title: Investigating the Structure, Properties and Behavior Prediction of GaAs Semiconductor Laser with 808(nm) Radiation Wavelength and Less than 5(nm) Bandwidth
   * Duties included: Investigating and analyzing the structure of **Quantum Well Lasers**; Modeling 808 nm Laser **Structures** using **Wolfram Mathematica** Software and **Silvaco** Software; **Optimizing** the **bandwidth** of **semiconductor laser** output spectrum; Examining the influence of various laser **characteristics**, including the **active region** width, **waveguide layer** width, and **threshold current density**, on laser bandwidth.
