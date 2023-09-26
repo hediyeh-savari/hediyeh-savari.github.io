@@ -123,6 +123,7 @@ Research Interests
 * Printed Electronics
 * Transparent Electronics
 * Stretchable Electronics
+* Electronic Skin
 * Artificial Intelligence
 * Machine Learning
 * Optimization
