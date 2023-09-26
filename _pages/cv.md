@@ -37,7 +37,7 @@ Research Experience
 * May. 2021 - Sep. 2021: Research Assistant
   * University of Tehran
   * Title: Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates
-  * Duties included: Examining various materials to select the most suitable one for use as the electrode; Investigating different materials for potential use as a flexible, transparent, and stretchable substrate; Exploring various coating methods to create precise electrode patterns; Assessing the durability, stability, and conductivity of fabricated flexible electrodes and optimizing their characteristics.
+  * Duties included: Examining various materials to select the **most suitable** one for use as the **electrode**; Investigating different materials for potential use as a **flexible, transparent, and stretchable substrate**; Exploring various coating methods to **create precise electrode patterns**; Assessing the **durability**, **stability**, and **conductivity** of fabricated flexible electrodes and **optimizing** their **characteristics**.
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 <br>
 <br> 
