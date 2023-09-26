@@ -104,7 +104,7 @@ Research Interests
         <li>&#x2022; Machine Learning</li>
         <li>&#x2022; Optimization</li>
         <li>&#x2022; Remote Sensing and Image Processing</li>
-        <li>&#x2022; Human-Computer Interaction</li>
+        <li>&#x2022; Human-Machine Interactions</li>
     </ul>
 </body>
 </html>
