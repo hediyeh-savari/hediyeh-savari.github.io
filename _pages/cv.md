@@ -51,7 +51,7 @@ Research Experience
 * May. 2018 - Sep. 2018: Undergraduate Project
   * Iran University of Science and Technology
   * Title: Investigating the Structure, Properties and Behavior Prediction of GaAs Semiconductor Laser with 808(nm) Radiation Wavelength and Less than 5(nm) Bandwidth
-  * Duties included: Investigating and analyzing the structure of **Quantum Well Lasers**; **Modeling** 808 nm Laser **Structures** using **Wolfram Mathematica** Software and **Silvaco** Software; **Optimizing** the **bandwidth** of **semiconductor laser** output spectrum; Examining the influence of various laser **characteristics**, including the **active region** width, **waveguide layer** width, and **threshold current density**, on laser bandwidth.
+  * Duties included: Investigating and analyzing the structure of **Quantum Well Lasers**; Modeling 808 nm Laser **Structures** using **Wolfram Mathematica** Software and **Silvaco** Software; **Optimizing** the **bandwidth** of **semiconductor laser** output spectrum; Examining the influence of various laser **characteristics**, including the **active region** width, **waveguide layer** width, and **threshold current density**, on laser bandwidth.
   * Supervisor: [Prof. Yazdanpanah](https://www.linkedin.com/in/vahid-yazdanpanah-83a57231/)
 
 
