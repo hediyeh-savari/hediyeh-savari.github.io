@@ -32,11 +32,12 @@ Research Experience
   * Title: Design and Fabrication of a Flexible Strain and Pressure Sensor based on Conductive Nanocomposites
   * Duties included: Polyaniline (PANI) synthesis, Thermoplastic polyurethane (TPU) Sheet synthesis, Investigating the hydrophobicity of the substrateو Design and Fabrication of silver electrodes on flexible substrates, Synthesis of FMWCNT/PANI nanocomposite, Performing Strain and Pressure Stimuli Tests, Optimizing sensor performance, Analyzing sensor responses.
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
+<br>
 <br> 
 * May. 2021 - Sep. 2021: Research Assistant
   * University of Tehran
   * Title: Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates
-  * Duties included: 
+  * Duties included: Examining the types of materials to choose the type of electrode
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 <br> 
 * Feb. 2019 - Feb. 2020: Research Assistant
