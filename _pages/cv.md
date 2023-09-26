@@ -30,14 +30,14 @@ Research Experience
 * Feb. 2021 - Jul. 2022: Master Project
   * University of Tehran
   * Title: Design and Fabrication of a Flexible Strain and Pressure Sensor based on Conductive Nanocomposites
-  * Duties included: Synthesizing Polyaniline (PANI), Synthesizing Thermoplastic polyurethane (TPU) Sheets, Investigating the hydrophobicity of different substrates, Designing and fabricating silver electrodes on flexible substrates, Synthesizing the FMWCNT/PANI nanocomposite, Conducting Strain and Pressure Stimulus Tests, Optimizing sensor performance, Analyzing sensor responses.
+  * Duties included: Synthesizing Polyaniline (PANI); Synthesizing Thermoplastic polyurethane (TPU) Sheets; Investigating the hydrophobicity of different substrates; Designing and fabricating silver electrodes on flexible substrates; Synthesizing the FMWCNT/PANI nanocomposite; Conducting Strain and Pressure Stimulus Tests; Optimizing sensor performance; Analyzing sensor responses.
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 <br>
 <br> 
 * May. 2021 - Sep. 2021: Research Assistant
   * University of Tehran
   * Title: Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates
-  * Duties included: Examining various materials to select the most suitable one for use as the electrode, Investigating different materials for potential use as a flexible, transparent, and stretchable substrate, Exploring various coating methods to create precise electrode patterns, Assessing the durability, stability, and conductivity of fabricated flexible electrodes and optimizing their characteristics.
+  * Duties included: Examining various materials to select the most suitable one for use as the electrode; Investigating different materials for potential use as a flexible, transparent, and stretchable substrate; Exploring various coating methods to create precise electrode patterns; Assessing the durability, stability, and conductivity of fabricated flexible electrodes and optimizing their characteristics.
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 <br>
 <br> 
