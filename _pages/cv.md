@@ -51,7 +51,7 @@ Research Experience
 * May 2019 - Jul. 2019: Research Assistant
   * University of Tehran
   * Title: Design and Fabrication of a Nickel-Based Micro-Heater
-  * Duties included: Designing photolithography masks; Designing and fabrication of a **micro-interdigitated electrode pattern**; Performing RCA-1 cleaning process; Applying **chrome** and **nickel** coatings using the **PVD method**, **gold** coating through the **DC sputtering** technique; and Performing **photolithography** and **etching** on the gold, chrome, and nickel layers.
+  * Duties included: Designing photolithography masks; Designing and fabrication of a **micro-interdigitated electrode pattern**; Performing RCA-1 cleaning process; Applying **chrome** and **nickel** coatings using the **PVD method**, **gold** coating through the **DC sputtering** technique; **Spin-coating** of **Photoresists**; and Performing **photolithography** and **etching** on the gold, chrome, and nickel layers.
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 <br>
 <br>
