@@ -50,8 +50,9 @@ Research Experience
 <br>
 * May 2019 - Jul. 2019: Research Assistant
   * University of Tehran
-  * Title: Synthesis of Heater
-  * Duties included: Chrome coating by PVD method, Gold layering using DC Sputtering, Gold layer lithography, Gold etching, Chrome layer lithography, Chrome etching.
+  * Title: Design and fabrication of Copper based heater
+  * Duties included: Design lithography Mask, skim of finger interdigitate for cupper heater sensing element,
+Cleaning 4 steps of substrates, chrome coating by PVD method, Gold coating using DC Sputtering, photolithography an etching of gold layer, proceeding by chrome photolithography and etching, cupper coating, photolithography, and etching.
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 <br>
 <br>
