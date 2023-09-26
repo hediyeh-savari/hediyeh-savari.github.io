@@ -51,7 +51,7 @@ Research Experience
 * May 2019 - Jul. 2019: Research Assistant
   * University of Tehran
   * Title: Design and fabrication of Copper based heater
-  * Duties included: Designing lithography masks; Creating a finger interdigitate pattern for copper heater sensing elements; Performing a four-step substrate cleaning process; Applying chrome and copper coatings using the PVD method, gold coating through the DC sputtering technique; and Performing photolithography and etching on the gold, chrome, and copper layers.
+  * Duties included: Designing photolithography masks; Creating a **finger interdigitate pattern** for **copper heater** sensing elements; Performing a four-step substrate cleaning process; Applying chrome and copper coatings using the PVD method, gold coating through the DC sputtering technique; and Performing photolithography and etching on the gold, chrome, and copper layers.
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 <br>
 <br>
