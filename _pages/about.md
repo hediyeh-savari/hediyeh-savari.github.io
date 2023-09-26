@@ -90,7 +90,7 @@ Research Interests
         <li>&#x2022; Multifunction Sensors</li>
         <li>&#x2022; Sensor Fabrication</li>
         <li>&#x2022; Flexible Electronics</li>
-        <li>&#x2022; Smart Materials</li>
+        <li>&#x2022; Smart Materials/Textile</li>
         <li>&#x2022; Disease Diagnosis</li>
         <li>&#x2022; Health Monitoring</li>
         <li>&#x2022; Nanotechnology</li>
@@ -100,6 +100,7 @@ Research Interests
         <li>&#x2022; Transparent Electronics</li>
         <li>&#x2022; Stretchable Electronics</li>
         <li>&#x2022; Electronic Skin</li>
+        <li>&#x2022; soft robotics</li>
         <li>&#x2022; Artificial Intelligence</li>
         <li>&#x2022; Machine Learning</li>
         <li>&#x2022; Optimization</li>
