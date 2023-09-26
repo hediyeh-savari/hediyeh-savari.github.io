@@ -44,7 +44,7 @@ Research Experience
 <br> 
 * Feb. 2019 - Feb. 2020: Research Assistant
   * University of Tehran
-  * Title: Synthesis of Ultra-Thin Long Silver Nanowires (AgNWs) to Create Flexible, Transparent, and Conductive Electrodes
+  * Title: Synthesis of Ultra-Thin, Long Silver Nanowires (AgNWs) for the Fabrication of Flexible, Transparent, and Conductive Electrodes
   * Duties included: Examining various methods for **synthesizing silver nanowires** to achieve a high aspect ratio (ultra-thin, long AgNWs); Investigating approaches to **weld AgNWs** to enhance their conductivity and reshape the network; **Patterning AgNWs** in different configurations to create various patterns; and Exploring methods to **simultaneously improve transparency** and **conductivity**.
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 <br>
