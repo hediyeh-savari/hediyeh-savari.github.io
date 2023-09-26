@@ -39,12 +39,14 @@ Research Experience
   * Title: Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates
   * Duties included: Examining the types of materials to choose the type of electrode
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
+<br>
 <br> 
 * Feb. 2019 - Feb. 2020: Research Assistant
   * University of Tehran
   * Title: Synthesis of Ultra-Thin Long Silver Nanowires (AgNWs) to Create Flexible, Transparent, and Conductive Electrodes
   * Duties included: 
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
+<br>
 <br> 
 * May. 2018 - Sep. 2018: Undergraduate Project
   * Iran University of Science and Technology
