@@ -15,10 +15,9 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 
 <img src='/images/projet1_2.PNG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
-<figure>
-  <img src="projet1_2.PNG" alt="Fig.2" style="width:100%">
-  <figcaption>?</figcaption>
-</figure>
+figcaption {
+  display: blockkkkkkkkk;
+}
 
 
 
