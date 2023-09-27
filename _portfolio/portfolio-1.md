@@ -8,49 +8,40 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 
 
-
 <!DOCTYPE html>
 <html>
 <head>
     <style>
-        /* Style for the left column */
-        .column-left {
-            float: left; /* Float the left column to the left */
-            width: 50%;   /* Set the width to 50% to create two equal columns */
+        /* Create a grid container */
+        .image-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr); /* Two columns */
+            gap: 20px; /* Adjust the gap between images */
         }
 
-        /* Style for the right column */
-        .column-right {
-            float: left; /* Float the right column to the left */
-            width: 50%;   /* Set the width to 50% to create two equal columns */
-        }
-
-        /* Clear the float to prevent other elements from floating around the columns */
-        .clearfix::after {
-            content: "";
-            clear: both;
-            display: table;
+        /* Style for individual images */
+        .image {
+            width: 100%; /* Make sure images fill their container */
+            max-width: 100%; /* Prevent images from exceeding their natural size */
+            height: auto; /* Maintain the aspect ratio of the images */
         }
     </style>
 </head>
 <body>
 
-<div class="column-left">
-    <!-- Content for the left column goes here -->
-    <h2>Left Column</h2>
-    <p>This is the left column content.</p>
+<div class="image-grid">
+    <div class="image">
+        <img src="image1.jpg" alt="Image 1">
+    </div>
+    <div class="image">
+        <img src="image2.jpg" alt="Image 2">
+    </div>
+    <!-- Add more image divs as needed -->
 </div>
-
-<div class="column-right">
-    <!-- Content for the right column goes here -->
-    <h2>Right Column</h2>
-    <p>This is the right column content.</p>
-</div>
-
-<div class="clearfix"></div> <!-- Clear the float after the columns -->
 
 </body>
 </html>
+
 
 
 
