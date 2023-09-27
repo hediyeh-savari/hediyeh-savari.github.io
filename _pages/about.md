@@ -40,16 +40,16 @@ I am excited to embark on this academic journey, driven by the belief that I can
 
 
 
- <div class="my-projects-box">
-    <h2 style="color: #54b3d6; font-weight: bold; font-style: italic; text-align:center; text-decoration: underline;"><a href="/Projects.html">My Projects</a></h2>
+ <div class="my-Portfolio-box">
+    <h2 style="color: #54b3d6; font-weight: bold; font-style: italic; text-align:center; text-decoration: underline;"><a href="/Projects.html">My Portfolio</a></h2>
   </div>
 
 <style>
-.my-projects-box {
+.my-Portfolio-box {
   background-color: #ffffff;
 }
 
-.my-projects-box:hover {
+.my-Portfolio-box:hover {
   background-color: #f0f8ff;
 }
 </style>
