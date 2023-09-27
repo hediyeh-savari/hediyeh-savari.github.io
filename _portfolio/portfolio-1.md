@@ -50,7 +50,11 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 <div class="column-right">
     <!-- Content for the right column goes here -->
     <h2>Right Column</h2>
-    <p>This is the right column content.</p>
+    <p><img src='/images/projet1_2.PNG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
+<figure>
+  <img src="projet1_2.PNG" alt="Fig.2" style="width:100%">
+  <figcaption>?</figcaption>
+</figure></p>
 </div>
 
 <div class="clearfix"></div> <!-- Clear the float after the columns -->
