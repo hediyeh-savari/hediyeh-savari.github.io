@@ -1,7 +1,6 @@
 ---
 title: "Project number 1"
-excerpt: "Project title:
-Investigating the Structure, Properties, and Behavior Prediction of GaAs Semiconductor Lasers with 808 nm Radiation Wavelength and Bandwidth Less than 5 nm<br/><img src='/images/projet1_0.png'>"
+excerpt: "Project title:<br>Investigating the Structure, Properties, and Behavior Prediction of GaAs Semiconductor Lasers with 808 nm Radiation Wavelength and Bandwidth Less than 5 nm<br/><img src='/images/projet1_0.png'>"
 collection: portfolio
 ---
 
@@ -16,9 +15,10 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 
 <img src='/images/projet1_2.PNG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
-figcaption {
-  display: blockkkkkkkkk;
-}
+<figure>
+  <img src="projet1_2.PNG" alt="Fig.2" style="width:100%">
+  <figcaption>?</figcaption>
+</figure>
 
 
 
