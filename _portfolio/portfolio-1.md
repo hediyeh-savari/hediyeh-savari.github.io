@@ -9,7 +9,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 <img src='/images/projet1_1.PNG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
 <figure>
   <img src="projet1_1.PNG" alt="Trulli" style="width:100%">
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+  <figcaption>Fig.1 - Preparing the sample to be placed in the Physical Vapor Deposition device</figcaption>
 </figure>
 
 
@@ -17,7 +17,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 <img src='/images/projet1_2.PNG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
 <figure>
   <img src="projet1_2.PNG" alt="Description of your image">
-  <figcaption>This is a caption for the image.</figcaption>
+  <figcaption>Fig.2 - This is a caption for the image.</figcaption>
 </figure>
 
 
