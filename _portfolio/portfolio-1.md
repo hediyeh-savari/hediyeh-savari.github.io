@@ -31,10 +31,10 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 <div class="image-grid">
     <div class="image">
-        <img src="projet1_1.PNG" alt="Image 1">
+        <img src="projet1_1.PNG" alt="Imageeeeeee 1">
     </div>
     <div class="image">
-        <img src="projet1_2.PNG" alt="Image 2">
+        <img src="projet1_2.PNG" alt="Imageeeeeee 2">
     </div>
     <!-- Add more image divs as needed -->
 </div>
