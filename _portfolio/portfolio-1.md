@@ -9,6 +9,59 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 
 
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        /* Style for the left column */
+        .column-left {
+            float: left; /* Float the left column to the left */
+            width: 50%;   /* Set the width to 50% to create two equal columns */
+        }
+
+        /* Style for the right column */
+        .column-right {
+            float: left; /* Float the right column to the left */
+            width: 50%;   /* Set the width to 50% to create two equal columns */
+        }
+
+        /* Clear the float to prevent other elements from floating around the columns */
+        .clearfix::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+    </style>
+</head>
+<body>
+
+<div class="column-left">
+    <!-- Content for the left column goes here -->
+    <h2>Left Column</h2>
+    <p>This is the left column content.</p>
+</div>
+
+<div class="column-right">
+    <!-- Content for the right column goes here -->
+    <h2>Right Column</h2>
+    <p>This is the right column content.</p>
+</div>
+
+<div class="clearfix"></div> <!-- Clear the float after the columns -->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
 
 -----------------------------------------------------------------------
 <!DOCTYPE html>
