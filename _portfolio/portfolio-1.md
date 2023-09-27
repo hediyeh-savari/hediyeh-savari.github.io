@@ -7,6 +7,12 @@ collection: portfolio
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
 <img src='/images/projet1_1.PNG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
+<figure>
+  <img /images/projet1_1.PNG' alt="Trulli" style="width:100%">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
+
+
 
 <img src='/images/projet1_2.PNG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
 
