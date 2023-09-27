@@ -40,16 +40,18 @@ I am excited to embark on this academic journey, driven by the belief that I can
 
 
 
- <div class="my-Portfolio-box">
-    <h2 style="color: #54b3d6; font-weight: bold; font-style: italic; text-align:center; text-decoration: underline;"><a href="/portfolio/">My Portfolio</a></h2>
+
+
+  <div class="my-projects-box">
+    <h2 style="color: #54b3d6; font-weight: bold; font-style: italic; text-align:center; text-decoration: underline;"><a href="/Projects.html">My Portfolio</a></h2>
   </div>
 
 <style>
-.my-Portfolio-box {
+.my-projects-box {
   background-color: #ffffff;
 }
 
-.my-Portfolio-box:hover {
+.my-projects-box:hover {
   background-color: #f0f8ff;
 }
 </style>
@@ -67,6 +69,7 @@ I am excited to embark on this academic journey, driven by the belief that I can
   background-color: #c9f5ca;
 }
 </style>
+
 
 
 Research Interests
