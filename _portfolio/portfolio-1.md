@@ -1,6 +1,6 @@
 ---
 title: "Project number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/projet1_0.png'>"
+excerpt: "Project title: Investigating the Structure, Properties, and Behavior Prediction of GaAs Semiconductor Lasers with 808 nm Radiation Wavelength and Bandwidth Less than 5 nm<br/><img src='/images/projet1_0.png'>"
 collection: portfolio
 ---
 
