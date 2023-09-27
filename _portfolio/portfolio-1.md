@@ -9,7 +9,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 <img src='/images/projet1_1.PNG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
 <figure>
   <img src="projet1_1.PNG" alt="Fig.1" style="width:100%">
-  <figcaption>Fig.1 - Preparing the sample to be placed in the Physical Vapor Deposition device</figcaption>
+  <figcaption>Preparing the sample to be placed in the Physical Vapor Deposition device</figcaption>
 </figure>
 
 
@@ -17,22 +17,26 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 <img src='/images/projet1_2.PNG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
 <figure>
   <img src="projet1_1.PNG" alt="Fig.2" style="width:100%">
-  <figcaption>Fig.1 - ?</figcaption>
+  <figcaption>?</figcaption>
 </figure>
-
 
 
 
 <img src='/images/projet1_3.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
 <figure>
   <img src="projet1_1.PNG" alt="Fig.3" style="width:100%">
-  <figcaption>Fig.1 - ? </figcaption>
+  <figcaption>?</figcaption>
 </figure>
 
 
 
-
 <img src='/images/projet1_4.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
+<figure>
+  <img src="projet1_1.PNG" alt="Fig.3" style="width:100%">
+  <figcaption>Fig.4 - ? </figcaption>
+</figure>
+
+
 
 <img src='/images/projet1_5.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
 
