@@ -8,7 +8,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 <img src='/images/projet1_1.PNG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
 <figure>
-  <img /images/projet1_1.PNG' alt="Trulli" style="width:100%">
+  <img src="projet1_1.PNG" alt="Trulli" style="width:100%">
   <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
 </figure>
 
