@@ -16,7 +16,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 <img src='/images/projet1_2.PNG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
 <figure>
-  <img src="projet1_2.PNG" alt="Description of your image">
+  <img src="projet1_2.PNG" alt="">
   <figcaption>Fig.2 - This is a caption for the image.</figcaption>
 </figure>
 
