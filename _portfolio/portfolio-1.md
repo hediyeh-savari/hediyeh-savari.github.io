@@ -40,7 +40,11 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 <div class="column-left">
     <!-- Content for the left column goes here -->
     <h2>Left Column</h2>
-    <p>This is the left column content.</p>
+    <p><img src='/images/projet1_1.PNG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
+<figure>
+  <img src="projet1_1.PNG" alt="Fig.1" style="width:100%">
+  <figcaption>Preparing the sample to be placed in the Physical Vapor Deposition device</figcaption>
+</figure></p>
 </div>
 
 <div class="column-right">
