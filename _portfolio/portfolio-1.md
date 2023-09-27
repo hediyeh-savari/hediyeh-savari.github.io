@@ -224,7 +224,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 <img src='/images/projet1_8.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
 <figure>
   <img src="projet1_8.PNG" alt="Fig.8" style="width:100%">
-  <figcaption>?</figcaption>
+  <figcaption>Interdigitated fingers under the Compound Light Microscope</figcaption>
 </figure>
 
 
