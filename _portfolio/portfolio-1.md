@@ -8,6 +8,52 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 
 
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        /* Create a flex container */
+        .image-gallery {
+            display: flex;
+            flex-wrap: wrap; /* Allow images to wrap to the next row */
+            gap: 20px; /* Adjust the gap between images */
+        }
+
+        /* Style for individual images */
+        .image {
+            flex: 1; /* Distribute available space equally among images */
+            max-width: 100%; /* Prevent images from exceeding their natural size */
+            height: auto; /* Maintain the aspect ratio of the images */
+        }
+    </style>
+</head>
+<body>
+
+<div class="image-gallery">
+    <div class="image">
+        <img src="image1.jpg" alt="Image 1">
+    </div>
+    <div class="image">
+        <img src="image2.jpg" alt="Image 2">
+    </div>
+    <!-- Add more image divs as needed -->
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------
 <!DOCTYPE html>
 <html>
 <head>
@@ -41,7 +87,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 </body>
 </html>
-
+-----------------------------------------------------------------------------------------
 
 
 
