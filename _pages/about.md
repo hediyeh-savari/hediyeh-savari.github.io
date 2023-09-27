@@ -41,7 +41,7 @@ I am excited to embark on this academic journey, driven by the belief that I can
 
 
  <div class="my-Portfolio-box">
-    <h2 style="color: #54b3d6; font-weight: bold; font-style: italic; text-align:center; text-decoration: underline;"><a href="/portfolio/" My Portfolio</a></h2>
+    <h2 style="color: #54b3d6; font-weight: bold; font-style: italic; text-align:center; text-decoration: underline;"><a href="/portfolio/">My Portfolio</a></h2>
   </div>
 
 <style>
