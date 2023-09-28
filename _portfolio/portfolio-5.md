@@ -13,19 +13,25 @@ collection: portfolio
 
 Here is a visual showcase depicting various steps of the project through the following images.
 
+<!DOCTYPE html>
 <html>
 <head>
     <style>
+        /* Style for the container */
+        .container {
+            display: flex;
+        }
+
         /* Style for the left column */
         .column-left {
-            float: left;
-            width: 50%;
+            flex: 1;
+            padding: 20px; /* Add some padding for spacing */
         }
 
         /* Style for the right column */
         .column-right {
-            float: left;
-            width: 50%;
+            flex: 1;
+            padding: 20px; /* Add some padding for spacing */
         }
 
         /* Style for the image container */
@@ -47,6 +53,22 @@ Here is a visual showcase depicting various steps of the project through the fol
     </style>
 </head>
 <body>
+
+<div class="container">
+    <div class="column-left">
+        <!-- Content for the left column goes here -->
+        <!-- ... -->
+    </div>
+
+    <div class="column-right">
+        <!-- Content for the right column goes here -->
+        <!-- ... -->
+    </div>
+</div>
+
+</body>
+</html>
+
 
 <div class="column-left">
     <!-- Content for the left column goes here -->
