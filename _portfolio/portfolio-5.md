@@ -13,7 +13,6 @@ collection: portfolio
 
 Here is a visual showcase depicting various steps of the project through the following images.
 
-<!DOCTYPE html>
 <html>
 <head>
     <style>
@@ -53,22 +52,6 @@ Here is a visual showcase depicting various steps of the project through the fol
     </style>
 </head>
 <body>
-
-<div class="container">
-    <div class="column-left">
-        <!-- Content for the left column goes here -->
-        <!-- ... -->
-    </div>
-
-    <div class="column-right">
-        <!-- Content for the right column goes here -->
-        <!-- ... -->
-    </div>
-</div>
-
-</body>
-</html>
-
 
 <div class="column-left">
     <!-- Content for the left column goes here -->
