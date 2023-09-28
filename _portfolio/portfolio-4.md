@@ -111,7 +111,7 @@ Here is a visual showcase depicting various steps of the project through the fol
     <p><img src='/images/projet1_10.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
     <figure>
         <img src="projet1_10.PNG" alt="Fig.10" style="width:100%">
-        <figcaption>?</figcaption>
+        <figcaption>Preparing the samples for insertion into the Physical Vapor Deposition (PVD) device.</figcaption>
     </figure></p>
 
     <p><img src='/images/projet1_12.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
