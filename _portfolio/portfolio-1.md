@@ -48,6 +48,19 @@ This is an item in your portfolio. It can be have images or nice text. If you na
         <figcaption>?</figcaption>
      </figure></p>
 
+     <p><img src='/images/projet1_5.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
+     <figure>
+        <img src="projet1_5.PNG" alt="Fig.5" style="width:100%">
+        <figcaption>?</figcaption>
+     </figure></p>
+
+
+     <p><img src='/images/projet1_7.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
+     <figure>
+        <img src="projet1_7.PNG" alt="Fig.7" style="width:100%">
+        <figcaption>?</figcaption>
+     </figure></p>
+
     <!-- Add similar code for other images and captions -->
 
 </div>
