@@ -8,7 +8,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 
 
------------------------------------------------------------------------
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -41,7 +41,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
     <p><img src='/images/projet1_1.PNG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
 <figure>
   <img src="projet1_1.PNG" alt="Fig.1" style="width:100%">
-  <figcaption>Preparing the sample to be placed in the Physical Vapor Deposition device</figcaption>
+  <figcaption>Ppppppppppppppppppreparing the sample to be placed in the Physical Vapor Deposition device</figcaption>
 </figure></p>
 
     <p><img src='/images/projet1_3.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
@@ -116,13 +116,11 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 </div>
 
-
-
 <div class="clearfix"></div> <!-- Clear the float after the columns -->
 
 </body>
 </html>
------------------------------------------------------------------------
+
 
 
 
