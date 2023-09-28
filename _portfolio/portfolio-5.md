@@ -8,19 +8,25 @@ Here is a visual showcase depicting various steps of the project through the fol
 
 
 
+<!DOCTYPE html>
 <html>
 <head>
     <style>
+        /* Style for the container */
+        .container {
+            display: flex;
+        }
+
         /* Style for the left column */
         .column-left {
-            float: left;
-            width: 50%;
+            flex: 1;
+            padding: 20px; /* Add some padding for spacing */
         }
 
         /* Style for the right column */
         .column-right {
-            float: left;
-            width: 50%;
+            flex: 1;
+            padding: 20px; /* Add some padding for spacing */
         }
 
         /* Style for the image container */
@@ -43,34 +49,17 @@ Here is a visual showcase depicting various steps of the project through the fol
 </head>
 <body>
 
-<div class="column-left">
-    <!-- Content for the left column goes here -->
-    <h2>The showcase</h2>
-
-    <!-- Image container with caption -->
-    <div class="image-container">
-        <img src='/images/projet1_1.PNG' alt="Image Alt Text">
-        <figcaption>Fig.1: The first mask layer designed for chrome/gold layer photolithography using CorelDRAW software</figcaption>
+<div class="container">
+    <div class="column-left">
+        <!-- Content for the left column goes here -->
+        <!-- ... -->
     </div>
 
-    <!-- Add similar code for other images and captions -->
-</div>
-
-<div class="column-right">
-    <!-- Content for the right column goes here -->
-    <h2>.</h2>
-
-    <!-- Image container with caption -->
-    <div class="image-container">
-        <img src='/images/projet1_2.PNG' alt="Image Alt Text">
-        <figcaption>Fig.2: The second mask layer was created using CorelDRAW software specifically for nickel layer photolithography.</figcaption>
+    <div class="column-right">
+        <!-- Content for the right column goes here -->
+        <!-- ... -->
     </div>
-
-    <!-- Add similar code for other images and captions -->
 </div>
-
-<div class="clearfix"></div> <!-- Clear the float after the columns -->
 
 </body>
 </html>
-
