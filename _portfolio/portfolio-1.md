@@ -50,7 +50,7 @@ Here is a visual showcase depicting various steps of the project through the fol
      <p><img src='/images/projet1_5.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
      <figure>
         <img src="projet1_5.PNG" alt="Fig.5" style="width:100%">
-        <figcaption>?</figcaption>
+        <figcaption>Inserting the mask into the lithography machine and precisely aligning it with the mask aligners to ensure accurate positioning in the manufacturing process.</figcaption>
      </figure></p>
 
      <p><img src='/images/projet1_7.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
