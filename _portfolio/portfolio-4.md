@@ -4,6 +4,12 @@ excerpt: "Project title:<br>Investigating the Structure, Properties, and Behavio
 collection: portfolio
 ---
 
+* May 2019 - Jul. 2019: Research Assistant
+  * University of Tehran
+  * Title: Design and Fabrication of a Nickel-Based Micro-Heater
+  * Duties included: Designing photolithography masks; Fabricating a **micro-interdigitated electrode** pattern; Performing **RCA-1** cleaning processes; Applying **chrome** and **nickel** coatings using the **PVD method**; Applying **gold** coating through the **DC sputtering** technique; **Spin-coating** of **photoresists**; Performing **photolithography** and **etching** on the gold, chrome, and nickel layers.
+  * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
+    
 Here is a visual showcase depicting various steps of the project through the following images.
 
 
