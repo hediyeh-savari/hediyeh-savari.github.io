@@ -39,7 +39,7 @@ Here is a visual showcase depicting various steps of the project through the fol
 
 <div class="column-left">
     <!-- Content for the left column goes here -->
-    <h2>Left Column</h2>
+    <h2>Showcase</h2>
     <p><img src='/images/projet1_1.PNG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
     <figure>
         <img src="projet1_1.PNG" alt="Fig.1" style="width:100%;">
