@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 * May 2019 - Jul. 2019: Research Assistant
-  * University of Tehran
+  * [University of Tehran](https://ut.ac.ir/en)
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
   * Title: Design and Fabrication of a Nickel-Based Micro-Heater
   * Duties included: Designing photolithography masks; Fabricating a **micro-interdigitated electrode** pattern; Performing **RCA-1** cleaning processes; Applying **chrome** and **nickel** coatings using the **PVD method**; Applying **gold** coating through the **DC sputtering** technique; **Spin-coating** of **photoresists**; **Lift-off Photoresist Processing**; Performing **photolithography** and **etching** on the gold, chrome, and nickel layers.
