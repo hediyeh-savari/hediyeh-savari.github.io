@@ -99,7 +99,7 @@ Here is a visual showcase depicting various steps of the project through the fol
     <p><img src='/images/projet1_8.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
     <figure>
         <img src="projet1_8.PNG" alt="Fig.8" style="width:100%">
-        <figcaption>Interdigitated fingers under the Compound Light Microscope</figcaption>
+        <figcaption>Examine the gold-patterned interdigitated fingers under the Compound Light Microscope.</figcaption>
     </figure></p>
 
     <p><img src='/images/projet1_10.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
