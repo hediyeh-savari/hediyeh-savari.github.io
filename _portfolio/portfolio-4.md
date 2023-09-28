@@ -43,7 +43,7 @@ Here is a visual showcase depicting various steps of the project through the fol
     <p><img src='/images/projet1_1.PNG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
     <figure>
         <img src="projet1_1.PNG" alt="Fig.1 The first mask layer designed for chrome/gold layer photolithography using CorelDRAW software." style="width:100%;">
-        <figcaption>The first mask layer designed for chrome/gold layer photolithography using CorelDRAW software.</figcaption>
+        <figcaption></figcaption>
     </figure></p>
 
      <p><img src='/images/projet1_3.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
