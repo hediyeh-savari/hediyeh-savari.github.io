@@ -8,7 +8,7 @@ collection: portfolio
   * University of Tehran
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
   * Title: Design and Fabrication of a Nickel-Based Micro-Heater
-  * Duties included: Designing photolithography masks; Fabricating a **micro-interdigitated electrode** pattern; Performing **RCA-1** cleaning processes; Applying **chrome** and **nickel** coatings using the **PVD method**; Applying **gold** coating through the **DC sputtering** technique; **Spin-coating** of **photoresists**; Performing **photolithography** and **etching** on the gold, chrome, and nickel layers.
+  * Duties included: Designing photolithography masks; Fabricating a **micro-interdigitated electrode** pattern; Performing **RCA-1** cleaning processes; Applying **chrome** and **nickel** coatings using the **PVD method**; Applying **gold** coating through the **DC sputtering** technique; **Spin-coating** of **photoresists**; **Lift-off Photoresist Processing**; Performing **photolithography** and **etching** on the gold, chrome, and nickel layers.
 
 Here is a visual showcase depicting various steps of the project through the following images.
 
