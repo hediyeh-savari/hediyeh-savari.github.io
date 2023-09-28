@@ -39,7 +39,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
     <p><img src='/images/projet1_1.PNG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
     <figure>
         <img src="projet1_1.PNG" alt="Fig.1" style="width:100%;">
-        <figcaption>Preparing the sample to be placed in the Physical Vapor Deposition device</figcaption>
+        <figcaption>The first mask layer designed for chrome/gold layer photolithography using CorelDRAW software.</figcaption>
     </figure></p>
 
      <p><img src='/images/projet1_3.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
