@@ -105,6 +105,21 @@ Here is a visual showcase depicting various steps of the project through the fol
         <img src='/images/projet1_6.JPG' alt="Image Alt Text">
         <figcaption>Fig.6: Immerse the sample in the gold etchant.</figcaption>
     </div>    
+
+    <div class="image-container">
+        <img src='/images/projet1_8.JPG' alt="Image Alt Text">
+        <figcaption>Fig.8: Examine the gold-patterned interdigitated fingers under the Compound Light Microscope.</figcaption>
+    </div>  
+
+    <div class="image-container">
+        <img src='/images/projet1_10.JPG' alt="Image Alt Text">
+        <figcaption>Fig.10: Preparing the samples for insertion into the Physical Vapor Deposition (PVD) device.</figcaption>
+    </div>
+
+    <div class="image-container">
+        <img src='/images/projet1_12.JPG' alt="Image Alt Text">
+        <figcaption>Fig.12: The final device</figcaption>
+    </div>      
     <!-- Add similar code for other images and captions -->
 </div>
 
