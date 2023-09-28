@@ -49,6 +49,30 @@ This is an item in your portfolio. It can be have images or nice text. If you na
   <img src="projet1_3.PNG" alt="Fig.3" style="width:100%">
   <figcaption>?</figcaption>
 </figure></p>
+
+  <p><img src='/images/projet1_5.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
+<figure>
+  <img src="projet1_5.PNG" alt="Fig.5" style="width:100%">
+  <figcaption>?</figcaption>
+</figure></p>
+
+<p><img src='/images/projet1_7.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
+<figure>
+  <img src="projet1_7.PNG" alt="Fig.7" style="width:100%">
+  <figcaption>?</figcaption>
+</figure></p>
+
+<p><img src='/images/projet1_9.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
+<figure>
+  <img src="projet1_9.PNG" alt="Fig.9" style="width:100%">
+  <figcaption>?</figcaption>
+</figure>
+
+<p><img src='/images/projet1_11.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
+<figure>
+  <img src="projet1_11.JPG" alt="Fig.11" style="width:100%">
+  <figcaption>Placing the samples in their storage place in the Physical Vapor Deposition device</figcaption>
+</figure></p>    
 </div>
 
 <div class="column-right">
@@ -59,7 +83,40 @@ This is an item in your portfolio. It can be have images or nice text. If you na
   <img src="projet1_2.PNG" alt="Fig.2" style="width:100%">
   <figcaption>?</figcaption>
 </figure></p>
+
+<p><img src='/images/projet1_4.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
+<figure>
+  <img src="projet1_4.PNG" alt="Fig.4" style="width:100%">
+  <figcaption>Resultant substrate following gold DC Sputtering</figcaption>
+</figure></p>
+
+<p><img src='/images/projet1_6.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
+<figure>
+  <img src="projet1_6.PNG" alt="Fig.6" style="width:100%">
+  <figcaption>Putting the sample in the gold etchant</figcaption>
+</figure></p>
+
+<p><img src='/images/projet1_8.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
+<figure>
+  <img src="projet1_8.PNG" alt="Fig.8" style="width:100%">
+  <figcaption>Interdigitated fingers under the Compound Light Microscope</figcaption>
+</figure></p>
+
+<p><img src='/images/projet1_10.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
+<figure>
+  <img src="projet1_10.PNG" alt="Fig.10" style="width:100%">
+  <figcaption>?</figcaption>
+</figure></p>
+
+<p><img src='/images/projet1_12.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
+<figure>
+  <img src="projet1_12.JPG" alt="Fig.12" style="width:100%">
+  <figcaption>The final device</figcaption>
+</figure></p>
+
 </div>
+
+
 
 <div class="clearfix"></div> <!-- Clear the float after the columns -->
 
