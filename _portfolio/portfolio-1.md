@@ -60,6 +60,12 @@ This is an item in your portfolio. It can be have images or nice text. If you na
         <figcaption>?</figcaption>
      </figure></p>
 
+     <p><img src='/images/projet1_9.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
+     <figure>
+        <img src="projet1_9.PNG" alt="Fig.9" style="width:100%">
+     <figcaption>?</figcaption>
+     </figure>
+
     <!-- Add similar code for other images and captions -->
 
 </div>
@@ -175,7 +181,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 <figure>
   <img src="projet1_9.PNG" alt="Fig.9" style="width:100%">
   <figcaption>?</figcaption>
-</figure>
+</figure</p>
 
 <p><img src='/images/projet1_11.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
 <figure>
