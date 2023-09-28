@@ -24,12 +24,15 @@ Here is a visual showcase depicting various steps of the project through the fol
         /* Style for the left column */
         .column-left {
             flex: 1;
+            width: 50%;
             padding: 20px; /* Add some padding for spacing */
         }
+
 
         /* Style for the right column */
         .column-right {
             flex: 1;
+            width: 50%;
             padding: 20px; /* Add some padding for spacing */
         }
 
