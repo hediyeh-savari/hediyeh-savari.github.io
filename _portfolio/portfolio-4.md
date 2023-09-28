@@ -68,7 +68,7 @@ Here is a visual showcase depicting various steps of the project through the fol
      <p><img src='/images/projet1_90.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
      <figure>
         <img src="projet1_90.PNG" alt="Fig.9" style="width:100%">
-     <figcaption>?</figcaption>
+     <figcaption>The outcome of the photolithography process using the second mask on the photoresist.</figcaption>
      </figure></p>
 
      <p><img src='/images/projet1_11.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
