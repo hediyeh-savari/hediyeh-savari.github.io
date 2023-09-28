@@ -1,4 +1,4 @@
----
+![image](https://github.com/hediyeh-savari/hediyeh-savari.github.io/assets/127428820/57a7483b-df64-45a9-99e6-a48939931701)---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -52,7 +52,7 @@ Research Experience
 * May 2019 - Jul. 2019: Research Assistant
   * University of Tehran
   * Title: Design and Fabrication of a Nickel-Based Micro-Heater
-  * Duties included: Designing photolithography masks; Fabricating a **micro-interdigitated electrode** pattern; Performing **RCA-1** cleaning processes; Applying **chrome** and **nickel** coatings using the **PVD method**; Applying **gold** coating through the **DC sputtering** technique; **Spin-coating** of **photoresists**; Performing **photolithography** and **etching** on the gold, chrome, and nickel layers.
+  * Duties included: Designing photolithography masks; Fabricating a **micro-interdigitated electrode** pattern; Performing **RCA-1** cleaning processes; Applying **chrome** and **nickel** coatings using the **PVD method**; Applying **gold** coating through the **DC sputtering** technique; **Spin-coating** of **photoresists**; **Lift-off Photoresist Processing**; Performing **photolithography** and **etching** on the gold, chrome, and nickel layers.
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
 <br>
 <br>
