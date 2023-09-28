@@ -73,7 +73,7 @@ Here is a visual showcase depicting various steps of the project through the fol
      <p><img src='/images/projet1_11.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
      <figure>
          <img src="projet1_11.JPG" alt="Fig.11" style="width:100%">
-     <figcaption>Placing the samples in their storage place in the Physical Vapor Deposition device</figcaption>
+     <figcaption>Positioning the samples within their designated location within the Physical Vapor Deposition (PVD) device.</figcaption>
      </figure></p> 
 
     <!-- Add similar code for other images and captions -->
