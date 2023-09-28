@@ -4,6 +4,27 @@ excerpt: "Project Title:<br>Investigating the Structure, Properties, and Behavio
 collection: portfolio
 ---
 
+<html>
+<head>
+<style>
+  /* Apply a CSS rule to hide broken images */
+  img[alt="broken-image"] {
+    display: none;
+  }
+</style>
+</head>
+<body>
+  <!-- A working image -->
+  <img src="valid-image.jpg" alt="A Valid Image">
+
+  <!-- A broken image with alt text -->
+  <img src="non-existent-image.jpg" alt="broken-image">
+</body>
+</html>
+
+
+
+
 * May 2019 - Jul. 2019: Research Assistant
   * [University of Tehran](https://ut.ac.ir/en)
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
