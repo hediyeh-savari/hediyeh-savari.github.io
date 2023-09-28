@@ -96,6 +96,15 @@ Here is a visual showcase depicting various steps of the project through the fol
         <figcaption>Fig.2: The second mask layer was created using CorelDRAW software specifically for nickel layer photolithography.</figcaption>
     </div>
 
+    <div class="image-container">
+        <img src='/images/projet1_4.JPG' alt="Image Alt Text">
+        <figcaption>Fig.4: Following gold DC sputtering, the sample exhibits a mirror-like surface, indicative of the precise layering and quality of the deposited material.</figcaption>
+    </div>
+
+    <div class="image-container">
+        <img src='/images/projet1_6.JPG' alt="Image Alt Text">
+        <figcaption>Fig.6: Immerse the sample in the gold etchant.</figcaption>
+    </div>    
     <!-- Add similar code for other images and captions -->
 </div>
 
