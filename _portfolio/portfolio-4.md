@@ -41,7 +41,7 @@ Here is a visual showcase depicting various steps of the project through the fol
 <div class="column-left">
     <!-- Content for the left column goes here -->
     <h2>The showcase</h2>
-    <p><img src='/images/projet1_1.PNG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
+    <p><img src='/images/projet1_1.PNG' alt="Image Alt Text" style="max-width: 300px; height: auto; "onerror="this.style.display='none';">
     <figure>
         <img src="projet1_1.PNG" alt="Fig.1" style="width:100%;">
         <figcaption>The first mask layer designed for chrome/gold layer photolithography using CorelDRAW software.</figcaption>
