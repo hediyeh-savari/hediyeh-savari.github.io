@@ -1,6 +1,6 @@
 ---
 title: "Portfolio Project Number 3"
-excerpt: "Project Title:<br>Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates<br/><img src='/images/name.png'>"
+excerpt: "Project Title:<br>Synthesis of Ultra-Thin, Long Silver Nanowires (AgNWs) for the Fabrication of Flexible, Transparent, and Conductive Electrodes<br/><img src='/images/name.png'>"
 collection: portfolio
 ---
 
