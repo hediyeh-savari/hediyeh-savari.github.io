@@ -68,6 +68,21 @@ Here is a visual showcase depicting various steps of the project through the fol
         <figcaption>Fig.5: Inserting the mask into the lithography machine and precisely aligning it with the mask aligners to ensure accurate positioning in the manufacturing process.</figcaption>
     </div>
 
+        <div class="image-container">
+        <img src='/images/projet1_7.PNG' alt="Image Alt Text">
+        <figcaption>Fig.7: Samples following the completion of the gold etching process.</figcaption>
+    </div>
+
+    <div class="image-container">
+        <img src='/images/projet1_90.PNG' alt="Image Alt Text">
+        <figcaption>Fig.9: The outcome of the photolithography process using the second mask on the photoresist.</figcaption>
+    </div>
+
+    <div class="image-container">
+        <img src='/images/projet1_11.PNG' alt="Image Alt Text">
+        <figcaption>Fig.11: Positioning the samples within their designated location within the Physical Vapor Deposition (PVD) device.</figcaption>
+    </div>
+    
     <!-- Add similar code for other images and captions -->
 </div>
 
