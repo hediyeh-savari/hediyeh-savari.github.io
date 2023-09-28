@@ -208,7 +208,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 <img src='/images/projet1_6.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
 <figure>
   <img src="projet1_6.PNG" alt="Fig.6" style="width:100%">
-  <figcaption>?</figcaption>
+  <figcaption>Putting the sample in the gold etchant</figcaption>
 </figure>
 
 
