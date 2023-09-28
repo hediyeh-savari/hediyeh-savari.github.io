@@ -1,6 +1,6 @@
 ---
 title: "Portfolio Project Number 2"
-excerpt: "Project Title:<br>Design and Fabrication of a Multifunctional Flexible Strain and Pressure Sensor based on Conductive Nanocomposites<br/><img src='/images/name.png'>"
+excerpt: "Project Title:<br>Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates<br/><img src='/images/name.png'>"
 collection: portfolio
 ---
 
