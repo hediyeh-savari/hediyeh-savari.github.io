@@ -23,16 +23,19 @@ Here is a visual showcase depicting various steps of the project through the fol
 
         /* Style for the left column */
         .column-left {
-            flex: 1;
+            float: left;
             width: 50%;
+            flex: 1;
             padding: 20px; /* Add some padding for spacing */
         }
 
 
         /* Style for the right column */
         .column-right {
-            flex: 1;
+            float: left;
             width: 50%;
+            flex: 1;
+            flex: 1;
             padding: 20px; /* Add some padding for spacing */
         }
 
