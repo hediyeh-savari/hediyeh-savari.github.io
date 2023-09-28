@@ -44,7 +44,7 @@ Here is a visual showcase depicting various steps of the project through the fol
      <p><img src='/images/projet1_3.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
      <figure>
         <img src="projet1_3.PNG" alt="Fig.3" style="width:100%">
-        <figcaption>?</figcaption>
+        <figcaption>Preparing the samples for gold coating by positioning them on the DC sputtering machine.</figcaption>
      </figure></p>
 
      <p><img src='/images/projet1_5.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
