@@ -87,7 +87,7 @@ Here is a visual showcase depicting various steps of the project through the fol
     <p><img src='/images/projet1_4.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
     <figure>
         <img src="projet1_4.PNG" alt="Fig.4" style="width:100%">
-        <figcaption>Resultant substrate following gold DC Sputtering</figcaption>
+        <figcaption>Following gold DC sputtering, the sample exhibits a mirror-like surface, indicative of the precise layering and quality of the deposited material.</figcaption>
     </figure></p>
 
     <p><img src='/images/projet1_6.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
