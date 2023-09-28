@@ -93,7 +93,7 @@ Here is a visual showcase depicting various steps of the project through the fol
     <p><img src='/images/projet1_6.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
     <figure>
         <img src="projet1_6.PNG" alt="Fig.6" style="width:100%">
-        <figcaption>Putting the sample in the gold etchant</figcaption>
+        <figcaption>Immerse the sample in the gold etchant.</figcaption>
     </figure></p>
 
     <p><img src='/images/projet1_8.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
