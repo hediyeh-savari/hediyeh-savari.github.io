@@ -59,9 +59,9 @@ Here is a visual showcase depicting various steps of the project through the fol
         <figcaption>Samples following the completion of the gold etching process.</figcaption>
      </figure></p>
 
-     <p><img src='/images/projet1_9.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
+     <p><img src='/images/projet1_90.JPG' alt="Image Alt Text" style="max-width: 300px; height: auto;">
      <figure>
-        <img src="projet1_9.PNG" alt="Fig.9" style="width:100%">
+        <img src="projet1_90.PNG" alt="Fig.9" style="width:100%">
      <figcaption>?</figcaption>
      </figure></p>
 
