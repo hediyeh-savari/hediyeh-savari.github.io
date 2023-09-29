@@ -19,12 +19,12 @@ Here is a visual showcase depicting various steps of the project through the fol
 <html>
 <head>
     <style>
-     
+     <!--
          /* Set the font size for the entire document */
          body {
             font-size: 20px; /* Adjust the value to your preferred font size */
          }
-
+     -->
         /* Style for the left column */
         .column-left {
             float: left;
