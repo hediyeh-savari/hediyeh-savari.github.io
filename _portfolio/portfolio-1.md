@@ -1,6 +1,6 @@
 ---
 title: "Portfolio Project Number 1"
-excerpt: "Project Title:<br>Design and Fabrication of a Nickel-Based Micro-Heater<br/><img src='/images/projet1_0.png'>"
+excerpt: "Project Title:<br>Design and Fabrication of a Nickel-Based Micro-Heater<br/><img src='/images/projet1_0.png' width="200" height="150" alt="Your Image">"
 collection: portfolio
 ---
 
