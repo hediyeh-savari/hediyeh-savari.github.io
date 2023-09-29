@@ -60,7 +60,7 @@ Here is a visual showcase depicting various steps of the project through the fol
 
 <div class="column-left">
     <!-- Content for the left column goes here -->
-    <h2>The showcaseeeeeee</h2>
+    <h2>The showcase</h2>
 
     <!-- Image container with caption -->
     <div class="image-container">
