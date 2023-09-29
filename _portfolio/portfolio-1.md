@@ -88,17 +88,17 @@ Here is a visual showcase depicting various steps of the project through the fol
 
         <div class="image-container">
         <img src='/images/projet1_7.JPG' alt="Image Alt Text">
-        <figcaption>Fig.7: Samples following the completion of the gold etching process.</figcaption>
+        <figcaption><span class="fig-caption">Fig.7</span>: Samples following the completion of the gold etching process.</figcaption>
     </div>
 
     <div class="image-container">
         <img src='/images/projet1_90.JPG' alt="Image Alt Text">
-        <figcaption>Fig.9: The outcome of the photolithography process using the second mask on the photoresist.</figcaption>
+        <figcaption><span class="fig-caption">Fig.9</span>: The outcome of the photolithography process using the second mask on the photoresist.</figcaption>
     </div>
 
     <div class="image-container">
         <img src='/images/projet1_11.JPG' alt="Image Alt Text">
-        <figcaption>Fig.11: Positioning the samples within their designated location within the Physical Vapor Deposition (PVD) device.</figcaption>
+        <figcaption><span class="fig-caption">Fig.11</span>: Positioning the samples within their designated location within the Physical Vapor Deposition (PVD) device.</figcaption>
     </div>
     
     <!-- Add similar code for other images and captions -->
