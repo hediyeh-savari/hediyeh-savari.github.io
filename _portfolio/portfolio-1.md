@@ -78,12 +78,12 @@ Here is a visual showcase depicting various steps of the project through the fol
 
     <div class="image-container">
         <img src='/images/projet1_3.JPG' alt="Image Alt Text">
-        <figcaption>Fig.3: Preparing the samples for gold coating by positioning them on the DC sputtering machine.</figcaption>
+        <figcaption><span class="fig-caption">Fig.3</span>: Preparing the samples for gold coating by positioning them on the DC sputtering machine.</figcaption>
     </div>
 
     <div class="image-container">
         <img src='/images/projet1_5.JPG' alt="Image Alt Text">
-        <figcaption>Fig.5: Inserting the mask into the lithography machine and precisely aligning it with the mask aligners to ensure accurate positioning in the manufacturing process.</figcaption>
+        <figcaption><span class="fig-caption">Fig.5</span>: Inserting the mask into the lithography machine and precisely aligning it with the mask aligners to ensure accurate positioning in the manufacturing process.</figcaption>
     </div>
 
         <div class="image-container">
