@@ -9,14 +9,19 @@ collection: portfolio
   * [University of Tehran](https://ut.ac.ir/en)
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
   * Title: Design and Fabrication of a Multifunctional Flexible Strain and Pressure Sensor based on Conductive Nanocomposites
-  * <p>Duties included: **Synthesizing** Polyaniline (**PANI**); Synthesizing Thermoplastic polyurethane (**TPU**) **Sheets**; Investigating the **hydrophobicity** of different **substrates**; **Designing** and **fabricating** silver electrodes on **flexible substrates**; Synthesizing the **FMWCNT/PANI nanocomposite**; Conducting **Strain** and **Pressure** Stimulus **Tests** for Sensor **Calibration**; **Optimizing** sensor **performance**; **Analyzing** sensor **responsesssssssssssss**.</p>
+  * <p>Duties included: **Synthesizing** Polyaniline (**PANI**); Synthesizing Thermoplastic polyurethane (**TPU**) **Sheets**; Investigating the **hydrophobicity** of different **substrates**; **Designing** and **fabricating** silver electrodes on **flexible substrates**; Synthesizing the **FMWCNT/PANI nanocomposite**; Conducting **Strain** and **Pressure** Stimulus **Tests** for Sensor **Calibration**; **Optimizing** sensor **performance**; **Analyzing** sensor **responsezzzzzzzzzz**.</p>
 
 Here is a visual showcase depicting various steps of the project through the following images.
 
 <html>
 <head>
     <style>
-     
+
+     <style>
+    p {
+        text-align: justify;
+    }
+     </style>
 
         /* Style for the left column */
         .column-left {
