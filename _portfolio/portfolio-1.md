@@ -19,6 +19,7 @@ Here is a visual showcase depicting various steps of the project through the fol
 <html>
 <head>
     <style>
+     
      <!--
          /* Set the font size for the entire document */
          body {
@@ -41,6 +42,7 @@ Here is a visual showcase depicting various steps of the project through the fol
         .image-container {
             max-width: 300px; /* Set the maximum width for your images */
             margin-bottom: 20px; /* Add spacing between images and captions */
+            font-size: 20px; /* Adjust the value to your preferred font size */
         }
 
         /* Style for images */
