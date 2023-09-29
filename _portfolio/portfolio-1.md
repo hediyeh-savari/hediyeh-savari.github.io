@@ -23,7 +23,7 @@ Here is a visual showcase depicting various steps of the project through the fol
         table {
             border-collapse: collapse;
             width: 100%;
-            border: none; /* Hide the table border */
+            border: 0; /* Hide the table border */
         }
         
         td {
@@ -44,22 +44,22 @@ Here is a visual showcase depicting various steps of the project through the fol
     <table>
         <tr>
             <td>
-                <img src="image1.jpg" alt="Image 1">
-                <p>Caption for Image 1</p>
+                <img src="projet1_3.JPG" alt="Image 1">
+                <p>Preparing the samples for gold coating by positioning them on the DC sputtering machine.</p>
             </td>
             <td>
-                <img src="image2.jpg" alt="Image 2">
-                <p>Caption for Image 2</p>
+                <img src="projet1_10.JPG" alt="Image 2">
+                <p>Fig.10: Preparing the samples for insertion into the Physical Vapor Deposition (PVD) device.</p>
             </td>
         </tr>
         <tr>
             <td>
-                <img src="image3.jpg" alt="Image 3">
-                <p>Caption for Image 3</p>
+                <img src="projet1_6.JPG" alt="Image 3">
+                <p>Fig.6: Immerse the sample in the gold etchant.</p>
             </td>
             <td>
-                <img src="image4.jpg" alt="Image 4">
-                <p>Caption for Image 4</p>
+                <img src="projet1_11.JPG" alt="Image 4">
+                <p>Fig.11: Positioning the samples within their designated location within the Physical Vapor Deposition (PVD) device.</p>
             </td>
         </tr>
         <!-- Add more rows as needed -->
