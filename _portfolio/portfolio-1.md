@@ -19,6 +19,12 @@ Here is a visual showcase depicting various steps of the project through the fol
 <html>
 <head>
     <style>
+     
+         /* Set the font size for the entire document */
+         body {
+            font-size: 16px; /* Adjust the value to your preferred font size */
+         }
+
         /* Style for the left column */
         .column-left {
             float: left;
@@ -60,16 +66,9 @@ Here is a visual showcase depicting various steps of the project through the fol
 <body>
 
 
-         /* Set the font size for the entire document */
-body {
-    font-size: 16px; /* Adjust the value to your preferred font size */
-}
-
-
-
 <div class="column-left">
     <!-- Content for the left column goes here -->
-    <h2>The showcaseeeeeeeee</h2>
+    <h2>The showcase111</h2>
 
     <!-- Image container with caption -->
     <div class="image-container">
