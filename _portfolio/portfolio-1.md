@@ -47,6 +47,13 @@ Here is a visual showcase depicting various steps of the project through the fol
         .image-container figcaption {
             text-align: center; /* Center-align the caption */
         }
+
+        
+        /* Style for the "Fig." label */
+        .fig-caption {
+           font-weight: bold; /* Make the "Fig." text bold */
+        }
+
     </style>
 </head>
 <body>
