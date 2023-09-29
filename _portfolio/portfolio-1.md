@@ -58,7 +58,7 @@ Here is a visual showcase depicting various steps of the project through the fol
         /* Style for the "Fig." label */
         .fig-caption {
            font-weight: bold; /* Make the "Fig." text bold */
-            font-size: 24px; /* Set the desired font size (adjust the value as needed) */
+            font-size: 22px; /* Set the desired font size (adjust the value as needed) */
         }
 
     </style>
