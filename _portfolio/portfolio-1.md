@@ -43,13 +43,13 @@ Here is a visual showcase depicting various steps of the project through the fol
             </td>
             <td>
                 <img src="image2.jpg" alt="Image 2">
-                <p>Caption for Image 2</p>
+                <p>Caption for Image 222 nods;lkx sdmkpl;dsa knjkcv sdnjkvc sdjnkdjsk dnkldsmkds jkndsklxjmlfkd sdjkdml;mfcds sdnkvnkl vkhreijrqioa rfjakfmkljf fjofdjmkfnds dkfjlJmFDSsdJopfsd djopdkosjd dsjodfsjopdc frjopre rjopkdpos;kmdf fdejopjmofdj</p>
             </td>
         </tr>
         <tr>
             <td>
                 <img src="image3.jpg" alt="Image 3">
-                <p>Caption for Image 3</p>
+                <p>Caption for Image 3333333333333</p>
             </td>
             <td>
                 <img src="image4.jpg" alt="Image 4">
