@@ -22,7 +22,7 @@ Here is a visual showcase depicting various steps of the project through the fol
      
          /* Set the font size for the entire document */
          body {
-            font-size: 16px; /* Adjust the value to your preferred font size */
+            font-size: 20px; /* Adjust the value to your preferred font size */
          }
 
         /* Style for the left column */
@@ -68,7 +68,7 @@ Here is a visual showcase depicting various steps of the project through the fol
 
 <div class="column-left">
     <!-- Content for the left column goes here -->
-    <h2>The showcase111</h2>
+    <h2>The showcase2222</h2>
 
     <!-- Image container with caption -->
     <div class="image-container">
