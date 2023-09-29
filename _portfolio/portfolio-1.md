@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 
-* Feb. 2021 - Jul. 2022: Master Project
+* Feb. 2021 - Jul. 2022: Master Projecttttttttt
   * [University of Tehran](https://ut.ac.ir/en)
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
   * Title: Design and Fabrication of a Multifunctional Flexible Strain and Pressure Sensor based on Conductive Nanocomposites
