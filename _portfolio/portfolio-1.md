@@ -13,12 +13,11 @@ collection: portfolio
 
 Here is a visual showcase depicting various steps of the project through the following images.
 
+
 <html>
 <head>
     <style>
-
-
-     </style>
+     
 
         /* Style for the left column */
         .column-left {
