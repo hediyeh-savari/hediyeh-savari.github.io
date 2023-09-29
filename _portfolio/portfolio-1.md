@@ -58,7 +58,7 @@ Here is a visual showcase depicting various steps of the project through the fol
         /* Style for the "Fig." label */
         .fig-caption {
            font-weight: bold; /* Make the "Fig." text bold */
-            font-size: 21px; /* Set the desired font size (adjust the value as needed) */
+            font-size: 20px; /* Set the desired font size (adjust the value as needed) */
         }
 
     </style>
@@ -68,7 +68,7 @@ Here is a visual showcase depicting various steps of the project through the fol
 
 <div class="column-left">
     <!-- Content for the left column goes here -->
-    <h2>The showcase3333333</h2>
+    <h2>The showcase</h2>
 
     <!-- Image container with caption -->
     <div class="image-container">
