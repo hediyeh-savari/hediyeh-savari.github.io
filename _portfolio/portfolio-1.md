@@ -12,3 +12,53 @@ collection: portfolio
   * Duties included: **Synthesizing** Polyaniline (**PANI**); Synthesizing Thermoplastic polyurethane (**TPU**) **Sheets**; Investigating the **hydrophobicity** of different **substrates**; **Designing** and **fabricating** silver electrodes on **flexible substrates**; Synthesizing the **FMWCNT/PANI nanocomposite**; Conducting **Strain** and **Pressure** Stimulus **Tests** for Sensor **Calibration**; **Optimizing** sensor **performance**; **Analyzing** sensor **responses**.
 
 Here is a visual showcase depicting various steps of the project through the following images.
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td {
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: center;
+            vertical-align: top;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>
+                <img src="image1.jpg" alt="Image 1">
+                <p>Caption for Image 1</p>
+            </td>
+            <td>
+                <img src="image2.jpg" alt="Image 2">
+                <p>Caption for Image 2</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="image3.jpg" alt="Image 3">
+                <p>Caption for Image 3</p>
+            </td>
+            <td>
+                <img src="image4.jpg" alt="Image 4">
+                <p>Caption for Image 4</p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
