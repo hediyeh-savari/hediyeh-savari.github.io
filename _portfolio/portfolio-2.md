@@ -55,9 +55,9 @@ Here is a visual showcase depicting various steps of the project through the fol
   <tr>
     <td>
       <div class="image-container">
-        <img src="image1.jpg" alt="Image 1">
+        <img src='/images/project5_17.png' alt="Image 1">
       </div>
-      <div class="caption">Caption 1</div>
+      <div class="caption"> In this case, it is assumed that the parameters 'd' and 't' are variable, while the 'Jth' parameter is held constant. The bandwidth diagram is created using the Plot-3D command in Wolfram Mathematica. As indicated by the plot, Δλ is found to be independent of 't,' but it is influenced by changes in 'd'. It is noteworthy that the slope of Δλ experiences an increasing shift for 'd' values smaller than 60 nm.</div>
     </td>
     <td>
       <div class="image-container">
@@ -79,56 +79,6 @@ Here is a visual showcase depicting various steps of the project through the fol
 </html>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-
-  table, th, td {
-    border: none;
-  }
-
-  td {
-    vertical-align: top;
-    width: 33.33%;
-  }
-
-  img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 10px auto; /* Add a fixed margin to all images */
-  }
-
-  .caption {
-    text-align: center;
-    margin-top: 5px;
-  }
-</style>
-</head>
-<body>
 
 <table>
   <tr>
