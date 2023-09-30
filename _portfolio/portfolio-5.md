@@ -116,7 +116,7 @@ Here is a visual showcase depicting various steps of the project through the fol
 
     <div class="image-container">
         <img src='/images/project5_21.png' alt="Image Alt Text">
-        <figcaption><span class="fig-caption">Fig.6</span>: Immerse </figcaption>
+        <figcaption><span class="fig-caption">Fig.6</span>: In this case, it is assumed that the two parameters, 'd' and 't', are variable, while the 'Jth' parameter is held constant. The bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As illustrated in the plot, Δλ is found to be unaffected by 't' and remains consistent regardless of its variation. However, it is observed to be sensitive to changes in 'd'. Notably, the slope of Δλ experiences an increasingly pronounced shift for 'd' values below 40 nm.</figcaption>
     </div>    
 
     <div class="image-container">
