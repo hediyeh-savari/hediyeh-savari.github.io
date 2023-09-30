@@ -121,7 +121,7 @@ Here is a visual showcase depicting various steps of the project through the fol
 
     <div class="image-container">
         <img src='/images/project5_23.png' alt="Image Alt Text">
-        <figcaption><span class="fig-caption">Fig.8</span>: Examine </figcaption>
+        <figcaption><span class="fig-caption">Fig.8</span>: With the assumption that the two parameters, 't' and 'Jth,' are variable while keeping the parameter 'd' constant, the bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As observed in the plot, Δλ remains unaffected by 't' but exhibits linear changes in response to variations in 'Jth.'</figcaption>
     </div>  
 
     <div class="image-container">
