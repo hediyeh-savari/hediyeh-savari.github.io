@@ -88,7 +88,7 @@ Here is a visual showcase depicting various steps of the project through the fol
 
     <div class="image-container">
         <img src='/images/project5_24.PNG' alt="Image Alt Text">
-        <figcaption><span class="fig-caption">Fig.9</span>: The </figcaption>
+        <figcaption><span class="fig-caption">Fig.9</span>: The third configuration of the semiconductor laser.</figcaption>
     </div>
 
     <div class="image-container">
