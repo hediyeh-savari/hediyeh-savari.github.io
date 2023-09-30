@@ -126,7 +126,7 @@ Here is a visual showcase depicting various steps of the project through the fol
 
     <div class="image-container">
         <img src='/images/project5_25.png' alt="Image Alt Text">
-        <figcaption><span class="fig-caption">Fig.10</span>: Preparing </figcaption>
+        <figcaption><span class="fig-caption">Fig.10</span>: With the assumption that the two parameters, 'd' and 't,' are variable and the 'Jth' parameter is held constant, the bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As depicted in the image, Δλ is found to be unaffected by 't' but is sensitive to changes in 'd.' Notably, the slope of Δλ undergoes greater variation when 'd' values are less than 3x10^-8.</figcaption>
     </div>
 
     <div class="image-container">
