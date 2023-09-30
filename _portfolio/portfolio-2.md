@@ -71,6 +71,60 @@ Here is a visual showcase depicting various steps of the project through the fol
 
 
 
+
+
+
+
+
+</style>
+</head>
+<body>
+
+    <!-- Image container with caption -->
+    <div class="image-container">
+        <img src='/images/project5_16.PNG' alt="Image Alt Text">
+        <figcaption><span class="fig-caption">Fig.1</span>: The first configuration of the semiconductor laser.</figcaption>
+    </div>
+
+
+<table>
+  <tr>
+    <td><img src='/images/project5_17.png' alt="Image 1"></td>
+    <td><img src='/images/project5_18.png' alt="Image 2"></td>
+    <td><img src='/images/project5_19.png' alt="Image 3"></td>
+  </tr>
+  <tr>
+    <td><strong>Fig.6</strong>: In this case, it is assumed that the two parameters, 'd' and 't', are variable, while the 'Jth' parameter is held constant. The bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As illustrated in the plot, Δλ is found to be unaffected by 't' and remains consistent regardless of its variation. However, it is observed to be sensitive to changes in 'd'. Notably, the slope of Δλ experiences an increasingly pronounced shift for 'd' values below 40 nm.</td>
+    <td><strong>Fig.7</strong>: With the assumption that the two parameters, 'd' and 'Jth,' are variable while keeping the parameter 't' constant, the bandwidth diagram is constructed using the Plot-3D command in Wolfram Mathematica. As observed in the plot, Δλ exhibits sensitivity to variations in both 'd' and 'Jth.' These sensitivities reach their peak when 'Jth' values exceed 1x10^6 ampere/m², and 'd' values are less than 40 nm.</td>
+    <td><strong>Fig.8</strong>: With the assumption that the two parameters, 't' and 'Jth,' are variable while keeping the parameter 'd' constant, the bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As observed in the plot, Δλ remains unaffected by 't' but exhibits linear changes in response to variations in 'Jth.'
+</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <html>
 <head>
     <style>
