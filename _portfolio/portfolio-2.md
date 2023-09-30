@@ -85,7 +85,7 @@ Here is a visual showcase depicting various steps of the project through the fol
 </table>
 
 </body>
-</html>
+
 
 
 
