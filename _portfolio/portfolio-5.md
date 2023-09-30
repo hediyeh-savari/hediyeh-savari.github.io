@@ -83,7 +83,7 @@ Here is a visual showcase depicting various steps of the project through the fol
 
         <div class="image-container">
         <img src='/images/project5_22.png' alt="Image Alt Text">
-        <figcaption><span class="fig-caption">Fig.7</span>: Samples </figcaption>
+        <figcaption><span class="fig-caption">Fig.7</span>: With the assumption that the two parameters, 'd' and 'Jth,' are variable while keeping the parameter 't' constant, the bandwidth diagram is constructed using the Plot-3D command in Wolfram Mathematica. As observed in the plot, Δλ exhibits sensitivity to variations in both 'd' and 'Jth.' These sensitivities reach their peak when 'Jth' values exceed 1x10^6 ampere/m², and 'd' values are less than 40 nm.</figcaption>
     </div>
 
     <div class="image-container">
