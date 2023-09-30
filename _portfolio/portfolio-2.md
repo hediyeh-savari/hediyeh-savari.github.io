@@ -53,16 +53,16 @@ Here is a visual showcase depicting various steps of the project through the fol
 <table>
   <tr>
     <td>
-      <img src="image1.jpg" alt="Image 1">
-      <div class="caption">Caption 1</div>
+      <img src='/images/project5_17.png' alt="Image 1">
+      <div class="caption">The first configuration of the semiconductor laser.</div>
     </td>
     <td>
-      <img src="image2.jpg" alt="Image 2">
-      <div class="caption">Caption 2</div>
+      <img src='/images/project5_18.png' alt="Image 2">
+      <div class="caption">With the assumption that the two parameters, 'd' and 'Jth', are variable, while the parameter 't' remains constant, the bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As illustrated in the plot, Δλ is observed to be responsive to variations in both 'd' and 'Jth' in this particular scenario. These changes peak when 'Jth' values exceed 1x10^6 amperes per square and 'd' values are below 40 nm.</div>
     </td>
     <td>
-      <img src="image3.jpg" alt="Image 3">
-      <div class="caption">Caption 3</div>
+      <img src='/images/project5_19.png' alt="Image 3">
+      <div class="caption">With the assumption that the two parameters, 't' and 'Jth', are variable, while the parameter 'd' is held constant, the bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As portrayed in the plot, in this scenario, Δλ is found to be unaffected by 't' but exhibits a linear response to alterations in 'Jth'.</div>
     </td>
   </tr>
   <!-- Add more rows here as needed -->
@@ -73,56 +73,6 @@ Here is a visual showcase depicting various steps of the project through the fol
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-
-  table, th, td {
-    border: none;
-  }
-
-  td {
-    vertical-align: top;
-    padding: 10px;
-    width: 33.33%;
-  }
-
-  img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-  }
-
-  .caption {
-    text-align: center;
-    margin-top: 5px;
-  }
-</style>
-</head>
-<body>
 
 
       <img src='/images/project5_16.PNG' alt="Image 1">
