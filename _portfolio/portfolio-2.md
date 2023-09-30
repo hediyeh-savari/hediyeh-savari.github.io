@@ -11,3 +11,35 @@ This is an item in your portfolio. It can be have images or nice text. If you na
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
   * Title: Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates
   * Duties included: Examining various materials to select the **most suitable** one for use as the **electrode**; Investigating different materials for potential use as a **flexible, transparent, and stretchable substrate**; Exploring various coating methods to **create precise electrode patterns**; Assessing the **durability**, **stability**, and **conductivity** of fabricated flexible electrodes and **optimizing** their **characteristics**.
+
+
+---
+title: "Portfolio Project Number 5"
+excerpt: "Project Title:<br>Investigating the Structure, Properties, and Behavior Prediction of GaAs Semiconductor Lasers with 808 nm Radiation Wavelength and Bandwidth Less than 5 nm<br/><img src='/images/name.png'>"
+collection: portfolio
+---
+
+<table>
+  <tr>
+    <td class="column-left">
+      <!-- Content for the left column goes here -->
+      <h2>The showcase</h2>
+
+      <!-- Image container with caption -->
+      <!-- ... (your content in the left column) ... -->
+    </td>
+    <td class="column-right">
+      <!-- Content for the center column goes here -->
+      <h2>.</h2>
+
+      <!-- Image container with caption -->
+      <!-- ... (your content in the center column) ... -->
+    </td>
+    <td>
+      <!-- Content for the right column goes here -->
+      <!-- ... (your content in the right column) ... -->
+    </td>
+  </tr>
+</table>
+
+<div class="clearfix"></div> <!-- Clear the float after the columns -->
