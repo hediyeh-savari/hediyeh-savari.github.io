@@ -44,7 +44,10 @@ To assess the impact of these three mentioned parameters, two of them are design
 </head>
 <body>
 <h1>1. The First Laser Structure</h1>
+ <div style='text-align: justify;'>
  The laser structure proposed here comprises three GaAs quantum wells that are separated by Al0.35Ga0.65As barriers. The presence of more than one quantum well in the structure leads to an elevation in the probability of radiative recombination, driven by the heightened quantum confinement of electrons and holes and the augmented density of states. Furthermore, increased radiative recombination guarantees an enhancement in output efficiency.
+ <br>
+ </div>
     <!-- Image container with caption -->
     <div class="image-container">
         <img src='/images/project5_16.PNG' alt="Image Alt Text">
@@ -94,7 +97,7 @@ To assess the impact of these three mentioned parameters, two of them are design
 
 </body>
 
-
+<br>
 
 <body>
 <h1>3. The Third Laser Structure</h1>
@@ -119,15 +122,6 @@ To assess the impact of these three mentioned parameters, two of them are design
 </table>
 
 </body>
-
-
-
-
-
-
-
-
-
 
 
 
