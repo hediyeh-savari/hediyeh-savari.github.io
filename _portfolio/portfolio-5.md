@@ -68,7 +68,7 @@ Here is a visual showcase depicting various steps of the project through the fol
     <!-- Image container with caption -->
     <div class="image-container">
         <img src='/images/project5_16.PNG' alt="Image Alt Text">
-        <figcaption><span class="fig-caption">Fig.1</span>: The </figcaption>
+        <figcaption><span class="fig-caption">Fig.1</span>: The first configuration of the semiconductor laser.</figcaption>
     </div>
 
     <div class="image-container">
