@@ -49,6 +49,10 @@ Here is a visual showcase depicting various steps of the project through the fol
 </head>
 <body>
 
+
+      <img src='/images/project5_16.PNG' alt="Image 1">
+      <div class="caption">The first configuration of the semiconductor laser.</div>
+
 <table>
   <tr>
     <td>
