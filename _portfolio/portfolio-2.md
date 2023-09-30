@@ -14,7 +14,6 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 Here is a visual showcase depicting various steps of the project through the following images.
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
