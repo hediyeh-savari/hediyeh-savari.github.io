@@ -41,7 +41,7 @@ To assess the impact of these three mentioned parameters, two of them are design
 </style>
 </head>
 <body>
-
+The First Structure
     <!-- Image container with caption -->
     <div class="image-container">
         <img src='/images/project5_16.PNG' alt="Image Alt Text">
