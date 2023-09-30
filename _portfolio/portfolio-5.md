@@ -105,33 +105,33 @@ Here is a visual showcase depicting various steps of the project through the fol
 
     <!-- Image container with caption -->
     <div class="image-container">
-        <img src='/images/projet1_2.PNG' alt="Image Alt Text">
-        <figcaption><span class="fig-caption">Fig.2</span>: The second mask layer was created using CorelDRAW software specifically for nickel layer photolithography.</figcaption>
+        <img src='/images/project5_17.png' alt="Image Alt Text">
+        <figcaption><span class="fig-caption">Fig.2</span>: The </figcaption>
     </div>
 
     <div class="image-container">
-        <img src='/images/projet1_4.JPG' alt="Image Alt Text">
-        <figcaption><span class="fig-caption">Fig.4</span>: Following gold DC sputtering, the sample exhibits a mirror-like surface, indicative of the precise layering and quality of the deposited material.</figcaption>
+        <img src='/images/project5_19.png' alt="Image Alt Text">
+        <figcaption><span class="fig-caption">Fig.4</span>: Following </figcaption>
     </div>
 
     <div class="image-container">
-        <img src='/images/projet1_6.JPG' alt="Image Alt Text">
-        <figcaption><span class="fig-caption">Fig.6</span>: Immerse the sample in the gold etchant.</figcaption>
+        <img src='/images/project5_21.png' alt="Image Alt Text">
+        <figcaption><span class="fig-caption">Fig.6</span>: Immerse </figcaption>
     </div>    
 
     <div class="image-container">
-        <img src='/images/projet1_8.JPG' alt="Image Alt Text">
-        <figcaption><span class="fig-caption">Fig.8</span>: Examine the gold-patterned interdigitated fingers under the Compound Light Microscope.</figcaption>
+        <img src='/images/project5_23.png' alt="Image Alt Text">
+        <figcaption><span class="fig-caption">Fig.8</span>: Examine </figcaption>
     </div>  
 
     <div class="image-container">
-        <img src='/images/projet1_10.JPG' alt="Image Alt Text">
-        <figcaption><span class="fig-caption">Fig.10</span>: Preparing the samples for insertion into the Physical Vapor Deposition (PVD) device.</figcaption>
+        <img src='/images/project5_25.png' alt="Image Alt Text">
+        <figcaption><span class="fig-caption">Fig.10</span>: Preparing </figcaption>
     </div>
 
     <div class="image-container">
-        <img src='/images/projet1_12.JPG' alt="Image Alt Text">
-        <figcaption><span class="fig-caption">Fig.12</span>: The final device</figcaption>
+        <img src='/images/project5_27.png.JPG' alt="Image Alt Text">
+        <figcaption><span class="fig-caption">Fig.12</span>: The </figcaption>
     </div>      
     <!-- Add similar code for other images and captions -->
 </div>
