@@ -42,7 +42,7 @@ To assess the impact of these three mentioned parameters, two of them are design
 </style>
 </head>
 <body>
-<h1>The First Structure</h1>
+<h1>1. The First Structure</h1>
     <!-- Image container with caption -->
     <div class="image-container">
         <img src='/images/project5_16.PNG' alt="Image Alt Text">
@@ -69,7 +69,7 @@ To assess the impact of these three mentioned parameters, two of them are design
 
 
 <body>
-<h1>The Second Structure</h1>
+<h1>2. The Second Structure</h1>
     <!-- Image container with caption -->
     <div class="image-container">
         <img src='/images/project5_20.PNG' alt="Image Alt Text">
@@ -95,7 +95,7 @@ To assess the impact of these three mentioned parameters, two of them are design
 
 
 <body>
-
+<h1>3. The Third Structure</h1>
     <!-- Image container with caption -->
     <div class="image-container">
         <img src='/images/project5_24.PNG' alt="Image Alt Text">
