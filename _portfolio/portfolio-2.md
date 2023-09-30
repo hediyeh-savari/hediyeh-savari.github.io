@@ -69,7 +69,7 @@ To assess the impact of these three mentioned parameters, two of them are design
 
 
 <body>
-
+<h1>The Second Structure</h1>
     <!-- Image container with caption -->
     <div class="image-container">
         <img src='/images/project5_20.PNG' alt="Image Alt Text">
