@@ -14,6 +14,85 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 Here is a visual showcase depicting various steps of the project through the following images.
 
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        table, td {
+            border: none;
+        }
+        
+        td {
+            padding: 10px;
+            vertical-align: top;
+        }
+        
+        img {
+            width: 100%;
+            height: 100px; /* Adjust the height as needed */
+            object-fit: cover;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>
+                <img src="image1.jpg" alt="Image 1">
+                <p>Caption for Image 1</p>
+            </td>
+            <td>
+                <img src="image2.jpg" alt="Image 2">
+                <p>Caption for Image 2</p>
+            </td>
+            <td>
+                <img src="image3.jpg" alt="Image 3">
+                <p>Caption for Image 3</p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <html>
 <head>
 <style>
