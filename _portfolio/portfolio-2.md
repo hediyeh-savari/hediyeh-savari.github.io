@@ -12,7 +12,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
   * Title: Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates
   * Duties included: Examining various materials to select the **most suitable** one for use as the **electrode**; Investigating different materials for potential use as a **flexible, transparent, and stretchable substrate**; Exploring various coating methods to **create precise electrode patterns**; Assessing the **durability**, **stability**, and **conductivity** of fabricated flexible electrodes and **optimizing** their **characteristics**.
 
-<h1>Summary</h1>
+<h1>Abstract</h1>
 <div style='text-align: justify;'>
 In the simulation conducted for this thesis, the effect of various laser parameters on its output spectrum is examined. Through these investigations, it was determined that the laser bandwidth is directly influenced by three parameters: t (the width of the active area), d (the total width of the active area and waveguide layers), and Jth (the threshold current density). However, no effect on the laser output spectrum was observed from other parameters, such as γ (cavity loss), L (cavity length), A (cavity cross-sectional area), etc.
  <br>
