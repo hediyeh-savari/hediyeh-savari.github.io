@@ -130,7 +130,7 @@ Here is a visual showcase depicting various steps of the project through the fol
     </div>
 
     <div class="image-container">
-        <img src='/images/project5_27.png.JPG' alt="Image Alt Text">
+        <img src='/images/project5_27.png' alt="Image Alt Text">
         <figcaption><span class="fig-caption">Fig.12</span>: The </figcaption>
     </div>      
     <!-- Add similar code for other images and captions -->
