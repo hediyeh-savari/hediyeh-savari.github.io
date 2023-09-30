@@ -39,9 +39,9 @@ Here is a visual showcase depicting various steps of the project through the fol
 
 <table>
   <tr>
-    <td><img src="image1.jpg" alt="Image 1"></td>
-    <td><img src="image2.jpg" alt="Image 2"></td>
-    <td><img src="image3.jpg" alt="Image 3"></td>
+    <td><img src='/images/project5_17.png' alt="Image 1"></td>
+    <td><img src='/images/project5_18.png' alt="Image 2"></td>
+    <td><img src='/images/project5_19.png' alt="Image 3"></td>
   </tr>
   <tr>
     <td>Fig.2: In this case, it is assumed that the parameters 'd' and 't' are variable, while the 'Jth' parameter is held constant. The bandwidth diagram is created using the Plot-3D command in Wolfram Mathematica. As indicated by the plot, Δλ is found to be independent of 't,' but it is influenced by changes in 'd'. It is noteworthy that the slope of Δλ experiences an increasing shift for 'd' values smaller than 60 nm.</td>
