@@ -72,18 +72,18 @@ Here is a visual showcase depicting various steps of the project through the fol
     </div>
 
     <div class="image-container">
-        <img src='/images/projet1_3.JPG' alt="Image Alt Text">
-        <figcaption><span class="fig-caption">Fig.3</span>: Preparing the samples for gold coating by positioning them on the DC sputtering machine.</figcaption>
+        <img src='/images/project5_18.png' alt="Image Alt Text">
+        <figcaption><span class="fig-caption">Fig.3</span>: Preparing </figcaption>
     </div>
 
     <div class="image-container">
-        <img src='/images/projet1_5.JPG' alt="Image Alt Text">
-        <figcaption><span class="fig-caption">Fig.5</span>: Inserting the mask into the lithography machine and precisely aligning it with the mask aligners to ensure accurate positioning in the manufacturing process.</figcaption>
+        <img src='/images/project5_20.PNG' alt="Image Alt Text">
+        <figcaption><span class="fig-caption">Fig.5</span>: Inserting </figcaption>
     </div>
 
         <div class="image-container">
-        <img src='/images/projet1_7.JPG' alt="Image Alt Text">
-        <figcaption><span class="fig-caption">Fig.7</span>: Samples following the completion of the gold etching process.</figcaption>
+        <img src='/images/project5_22.png' alt="Image Alt Text">
+        <figcaption><span class="fig-caption">Fig.7</span>: Samples </figcaption>
     </div>
 
     <div class="image-container">
