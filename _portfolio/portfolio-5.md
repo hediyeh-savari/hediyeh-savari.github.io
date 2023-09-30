@@ -87,13 +87,13 @@ Here is a visual showcase depicting various steps of the project through the fol
     </div>
 
     <div class="image-container">
-        <img src='/images/projet1_90.JPG' alt="Image Alt Text">
-        <figcaption><span class="fig-caption">Fig.9</span>: The outcome of the photolithography process using the second mask on the photoresist.</figcaption>
+        <img src='/images/project5_24.PNG' alt="Image Alt Text">
+        <figcaption><span class="fig-caption">Fig.9</span>: The </figcaption>
     </div>
 
     <div class="image-container">
-        <img src='/images/projet1_11.JPG' alt="Image Alt Text">
-        <figcaption><span class="fig-caption">Fig.11</span>: Positioning the samples within their designated location within the Physical Vapor Deposition (PVD) device.</figcaption>
+        <img src='/images/project5_26.png' alt="Image Alt Text">
+        <figcaption><span class="fig-caption">Fig.11</span>: Positioning </figcaption>
     </div>
     
     <!-- Add similar code for other images and captions -->
