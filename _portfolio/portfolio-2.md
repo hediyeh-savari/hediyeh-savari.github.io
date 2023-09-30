@@ -61,13 +61,13 @@ Here is a visual showcase depicting various steps of the project through the fol
     </td>
     <td>
       <div class="image-container">
-        <img src="image2.jpg" alt="Image 2">
+        <img img src='/images/project5_18.png' alt="Image 2">
       </div>
       <div class="caption">With the assumption that the two parameters, 'd' and 'Jth', are variable, while the parameter 't' remains constant, the bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As illustrated in the plot, Δλ is observed to be responsive to variations in both 'd' and 'Jth' in this particular scenario. These changes peak when 'Jth' values exceed 1x10^6 amperes per square and 'd' values are below 40 nm.</div>
     </td>
     <td>
       <div class="image-container">
-        <img src="image3.jpg" alt="Image 3">
+        <img src='/images/project5_19.png' alt="Image 3">
       </div>
       <div class="caption">With the assumption that the two parameters, 't' and 'Jth', are variable, while the parameter 'd' is held constant, the bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As portrayed in the plot, in this scenario, Δλ is found to be unaffected by 't' but exhibits a linear response to alterations in 'Jth'.</div>
     </td>
