@@ -56,12 +56,12 @@ Here is a visual showcase depicting various steps of the project through the fol
       <div class="caption">The first configuration of the semiconductor laser.</div>
     </td>
     <td>
-      <img src="project5_17.png" alt="Image 2">
-      <div class="caption">In this case, it is assumed that the parameters 'd' and 't' are variable, while the 'Jth' parameter is held constant. The bandwidth diagram is created using the Plot-3D command in Wolfram Mathematica. As indicated by the plot, Δλ is found to be independent of 't,' but it is influenced by changes in 'd'. It is noteworthy that the slope of Δλ experiences an increasing shift for 'd' values smaller than 60 nm.</div>
+      <img src='/images/project5_18.png' alt="Image 2">
+      <div class="caption">With the assumption that the two parameters, 'd' and 'Jth', are variable, while the parameter 't' remains constant, the bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As illustrated in the plot, Δλ is observed to be responsive to variations in both 'd' and 'Jth' in this particular scenario. These changes peak when 'Jth' values exceed 1x10^6 amperes per square and 'd' values are below 40 nm.</div>
     </td>
     <td>
-      <img src="image3.jpg" alt="Image 3">
-      <div class="caption">Caption 3</div>
+      <img src='/images/project5_19.png' alt="Image 3">
+      <div class="caption">With the assumption that the two parameters, 't' and 'Jth', are variable, while the parameter 'd' is held constant, the bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As portrayed in the plot, in this scenario, Δλ is found to be unaffected by 't' but exhibits a linear response to alterations in 'Jth'.</div>
     </td>
   </tr>
   <!-- Add more rows here as needed -->
