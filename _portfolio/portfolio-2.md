@@ -15,6 +15,86 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 Here is a visual showcase depicting various steps of the project through the following images.
 
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  table, th, td {
+    border: none;
+  }
+
+  td {
+    vertical-align: top;
+    width: 33.33%;
+  }
+
+  .image-container {
+    text-align: center;
+    padding: 10px; /* Add padding around the image container */
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .caption {
+    text-align: center;
+    margin-top: 5px;
+  }
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <td>
+      <div class="image-container">
+        <img src="image1.jpg" alt="Image 1">
+      </div>
+      <div class="caption">Caption 1</div>
+    </td>
+    <td>
+      <div class="image-container">
+        <img src="image2.jpg" alt="Image 2">
+      </div>
+      <div class="caption">Caption 2</div>
+    </td>
+    <td>
+      <div class="image-container">
+        <img src="image3.jpg" alt="Image 3">
+      </div>
+      <div class="caption">Caption 3</div>
+    </td>
+  </tr>
+  <!-- Add more rows here as needed -->
+</table>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!DOCTYPE html>
