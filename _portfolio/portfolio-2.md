@@ -51,9 +51,9 @@ Here is a visual showcase depicting various steps of the project through the fol
     <td><img src='/images/project5_19.png' alt="Image 3"></td>
   </tr>
   <tr>
-    <td><strong>Fig.2</strong>: In this case, it is assumed that the parameters 'd' and 't' are variable, while the 'J<sub>th</sub>' parameter is held constant. The bandwidth diagram is created using the Plot-3D command in Wolfram Mathematica. As indicated by the plot, Δλ is found to be independent of 't,' but it is influenced by changes in 'd'. It is noteworthy that the slope of Δλ experiences an increasing shift for 'd' values smaller than 60 nm.</td>
-    <td><strong>Fig.3</strong>: With the assumption that the two parameters, 'd' and 'J<sub>th</sub>', are variable, while the parameter 't' remains constant, the bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As illustrated in the plot, Δλ is observed to be responsive to variations in both 'd' and 'J<sub>th</sub>' in this particular scenario. These changes peak when 'J<sub>th</sub>' values exceed 1x10<sup>6</sup> amperes per square and 'd' values are below 40 nm.</td>
-    <td><strong>Fig.4</strong>: With the assumption that the two parameters, 't' and 'J<sub>th</sub>', are variable, while the parameter 'd' is held constant, the bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As portrayed in the plot, in this scenario, Δλ is found to be unaffected by 't' but exhibits a linear response to alterations in 'J<sub>th</sub>'.
+    <td><strong>Fig.1_1</strong>: In this case, it is assumed that the parameters 'd' and 't' are variable, while the 'J<sub>th</sub>' parameter is held constant. The bandwidth diagram is created using the Plot-3D command in Wolfram Mathematica. As indicated by the plot, Δλ is found to be independent of 't,' but it is influenced by changes in 'd'. It is noteworthy that the slope of Δλ experiences an increasing shift for 'd' values smaller than 60 nm.</td>
+    <td><strong>Fig.1_2</strong>: With the assumption that the two parameters, 'd' and 'J<sub>th</sub>', are variable, while the parameter 't' remains constant, the bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As illustrated in the plot, Δλ is observed to be responsive to variations in both 'd' and 'J<sub>th</sub>' in this particular scenario. These changes peak when 'J<sub>th</sub>' values exceed 1x10<sup>6</sup> amperes per square and 'd' values are below 40 nm.</td>
+    <td><strong>Fig.1_3</strong>: With the assumption that the two parameters, 't' and 'J<sub>th</sub>', are variable, while the parameter 'd' is held constant, the bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As portrayed in the plot, in this scenario, Δλ is found to be unaffected by 't' but exhibits a linear response to alterations in 'J<sub>th</sub>'.
 </td>
   </tr>
 </table>
@@ -63,27 +63,12 @@ Here is a visual showcase depicting various steps of the project through the fol
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-</style>
-</head>
 <body>
 
     <!-- Image container with caption -->
     <div class="image-container">
-        <img src='/images/project5_16.PNG' alt="Image Alt Text">
-        <figcaption><span class="fig-caption">Fig.1</span>: The first configuration of the semiconductor laser.</figcaption>
+        <img src='/images/project5_20.PNG' alt="Image Alt Text">
+        <figcaption><span class="fig-caption">Fig.2</span>: The second configuration of the semiconductor laser.</figcaption>
     </div>
 
 
@@ -94,9 +79,9 @@ Here is a visual showcase depicting various steps of the project through the fol
     <td><img src='/images/project5_23.png' alt="Image 3"></td>
   </tr>
   <tr>
-    <td><strong>Fig.6</strong>: In this case, it is assumed that the two parameters, 'd' and 't', are variable, while the 'J<sub>th</sub>' parameter is held constant. The bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As illustrated in the plot, Δλ is found to be unaffected by 't' and remains consistent regardless of its variation. However, it is observed to be sensitive to changes in 'd'. Notably, the slope of Δλ experiences an increasingly pronounced shift for 'd' values below 40 nm.</td>
-    <td><strong>Fig.7</strong>: With the assumption that the two parameters, 'd' and 'J<sub>th</sub>,' are variable while keeping the parameter 't' constant, the bandwidth diagram is constructed using the Plot-3D command in Wolfram Mathematica. As observed in the plot, Δλ exhibits sensitivity to variations in both 'd' and 'Jth.' These sensitivities reach their peak when 'Jth' values exceed 1x10<sup>6</sup> ampere/m², and 'd' values are less than 40 nm.</td>
-    <td><strong>Fig.8</strong>: With the assumption that the two parameters, 't' and 'J<sub>th</sub>,' are variable while keeping the parameter 'd' constant, the bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As observed in the plot, Δλ remains unaffected by 't' but exhibits linear changes in response to variations in 'J<sub>th</sub>.'
+    <td><strong>Fig.2_1</strong>: In this case, it is assumed that the two parameters, 'd' and 't', are variable, while the 'J<sub>th</sub>' parameter is held constant. The bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As illustrated in the plot, Δλ is found to be unaffected by 't' and remains consistent regardless of its variation. However, it is observed to be sensitive to changes in 'd'. Notably, the slope of Δλ experiences an increasingly pronounced shift for 'd' values below 40 nm.</td>
+    <td><strong>Fig.2_2</strong>: With the assumption that the two parameters, 'd' and 'J<sub>th</sub>,' are variable while keeping the parameter 't' constant, the bandwidth diagram is constructed using the Plot-3D command in Wolfram Mathematica. As observed in the plot, Δλ exhibits sensitivity to variations in both 'd' and 'Jth.' These sensitivities reach their peak when 'Jth' values exceed 1x10<sup>6</sup> ampere/m², and 'd' values are less than 40 nm.</td>
+    <td><strong>Fig.2_3</strong>: With the assumption that the two parameters, 't' and 'J<sub>th</sub>,' are variable while keeping the parameter 'd' constant, the bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As observed in the plot, Δλ remains unaffected by 't' but exhibits linear changes in response to variations in 'J<sub>th</sub>.'
 </td>
   </tr>
 </table>
