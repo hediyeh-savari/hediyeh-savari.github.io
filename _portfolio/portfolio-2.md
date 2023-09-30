@@ -18,6 +18,7 @@ In the simulation conducted for this thesis, the effect of various laser paramet
  <br>
 To assess the impact of these three mentioned parameters, two of them are designated as variables in each trial, while the remaining parameter is maintained as a constant. Subsequently, utilizing Wolfram Mathematica software, the bandwidth diagram will be generated with respect to the two variable parameters. The effect of these parameters on the laser bandwidth will be observed and assessed. The range of variable values is selected to ensure that the laser's output bandwidth remains below 5 nm, aligning with the project's objectives.
   <br>
+  <br>
 </div>
 
 
