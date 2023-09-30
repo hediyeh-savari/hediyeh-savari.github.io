@@ -33,7 +33,7 @@ Here is a visual showcase depicting various steps of the project through the fol
 
         /* Style for the image container */
         .image-container {
-            max-width: 300px; /* Set the maximum width for your images */
+            width: 300px; /* Set the maximum width for your images */
             margin-bottom: 20px; /* Add spacing between images and captions */
             font-size: 20px; /* Adjust the value to your preferred font size */
         }
