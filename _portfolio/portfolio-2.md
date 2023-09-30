@@ -52,7 +52,7 @@ Here is a visual showcase depicting various steps of the project through the fol
 <table>
   <tr>
     <td>
-      <img src="project5_16.PNG" alt="Image 1">
+      <img src='/images/project5_16.PNG' alt="Image 1">
       <div class="caption">The first configuration of the semiconductor laser.</div>
     </td>
     <td>
