@@ -73,7 +73,7 @@ Here is a visual showcase depicting various steps of the project through the fol
 
     <div class="image-container">
         <img src='/images/project5_18.png' alt="Image Alt Text">
-        <figcaption><span class="fig-caption">Fig.3</span>: Preparing </figcaption>
+        <figcaption><span class="fig-caption">Fig.3</span>: With the assumption that the two parameters, 'd' and 'Jth', are variable, while the parameter 't' remains constant, the bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As illustrated in the plot, Δλ is observed to be responsive to variations in both 'd' and 'Jth' in this particular scenario.</figcaption>
     </div>
 
     <div class="image-container">
@@ -106,7 +106,7 @@ Here is a visual showcase depicting various steps of the project through the fol
     <!-- Image container with caption -->
     <div class="image-container">
         <img src='/images/project5_17.png' alt="Image Alt Text">
-        <figcaption><span class="fig-caption">Fig.2</span>: In this case, it is assumed that the parameters 'd' and 't' are variable, while the 'Jth' parameter is held constant. The bandwidth diagram is created using the Plot-3D command in Wolfram Mathematica. As indicated by the plot, Δλ is found to be independent of 't,' but it is influenced by changes in 'd.' </figcaption>
+        <figcaption><span class="fig-caption">Fig.2</span>: In this case, it is assumed that the parameters 'd' and 't' are variable, while the 'Jth' parameter is held constant. The bandwidth diagram is created using the Plot-3D command in Wolfram Mathematica. As indicated by the plot, Δλ is found to be independent of 't,' but it is influenced by changes in 'd.'</figcaption>
     </div>
 
     <div class="image-container">
