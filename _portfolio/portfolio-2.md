@@ -61,7 +61,18 @@ collection: portfolio
 <!-- ... (Your content) ... -->
 
 
+<h1>4. ?</h1>
+<div style='text-align: justify;'>
+ ?
+</div>
 
+
+<div class="image-container">
+  <img src='/images/project2_4.jpg' alt="Image 1" width="300" class="centered-image"> <!-- Adjust the width as needed -->
+  <figcaption><span class="fig-caption">Fig.1</span>: ?</figcaption>
+</div>
+
+<!-- Repeat the same structure for other images -->
 
 
 
