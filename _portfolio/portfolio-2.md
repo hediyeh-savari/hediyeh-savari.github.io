@@ -94,7 +94,7 @@ In this research, two types of masks were designed for electrode fabrication usi
   }
 
   .image-container img {
-    max-width: 50%; /* Set the maximum width of images to 100% of their parent container */
+    max-width: 25%; /* Set the maximum width of images to 100% of their parent container */
     height: auto; /* Automatically adjust the height to maintain the aspect ratio */
     display: inline-block; /* Make the images display as inline-block to center-align them */
   }
