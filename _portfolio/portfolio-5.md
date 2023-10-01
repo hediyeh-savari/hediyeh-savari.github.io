@@ -139,12 +139,6 @@ In this manner, achieving an output wavelength of 808 nm at room temperature can
 </body>
 
 
-<p>
-  <cite>Semiconductor Optoelectronic Devices</cite><br>
-  Author(s): Bhattacharya, Pallab<br>
-  Publisher: Prentice-Hall, Inc.<br>
-  Publication Year: 1997
-</p>
 
 
 
@@ -197,3 +191,10 @@ In this manner, achieving an output wavelength of 808 nm at room temperature can
     </style>
 </head>
 </html>
+
+<p>
+  <cite>Semiconductor Optoelectronic Devices</cite><br>
+  Author(s): Bhattacharya, Pallab<br>
+  Publisher: Prentice-Hall, Inc.<br>
+  Publication Year: 1997
+</p>
