@@ -122,6 +122,83 @@ To assess the impact of these three mentioned parameters, two of them are design
 <body>
 
 
+
+
+<h1>1. Employing Shadow Mask and DC Sputtering Techniques in Electrode Design</h1>
+<img src='/images/project2_1.jpg' alt="Image 1">
+<figcaption><span class="fig-caption">Fig.1</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</figcaption>
+
+
+<h1>2. ?</h1>
+<img src='/images/project2_2.jpg' alt="Image 1">
+<figcaption><span class="fig-caption">Fig.2</span>: ?</figcaption>
+
+
+
+<h1>3. ?</h1>
+<img src='/images/project2_3.jpg' alt="Image 1">
+<figcaption><span class="fig-caption">Fig.3</span>: ?</figcaption>
+
+
+<h1>4. ?</h1>
+<img src='/images/project2_4.jpg' alt="Image 1">
+<figcaption><span class="fig-caption">Fig.4</span>: ?</figcaption>
+
+
+<h1>5. ?</h1>
+<img src='/images/project2_5.jpg' alt="Image 1">
+<figcaption><span class="fig-caption">Fig.5</span>: ?</figcaption>
+
+
+<h1>6. ?</h1>
+<img src='/images/project2_6.jpg' alt="Image 1">
+<figcaption><span class="fig-caption">Fig.6</span>: ?</figcaption>
+
+
+<h1>7. ?</h1>
+<img src='/images/project2_7.jpg' alt="Image 1">
+<figcaption><span class="fig-caption">Fig.7</span>: Images of the TPU sample with silver coating layer and design. (a) shows the silver coating layer on TPU, (b) displays the design created on TPU after the shadow mask was removed, (c) depicts the transparency and flexibility of the final sample, and (d) shows the proper adaptation of the sample on a human hand.</figcaption>
+
+
+<h1>8. ?</h1>
+<img src='/images/project2_8.png' alt="Image 1">
+<figcaption><span class="fig-caption">Fig.8</span>: Optical microscope image of sputter-printed electrodes. The accuracy of the printing method used is clearly visible.</figcaption>
+
+
+<h1>9. ?</h1>
+<img src='/images/project2_9.jpg' alt="Image 1">
+<figcaption><span class="fig-caption">Fig.9</span>: Silver interdigital electrode fabricated on the TPU substrate using the DC-sputtering method.</figcaption>
+
+
+<h1>2. ?</h1>
+<img src='/images/project2_10.jpg' alt="Image 1">
+<figcaption><span class="fig-caption">Fig.10</span>: ?</figcaption>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 <h1>1. The First Laser Structure</h1>
  <div style='text-align: justify;'>
