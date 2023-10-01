@@ -101,7 +101,7 @@ In this research, two types of masks were designed for electrode fabrication usi
 </style>
 </head>
 <body>
-<h1>2. ?</h1>
+<h1>3. ?</h1>
  <div style='text-align: justify;'>
 ?
  </div>
@@ -119,22 +119,45 @@ In this research, two types of masks were designed for electrode fabrication usi
 
 
 
+<html>
+<head>
+<style>
+  /* CSS to center-align the images */
+  .image-container {
+    text-align: center; /* Center-align the container */
+  }
 
-
-<h1>2. ?</h1>
-<img src='/images/project2_2.jpg' alt="Image 1">
-<figcaption><span class="fig-caption">Fig.2</span>: ?</figcaption>
-
-
-
-<h1>3. ?</h1>
-<img src='/images/project2_3.jpg' alt="Image 1">
-<figcaption><span class="fig-caption">Fig.3</span>: ?</figcaption>
-
-
+  .image-container img {
+    max-width: 50%; /* Set the maximum width of images to 100% of their parent container */
+    height: auto; /* Automatically adjust the height to maintain the aspect ratio */
+    display: inline-block; /* Make the images display as inline-block to center-align them */
+  }
+</style>
+</head>
+<body>
 <h1>4. ?</h1>
-<img src='/images/project2_4.jpg' alt="Image 1">
+ <div style='text-align: justify;'>
+?
+ </div>
+
+<!-- Center-aligned image container for each image -->
+<div class="image-container">
+  <img src='/images/project2_4.jpg' alt="Image 4">
+</div>
 <figcaption><span class="fig-caption">Fig.4</span>: ?</figcaption>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
 
 
 <h1>5. ?</h1>
