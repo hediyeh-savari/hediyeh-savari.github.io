@@ -254,16 +254,6 @@ In this research, two types of masks were designed for electrode fabrication usi
 
 
 
-<h1>5. ?</h1>
-<img src='/images/project2_5.jpg' alt="Image 1">
-<figcaption><span class="fig-caption">Fig.5</span>: ?</figcaption>
-
-
-<h1>6. ?</h1>
-<img src='/images/project2_6.jpg' alt="Image 1">
-<figcaption><span class="fig-caption">Fig.6</span>: ?</figcaption>
-
-
 <h1>7. DC-Sputtering of Silver</h1>
 
 <div style='text-align: justify;'>
