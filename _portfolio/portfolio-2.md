@@ -78,6 +78,9 @@ The remarkable flexibility and adaptability of silver electrodes deposited on a 
 <img src='/images/project2_8.png' alt="Image 1">
 <figcaption><span class="fig-caption">Fig.8</span>: Optical microscope image of sputter-printed electrodes. The accuracy of the printing method used is clearly visible.</figcaption>
 
+<div style='text-align: justify;'>
+The quadruple deposited electrodes are depicted in Photo 2, while the interdigitated deposited electrodes are illustrated in Photo 3.
+</div>
 
 <h1>9. ?</h1>
 <img src='/images/project2_9.jpg' alt="Image 1">
