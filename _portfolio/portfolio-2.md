@@ -50,7 +50,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 <h1>7. ?</h1>
 <img src='/images/project2_7.jpg' alt="Image 1">
-<figcaption><span class="fig-caption">Fig.7</span>: ?</figcaption>
+<figcaption><span class="fig-caption">Fig.7</span>: Images of the TPU sample with silver coating layer and design. (a) shows the silver coating layer on TPU, (b) displays the design created on TPU after the shadow mask was removed, (c) depicts the transparency and flexibility of the final sample, and (d) shows the proper adaptation of the sample on a human hand.</figcaption>
 
 
 <h1>8. ?</h1>
