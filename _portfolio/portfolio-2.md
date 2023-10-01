@@ -68,11 +68,107 @@ collection: portfolio
 
 
 <div class="image-container">
-  <img src='/images/project2_4.jpg' alt="Image 1" width="300" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.1</span>: ?</figcaption>
+  <img src='/images/project2_4.jpg' alt="Image 4" width="300" class="centered-image"> <!-- Adjust the width as needed -->
+  <figcaption><span class="fig-caption">Fig.4</span>: ?</figcaption>
 </div>
 
 <!-- Repeat the same structure for other images -->
+
+
+
+<h1>5. ?</h1>
+<div style='text-align: justify;'>
+ ?
+</div>
+
+
+<div class="image-container">
+  <img src='/images/project2_5.jpg' alt="Image 5" width="300" class="centered-image"> <!-- Adjust the width as needed -->
+  <figcaption><span class="fig-caption">Fig.5</span>: ?</figcaption>
+</div>
+
+<!-- Repeat the same structure for other images -->
+
+
+
+<h1>6. ?</h1>
+<div style='text-align: justify;'>
+ ?
+</div>
+
+
+<div class="image-container">
+  <img src='/images/project2_6.jpg' alt="Image 6" width="300" class="centered-image"> <!-- Adjust the width as needed -->
+  <figcaption><span class="fig-caption">Fig.6</span>: ?</figcaption>
+</div>
+
+<!-- Repeat the same structure for other images -->
+
+
+
+<h1>7. ?</h1>
+<div style='text-align: justify;'>
+ ?
+</div>
+
+
+<div class="image-container">
+  <img src='/images/project2_7.jpg' alt="Image 7" width="300" class="centered-image"> <!-- Adjust the width as needed -->
+  <figcaption><span class="fig-caption">Fig.7</span>: ?</figcaption>
+</div>
+
+<!-- Repeat the same structure for other images -->
+
+
+
+
+
+<h1>8. ?</h1>
+<div style='text-align: justify;'>
+ ?
+</div>
+
+
+<div class="image-container">
+  <img src='/images/project2_8.png' alt="Image 8" width="300" class="centered-image"> <!-- Adjust the width as needed -->
+  <figcaption><span class="fig-caption">Fig.8</span>: ?</figcaption>
+</div>
+
+<!-- Repeat the same structure for other images -->
+
+
+
+<h1>9. ?</h1>
+<div style='text-align: justify;'>
+ ?
+</div>
+
+
+<div class="image-container">
+  <img src='/images/project2_9.jpg' alt="Image 9" width="300" class="centered-image"> <!-- Adjust the width as needed -->
+  <figcaption><span class="fig-caption">Fig.9</span>: ?</figcaption>
+</div>
+
+<!-- Repeat the same structure for other images -->
+
+
+
+<h1>10. ?</h1>
+<div style='text-align: justify;'>
+ ?
+</div>
+
+
+<div class="image-container">
+  <img src='/images/project2_10.jpg' alt="Image 10" width="300" class="centered-image"> <!-- Adjust the width as needed -->
+  <figcaption><span class="fig-caption">Fig.10</span>: ?</figcaption>
+</div>
+
+<!-- Repeat the same structure for other images -->
+
+
+
+
 
 
 
