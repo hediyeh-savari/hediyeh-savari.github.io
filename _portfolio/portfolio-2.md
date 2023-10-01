@@ -12,7 +12,9 @@ This is an item in your portfolio. It can be have images or nice text. If you na
   * Title: Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates
   * Duties included: Examining various materials to select the **most suitable** one for use as the **electrode**; Investigating different materials for potential use as a **flexible, transparent, and stretchable substrate**; Exploring various coating methods to **create precise electrode patterns**; Assessing the **durability**, **stability**, and **conductivity** of fabricated flexible electrodes and **optimizing** their **characteristics**.
 
-
+<html>
+<head>
+    <style>
 
 div {
     width: 800px;
@@ -25,7 +27,14 @@ img {
 }
 
 
-<h1>1. Employing Shadow Mask and DC Sputtering Techniques in Electrode Designnnnnnnnnnnn</h1>
+    </style>
+</head>
+</head>html>
+
+
+
+
+<h1>1. Employing Shadow Mask and DC Sputtering Techniques in Electrode Designzzzzzzzzzzz</h1>
 <div style='text-align: justify;'>
 The selection of silver as the electrode material for the sensor was based on its superior conductivity attributed to its single valence electron. To achieve high precision in electrode fabrication, the DC-Sputtering method was chosen.
 </div>
