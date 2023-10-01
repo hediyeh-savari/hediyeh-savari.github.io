@@ -100,7 +100,7 @@ The resistance of each electrode was found to be 2.2 kΩ, which was deemed high 
 
 <h1>5. Fabrication of Flexible Electrode Using Shadow Mask and DC Sputtering</h1>
 <div style='text-align: justify;'>
- ?
+High precision was required for the fabrication of flexible electrodes, and conventional coating methods were found to be inadequate in producing appropriate results. None of the previous methods were deemed accurate enough. Consequently, the DC Sputtering method was employed for deposition. Additionally, a silver metal target was utilized in place of silver nanowires.
 </div>
 
 
