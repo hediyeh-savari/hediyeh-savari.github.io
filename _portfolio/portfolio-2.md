@@ -72,6 +72,7 @@ After the silver nanowires were synthesized and centrifuged, photolithography wa
 <h1>3. Fabrication of Flexible Electrodes through Silver Nanowire Deposition Using a Spray Gun</h1>
 <div style='text-align: justify;'>
 Another method that was explored involved the deposition of silver nanowires using a spray gun. In this method, the nanowires were subjected to significant pressure, resulting in their crushing and breakage, which led to the manifestation of very high resistance. With high applied pressure, a relatively uniform layer was formed on the surface, but it resulted in the deformation of the nanowires. Conversely, when the pressure was reduced, the coating became non-uniform. This method also yielded unsatisfactory results, leading to its rejection.
+  <br>
 </div>
 
 
@@ -80,6 +81,7 @@ Another method that was explored involved the deposition of silver nanowires usi
 <div style='text-align: justify;'>
 The solution of silver nanowires dissolved in water was combined with HEC and rendered uniform through esterification. Additionally, the shadow mask was affixed to the TPU sheet. Subsequently, this solution was poured onto the mask using the drop-casting method to fill the empty areas of the TPU. The sample was then positioned on a hot plate for 30 minutes, heated to 80°C, and dried. Finally, the mask was gently removed from the TPU surface, yielding the following result.
  <br>
+  <br>
 </div>
 
 
