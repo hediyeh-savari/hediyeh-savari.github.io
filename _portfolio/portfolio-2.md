@@ -46,7 +46,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 <body>
     <div class="image-container">
         <img src="/images/project2_1.jpg" alt="Image 1">
-        <div class="caption"><span class="fig-caption">Fig.1</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</div>
+        <div class="caption"><span class="fig-caption">Fig.1111111111</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</div>
     </div>
 </body>
 </html>
