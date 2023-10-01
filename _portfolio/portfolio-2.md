@@ -164,7 +164,7 @@ According to band edge calculations, the band gap energy corresponding to the In
 
         /* Style for images */
         .image-container img {
-            width: 200%; /* Make the image width match the container width */
+            width: 100%; /* Make the image width match the container width */
             height: auto; /* Maintain aspect ratio */
         }
 
