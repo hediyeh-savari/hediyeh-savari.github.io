@@ -53,7 +53,7 @@ After the silver nanowires were synthesized and centrifuged, photolithography wa
 
 
 
-<h1>2. Designing Flexible Electrodes using a 3D Printer</h1>
+<h1>2. Fabrication of Flexible Electrode via 3D Printing</h1>
 <div style='text-align: justify;'>
  In another attempt, a 3D printer was employed to design the silver nanowires. The setup of a 3D printer was established for coating silver nanowires on three different substrates: polyethylene terephthalate, polycarbonate, and thermoplastic polyurethane. The final result was deemed inappropriate. The reason for this was attributed to the low viscosity of the silver nanowire solution.
 </div>
