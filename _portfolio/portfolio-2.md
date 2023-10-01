@@ -71,13 +71,13 @@ collection: portfolio
   The remarkable flexibility and adaptability of silver electrodes deposited on a thermoplastic-polyurethane substrate to curved surfaces, such as the human hand, were demonstrated in the presented figure. The measurement of the sheet resistance of the electrodes yielded a value of 3 (Ω/sq).
 </div>
 
-<img src='/images/project2_8.png' alt="Image 8" width="300"> <!-- Adjust the width as needed -->
+<img src='/images/project2_8.png' alt="Image 8" width="400"> <!-- Adjust the width as needed -->
 <figcaption><span class="fig-caption">Fig.8</span>: Optical microscope image of sputter-printed electrodes. The accuracy of the printing method used is clearly visible.</figcaption>
 
 <!-- Repeat for other images -->
 
 <h1>9. ?</h1>
-<img src='/images/project2_9.jpg' alt="Image 9" width="200"> <!-- Adjust the width as needed -->
+<img src='/images/project2_9.jpg' alt="Image 9" width="100"> <!-- Adjust the width as needed -->
 <figcaption><span class="fig-caption">Fig.9</span>: Silver interdigital electrode fabricated on the TPU substrate using the DC-sputtering method.</figcaption>
 
 <!-- Repeat for other images -->
