@@ -22,31 +22,31 @@ collection: portfolio
   In this research, two types of masks were designed for electrode fabrication using CorelDRAW, as illustrated in Figure 3. The electrode displayed in Figure 3-(a) was found to be appropriate for the sensor array. In fact, by employing these electrodes, it is possible to fabricate four different types of sensors on a common substrate based on the number of fingers. However, if the electrode (b) type is utilized, only one type of sensor can be produced on the substrate. The measurement accuracy of the electrode (b) type is higher than that of the other type. Therefore, for this study, the electrode (b) type was chosen.
 </div>
 
-<img src='/images/project2_1.jpg' alt="Image 1" width="150"> <!-- Adjust the width as needed -->
+<img src='/images/project2_1.jpg' alt="Image 1" width="250"> <!-- Adjust the width as needed -->
 <figcaption><span class="fig-caption">Fig.1</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</figcaption>
 
 <!-- Repeat the above structure for other images -->
 
 <h1>2. ?</h1>
-<img src='/images/project2_2.jpg' alt="Image 2" width="200"> <!-- Adjust the width as needed -->
+<img src='/images/project2_2.jpg' alt="Image 2" width="300"> <!-- Adjust the width as needed -->
 <figcaption><span class="fig-caption">Fig.2</span>: ?</figcaption>
 
 <!-- Repeat for other images -->
 
 <h1>3. ?</h1>
-<img src='/images/project2_3.jpg' alt="Image 3" width="100"> <!-- Adjust the width as needed -->
+<img src='/images/project2_3.jpg' alt="Image 3" width="200"> <!-- Adjust the width as needed -->
 <figcaption><span class="fig-caption">Fig.3</span>: ?</figcaption>
 
 <!-- Repeat for other images -->
 
 <h1>4. ?</h1>
-<img src='/images/project2_4.jpg' alt="Image 4" width="250"> <!-- Adjust the width as needed -->
+<img src='/images/project2_4.jpg' alt="Image 4" width="350"> <!-- Adjust the width as needed -->
 <figcaption><span class="fig-caption">Fig.4</span>: ?</figcaption>
 
 <!-- Repeat for other images -->
 
 <h1>5. ?</h1>
-<img src='/images/project2_5.jpg' alt="Image 5" width="300"> <!-- Adjust the width as needed -->
+<img src='/images/project2_5.jpg' alt="Image 5" width="400"> <!-- Adjust the width as needed -->
 <figcaption><span class="fig-caption">Fig.5</span>: ?</figcaption>
 
 <!-- Repeat for other images -->
