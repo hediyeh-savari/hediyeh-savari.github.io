@@ -96,7 +96,7 @@ Research Interests
         <li>&#x2022; Smart Materials/Textile</li>
         <li>&#x2022; Disease Diagnosis</li>
         <li>&#x2022; Health Monitoring</li>
-        <li>&#x2022; Lab-on-a-Chip</li>
+        <li>&#x2022; Lab-on-a-Chip Technology</li>
         <li>&#x2022; Nanotechnology</li>
         <li>&#x2022; Nanoelectronics</li>
         <li>&#x2022; Wearable Electronics</li>
