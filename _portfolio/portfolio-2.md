@@ -94,14 +94,14 @@ In this research, two types of masks were designed for electrode fabrication usi
   }
 
   .image-container img {
-    max-width: 25%; /* Set the maximum width of images to 100% of their parent container */
+    max-width: 20%; /* Set the maximum width of images to 100% of their parent container */
     height: auto; /* Automatically adjust the height to maintain the aspect ratio */
     display: inline-block; /* Make the images display as inline-block to center-align them */
   }
 </style>
 </head>
 <body>
-<h1>3. ?</h1>
+<h1>3. srteeek</h1>
  <div style='text-align: justify;'>
 ?
  </div>
