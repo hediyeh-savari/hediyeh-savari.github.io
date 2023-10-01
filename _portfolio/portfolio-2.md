@@ -140,7 +140,7 @@ High precision was required for the fabrication of flexible electrodes, and conv
 
 <div class="image-container">
   <img src='/images/project2_8.png' alt="Image 8" width="350" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.8</span>: ?</figcaption>
+  <figcaption><span class="fig-caption">Fig.7</span>: The flexible electrodes, created through the DC sputtering method, are observed under the optical microscope. The image illustrates the accuracy of this method.</figcaption>
 </div>
 
 <!-- Repeat the same structure for other images -->
