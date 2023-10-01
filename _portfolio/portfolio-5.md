@@ -109,6 +109,11 @@ According to band edge calculations, the band gap energy corresponding to the In
 
 <body>
 <h1>3. The Third Laser Structure</h1>
+   <div style='text-align: justify;'>
+It was observed that light emission at a wavelength of 805 nm at room temperature was emitted by the two structures previously examined in this system. Since the thickness of the In0.13Ga0.78As0.74P0.26 active layer in the previous structures was much greater (40 nm) than the typical thickness (t<15 nm) employed for quantum wells, it can be concluded that in this system, thickness has minimal impact on the output light wavelength. The energy of the electron and hole ground state is attributed to the edge of the conduction band and capacitance, respectively. Therefore, optimizing the structure to achieve an output wavelength of 808 nm at room temperature can only be achieved by modifying the content of participating elements in the active region. Calculations performed on the band structure reveal that the structure containing an In content of 0.16 (with a Ga content of 0.84) and an As content of 0.71 (with a P content of 0.29) in the active region emits light at a wavelength of 808 nm at room temperature. In this case, the inconsistency of the In0.16Ga0.84As0.71P0.29 lattice with the GaAs lattice is 0.09%, a small inconsistency ensuring the feasibility of two-dimensional growth with substantial thicknesses of In0.16Ga0.84As0.71P0.29. Furthermore, In0.16Ga0.84As0.71P0.29 possesses a direct energy gap, indicating a high likelihood of electron-hole recombination in this system.
+ <br>
+ <br>
+ </div>
     <!-- Image container with caption -->
     <div class="image-container">
         <img src='/images/project5_24.PNG' alt="Image Alt Text">
