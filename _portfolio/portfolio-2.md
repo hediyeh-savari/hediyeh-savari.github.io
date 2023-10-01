@@ -37,7 +37,7 @@ collection: portfolio
 
 
 <div style='text-align: justify;'>
-After the silver nanowires were synthesized and centrifuged, photolithography was performed on them using the lift-off method to obtain the mask pattern. To carry out photolithography on the TPU electrodes, the designed mask was inserted onto the TPU. However, due to the high flexibility of the TPU sheet, a lam was employed as a support to facilitate the fitting of the mask, as demonstrated in the figure below. The settings of the photolithography device were configured as follows: Time was set to 10 seconds, intensity was set at 100%, and the LED was turned on. The result of the photolithography of silver nanowires was not favorable, and the mask's pattern did not appear on the TPU.
+After the silver nanowires were synthesized and centrifuged, photolithography was performed on them using the lift-off method to obtain the mask pattern. To carry out photolithography on the TPU electrodes, the designed mask was inserted onto the TPU. However, due to the high flexibility of the TPU sheet, a lam was employed as a support to facilitate the fitting of the mask, as demonstrated in the figure below. The settings of the photolithography device were configured as follows: Time was set to 10 seconds, intensity was set at 100%, and the LED was turned on. The result of the photolithography of silver nanowires was not favorable, and the mask pattern did not appear on the TPU.
 </div>
 
 
