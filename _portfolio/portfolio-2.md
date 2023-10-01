@@ -27,7 +27,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
         }
 
         .image-container img {
-            max-width: 100%; /* Ensure the image does not exceed the container's width */
+            max-width: 1000%; /* Ensure the image does not exceed the container's width */
             height: auto; /* Automatically adjust the height to preserve aspect ratio */
         }
 
