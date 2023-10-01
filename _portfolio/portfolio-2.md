@@ -14,6 +14,16 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 
 
+<h1>1. Employing Shadow Mask and DC Sputtering Techniques in Electrode Designmmmmmmmmmmm</h1>
+<div style='text-align: justify;'>
+The selection of silver as the electrode material for the sensor was based on its superior conductivity attributed to its single valence electron. To achieve high precision in electrode fabrication, the DC-Sputtering method was chosen.
+</div>
+
+<div style='text-align: justify;'>
+In this research, two types of masks were designed for electrode fabrication using CorelDRAW, as illustrated in Figure 3. The electrode displayed in Figure 3-(a) was found to be appropriate for the sensor array. In fact, by employing these electrodes, it is possible to fabricate four different types of sensors on a common substrate based on the number of fingers. However, if the electrode (b) type is utilized, only one type of sensor can be produced on the substrate. The measurement accuracy of the electrode (b) type is higher than that of the other type. Therefore, for this study, the electrode (b) type was chosen.
+</div>
+
+
 
 .image-container {
     max-width: 100%; /* Set a maximum width for the container */
@@ -28,16 +38,6 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 
 
-
-
-<h1>1. Employing Shadow Mask and DC Sputtering Techniques in Electrode Design</h1>
-<div style='text-align: justify;'>
-The selection of silver as the electrode material for the sensor was based on its superior conductivity attributed to its single valence electron. To achieve high precision in electrode fabrication, the DC-Sputtering method was chosen.
-</div>
-
-<div style='text-align: justify;'>
-In this research, two types of masks were designed for electrode fabrication using CorelDRAW, as illustrated in Figure 3. The electrode displayed in Figure 3-(a) was found to be appropriate for the sensor array. In fact, by employing these electrodes, it is possible to fabricate four different types of sensors on a common substrate based on the number of fingers. However, if the electrode (b) type is utilized, only one type of sensor can be produced on the substrate. The measurement accuracy of the electrode (b) type is higher than that of the other type. Therefore, for this study, the electrode (b) type was chosen.
-</div>
 
 
 <div class="image-container">
