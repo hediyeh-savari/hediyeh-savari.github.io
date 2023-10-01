@@ -14,71 +14,6 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 
 
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Image with Caption</title>
-    <style>
-        .image-container {
-            position: relative;
-            max-width: 10000px; /* Set a maximum width for the container */
-            margin: 0 auto; /* Center the container horizontally */
-        }
-
-        .image-container img {
-            max-width: 1000%; /* Ensure the image does not exceed the container's width */
-            height: auto; /* Automatically adjust the height to preserve aspect ratio */
-        }
-
-        .caption {
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            background-color: rgba(0, 0, 0, 0.7);
-            color: #fff;
-            padding: 10px;
-            text-align: center;
-        }
-    </style>
-</head>
-<body>
-    <div class="image-container">
-        <img src="/images/project2_1.jpg" alt="Image 1">
-        <div class="caption"><span class="fig-caption">Fig.1111111111</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</div>
-    </div>
-</body>
-</html>
-
-<h1>2. ?</h1>
-<div class="image-container">
-    <img src='/images/project2_2.jpg' alt="Image 1">
-    <figcaption><span class="fig-caption">Fig.2</span>: ?</figcaption>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h1>1. Employing Shadow Mask and DC Sputtering Techniques in Electrode Design</h1>
 <div style='text-align: justify;'>
 The selection of silver as the electrode material for the sensor was based on its superior conductivity attributed to its single valence electron. To achieve high precision in electrode fabrication, the DC-Sputtering method was chosen.
@@ -89,9 +24,17 @@ In this research, two types of masks were designed for electrode fabrication usi
 </div>
 
 <div class="image-container">
-    <img src='/images/project2_1.jpg' alt="Image 1">
-    <figcaption><span class="fig-caption">Fig.11111111</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</figcaption>
+    <img src='/images/project2_1.jpg' style='max-width: 320px; max-height: auto;' alt="Image 1">
+    <figcaption><span class="fig-caption">Fig.1</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</figcaption>
 </div>
+
+
+<div class="image-container">
+    <img src='/images/project2_1.jpg' alt="Image 1">
+    <figcaption><span class="fig-caption">Fig.1</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</figcaption>
+</div>
+
+
 
 <h1>2. ?</h1>
 <div class="image-container">
