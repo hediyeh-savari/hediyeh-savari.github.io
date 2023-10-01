@@ -68,14 +68,14 @@ After the silver nanowires were synthesized and centrifuged, photolithography wa
 
 
 
-<h1>5. ?</h1>
+<h1>3. Flexible Electrode Design through Silver Nanowire Patterning Using Drop-Casting Method with Shadow Mask</h1>
 <div style='text-align: justify;'>
  ?
 </div>
 
 
 <div class="image-container">
-  <img src='/images/project2_5.jpg' alt="Image 5" width="400" class="centered-image"> <!-- Adjust the width as needed -->
+  <img src='/images/project2_5.jpg' alt="Image 5" width="500" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.4</span>: ?</figcaption>
 </div>
 
