@@ -4,7 +4,6 @@ excerpt: "Project Title:<br>Design and Fabrication of Superconducting, Stable, a
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
 * May. 2021 - Sep. 2021: Research Assistant
   * [University of Tehran](https://ut.ac.ir/en)
