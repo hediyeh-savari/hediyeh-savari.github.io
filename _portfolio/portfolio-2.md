@@ -25,7 +25,7 @@ collection: portfolio
   }
 </style>
 
-<h1>1. Employing Shadow Mask and DC Sputtering Techniques in Electrode Design</h1>
+<h1>1. </h1>
 <div style='text-align: justify;'>
   The selection of silver as the electrode material for the sensor was based on its superior conductivity attributed to its single valence electron. To achieve high precision in electrode fabrication, the DC-Sputtering method was chosen.
 </div>
@@ -177,93 +177,6 @@ collection: portfolio
 
 
 
-
-
-
-
-
-
-
-
-
-<html>
-<head>
-<style>
-  /* CSS to center-align the images */
-  .image-container {
-    text-align: center; /* Center-align the container */
-  }
-
-  .image-container img {
-    width: 50%; /* Set the width of images to 100% of their parent container */
-    height: auto; /* Automatically adjust the height to maintain the aspect ratio */
-    display: block; /* Make the images display as block elements to center-align them */
-    margin: 0 auto; /* Center-align images horizontally */
-  }
-</style>
-</head>
-<body>
-<h1>1. Employing Shadow Mask and DC Sputtering Techniques in Electrode Design</h1>
- <div style='text-align: justify;'>
-The selection of silver as the electrode material for the sensor was based on its superior conductivity attributed to its single valence electron. To achieve high precision in electrode fabrication, the DC-Sputtering method was chosen.
- </div>
- 
-<div style='text-align: justify;'>
-In this research, two types of masks were designed for electrode fabrication using CorelDRAW, as illustrated in Figure 3. The electrode displayed in Figure 3-(a) was found to be appropriate for the sensor array. In fact, by employing these electrodes, it is possible to fabricate four different types of sensors on a common substrate based on the number of fingers. However, if the electrode (b) type is utilized, only one type of sensor can be produced on the substrate. The measurement accuracy of the electrode (b) type is higher than that of the other type. Therefore, for this study, the electrode (b) type was chosen.
- </div>
-<br>
-<!-- Center-aligned image container for each image -->
-<div class="image-container">
-  <img src='/images/project2_1.jpg' alt="Image 1">
-</div>
-<figcaption><span class="fig-caption">Fig.1</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</figcaption>
-<br>
-
-</body>
-</html>
-
-
-
-
-
-
-
-
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  /* CSS to center-align the images */
-  .image-container {
-    text-align: center; /* Center-align the container */
-  }
-
-  .image-container img {
-    max-width: 10px; /* Set a fixed maximum width for the images (adjust the value as needed) */
-    height: auto; /* Automatically adjust the height to maintain the aspect ratio */
-    display: inline-block; /* Make the images display as inline-block to center-align them */
-  }
-</style>
-</head>
-<body>
-<h1>1. Employing Shadow Mask and DC Sputtering Techniques in Electrode Design</h1>
- <div style='text-align: justify;'>
-The selection of silver as the electrode material for the sensor was based on its superior conductivity attributed to its single valence electron. To achieve high precision in electrode fabrication, the DC-Sputtering method was chosen.
- </div>
- 
-<div style='text-align: justify;'>
-In this research, two types of masks were designed for electrode fabrication using CorelDRAW, as illustrated in Figure 3. The electrode displayed in Figure 3-(a) was found to be appropriate for the sensor array. In fact, by employing these electrodes, it is possible to fabricate four different types of sensors on a common substrate based on the number of fingers. However, if the electrode (b) type is utilized, only one type of sensor can be produced on the substrate. The measurement accuracy of the electrode (b) type is higher than that of the other type. Therefore, for this study, the electrode (b) type was chosen.
- </div>
-<br>
-<!-- Center-aligned image container for each image -->
-<div class="image-container">
-  <img src='/images/project2_1.jpg' alt="Image 1">
-</div>
-<figcaption><span class="fig-caption">Fig.22222222</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</figcaption>
-<br>
-
-</body>
-</html>
 
 
 
