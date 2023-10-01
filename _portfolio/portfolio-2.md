@@ -112,7 +112,7 @@ The resistance of each electrode was found to be 2.2 kΩ, which was deemed high 
 
 
 
-<h1>7. ?</h1>
+
 <div style='text-align: justify;'>
  ?
 </div>
@@ -129,7 +129,7 @@ The resistance of each electrode was found to be 2.2 kΩ, which was deemed high 
 
 
 
-<h1>8. ?</h1>
+
 <div style='text-align: justify;'>
  ?
 </div>
@@ -144,7 +144,7 @@ The resistance of each electrode was found to be 2.2 kΩ, which was deemed high 
 
 
 
-<h1>9. ?</h1>
+
 <div style='text-align: justify;'>
  ?
 </div>
@@ -159,7 +159,7 @@ The resistance of each electrode was found to be 2.2 kΩ, which was deemed high 
 
 
 
-<h1>10. ?</h1>
+
 <div style='text-align: justify;'>
  ?
 </div>
@@ -175,7 +175,7 @@ The resistance of each electrode was found to be 2.2 kΩ, which was deemed high 
 
 
 
-<h1>11. ?</h1>
+
 <div style='text-align: justify;'>
  ?
 </div>
