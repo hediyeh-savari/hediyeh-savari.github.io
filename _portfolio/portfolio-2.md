@@ -25,7 +25,7 @@ collection: portfolio
   }
 </style>
 
-<h1>1. Designing flexible electrodes using the photolithography method</h1>
+<h1>1. Designing Flexible Electrodes using the Photolithography Method</h1>
 <div style='text-align: justify;'>
   In this research, two types of masks were designed for electrode fabrication using CorelDRAW, as illustrated in Fig.1. The electrode displayed in Fig.1-(a) was found to be appropriate for the sensor array. In fact, by employing these electrodes, it is possible to fabricate four different types of sensors on a common substrate based on the number of fingers. However, if the electrode (b) type is utilized, only one type of sensor can be produced on the substrate. The measurement accuracy of the electrode (b) type is higher than that of the other type. Therefore, for this study, the electrode (b) type was chosen.
  <br>
@@ -52,7 +52,7 @@ After the silver nanowires were synthesized and centrifuged, photolithography wa
 
 
 
-<h1>2. Designing electrodes using a 3D printer</h1>
+<h1>2. Designing Flexible Electrodes using a 3D Printer</h1>
 <div style='text-align: justify;'>
  In another attempt, a 3D printer was employed to design the silver nanowires. The setup of a 3D printer was established for coating silver nanowires on three different substrates: polyethylene terephthalate, polycarbonate, and thermoplastic polyurethane. The final result was deemed inappropriate. The reason for this was attributed to the low viscosity of the silver nanowire solution.
 </div>
