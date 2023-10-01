@@ -107,7 +107,7 @@ High precision was required for the fabrication of flexible electrodes, and conv
 
 <div class="image-container">
   <img src='/images/project2_6.jpg' alt="Image 6" width="400" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.</span>: (a) The samples were positioned within the DC Sputtering machine. (b) Argon plasma was generated, and silver was physically sputtered to form the deposition.</figcaption>
+  <figcaption><span class="fig-caption">Fig.5</span>: (a) The samples were positioned within the DC Sputtering machine. (b) Argon plasma was generated, and silver was physically sputtered to form the deposition.</figcaption>
 </div>
 
 <!-- Repeat the same structure for other images -->
@@ -122,7 +122,7 @@ High precision was required for the fabrication of flexible electrodes, and conv
 
 <div class="image-container">
   <img src='/images/project2_7.jpg' alt="Image 7" width="300" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.7</span>: ?</figcaption>
+  <figcaption><span class="fig-caption">Fig.6</span>: (a) TPU was coated with silver. (b) A pattern was created on TPU after the removal of the shadow mask. (c) The transparency and flexibility of the resulting sample were demonstrated. (d) The sample's proper adaptation to human skin was displayed by placing it on my hand.</figcaption>
 </div>
 
 <!-- Repeat the same structure for other images -->
