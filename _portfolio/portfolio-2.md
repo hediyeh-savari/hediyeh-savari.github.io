@@ -13,17 +13,18 @@ collection: portfolio
 
 
 
-
-
-
-<!DOCTYPE html>
 <html>
 <head>
 <style>
-  /* CSS to resize images proportionally */
-  img {
-    max-width: 75%; /* Set the maximum width of images to 100% of their parent container */
+  /* CSS to center-align the images */
+  .image-container {
+    text-align: center; /* Center-align the container */
+  }
+
+  .image-container img {
+    max-width: 100%; /* Set the maximum width of images to 100% of their parent container */
     height: auto; /* Automatically adjust the height to maintain the aspect ratio */
+    display: inline-block; /* Make the images display as inline-block to center-align them */
   }
 </style>
 </head>
@@ -33,16 +34,16 @@ collection: portfolio
 The selection of silver as the electrode material for the sensor was based on its superior conductivity attributed to its single valence electron. To achieve high precision in electrode fabrication, the DC-Sputtering method was chosen.
  </div>
 
-<!-- Rest of your content with images -->
-
-<img src='/images/project2_1.jpg' alt="Image 1">
+<!-- Center-aligned image container for each image -->
+<div class="image-container">
+  <img src='/images/project2_1.jpg' alt="Image 1">
+</div>
 <figcaption><span class="fig-caption">Fig.1</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</figcaption>
 
 <!-- Continue with other sections and images -->
 
 </body>
 </html>
-
 
 
 
