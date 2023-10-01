@@ -35,7 +35,7 @@ This is an item in your portfolio. It can have images or nice text. If you name 
     <style>
         .image-container {
             position: relative;
-            max-width: 400px; /* Set a maximum width for the container */
+            max-width: 600px; /* Set a maximum width for the container */
             margin: 0 auto; /* Center the container horizontally */
         }
 
