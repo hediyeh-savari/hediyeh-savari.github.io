@@ -84,7 +84,7 @@ The solution of silver nanowires dissolved in water was combined with HEC and re
 
 
 <div class="image-container">
-  <img src='/images/project2_5.jpg' alt="Image 5" width="500" class="centered-image"> <!-- Adjust the width as needed -->
+  <img src='/images/project2_5.jpg' alt="Image 5" width="600" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.4</span>: (a) The shadow mask was adhered to the TPU sheet. (b) Silver nanowires were coated onto the substrate using the drop-casting method. (c) The solution was dried by heating it on a hot plate. (d) The shadow mask was removed from the TPU sheet. (e) The electrical resistance of the electrodes formed on the TPU was measured.</figcaption>
  <br> 
 </div>
