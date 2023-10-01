@@ -37,7 +37,7 @@ To assess the impact of these three mentioned parameters, two of them are design
     text-align: center;
   }
   img {
-    max-width: 100%;
+    max-width: 200%;
     height: auto;
   }
 </style>
@@ -52,7 +52,7 @@ To assess the impact of these three mentioned parameters, two of them are design
     <!-- Image container with caption -->
     <div class="image-container">
         <img src='/images/project5_16.PNG' alt="Image Alt Text">
-        <figcaption><span class="fig-caption">Fig.1</span>: The first configuration of the semiconductor laser.</figcaption>
+        <figcaption><span class="fig-caption">Fig.1</span>: Ttttttttttttthe first configuration of the semiconductor laser.</figcaption>
     </div>
 
 
