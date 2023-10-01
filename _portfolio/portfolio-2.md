@@ -29,16 +29,16 @@ collection: portfolio
 <div style='text-align: justify;'>
   In this research, two types of masks were designed for electrode fabrication using CorelDRAW, as illustrated in Fig.1. The electrode displayed in Fig.1-(a) was found to be appropriate for the sensor array. In fact, by employing these electrodes, it is possible to fabricate four different types of sensors on a common substrate based on the number of fingers. However, if the electrode (b) type is utilized, only one type of sensor can be produced on the substrate. The measurement accuracy of the electrode (b) type is higher than that of the other type. Therefore, for this study, the electrode (b) type was chosen.
 </div>
-
+<br>
 <div class="image-container">
   <img src='/images/project2_1.jpg' alt="Image 1" width="300" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.1</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</figcaption>
 </div>
-
+<br>
 <div style='text-align: justify;'>
 After the silver nanowires were synthesized and centrifuged, photolithography was performed on them using the lift-off method to obtain the mask pattern. To carry out photolithography on the TPU electrodes, the designed mask was inserted onto the TPU. However, due to the high flexibility of the TPU sheet, a lam was employed as a support to facilitate the fitting of the mask, as demonstrated in the figure below. The settings of the photolithography device were configured as follows: Time was set to 10 seconds, intensity was set at 100%, and the LED was turned on. The result of the photolithography of silver nanowires was not favorable, and the mask pattern did not appear on the TPU.
 </div>
-
+<br>
 <div class="image-container">
   <img src='/images/project2_2.jpg' alt="Image 2" width="400" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.2</span>: ?</figcaption>
