@@ -79,7 +79,7 @@ To assess the impact of these three mentioned parameters, two of them are design
 <body>
 <h1>2. The Second Laser Structure</h1>
   <div style='text-align: justify;'>
-According to band edge calculations, the band gap energy corresponding to the InxAlyGa1-x-yAs structure with In and Al contents of 0.12 and 0.15, respectively, is found to be 1.48 eV at room temperature. Since the limitation of the quantum well is causing the energy levels of the ground state to be shifted towards higher energies, the radiant energy of the structure is determined by the length of the quantum well. According to the laboratory results reported for this structure, light is emitted at 792 nm at zero Kelvin temperature and at 808±1 nm at room temperature when a quantum well with a thickness of 8 nm is employed.
+According to band edge calculations, the band gap energy corresponding to the In<sub>x</sub>Al<sub>y</sub>Ga<sub>1-x-y</sub>As structure with In and Al contents of 0.12 and 0.15, respectively, is found to be 1.48 eV at room temperature. Since the limitation of the quantum well is causing the energy levels of the ground state to be shifted towards higher energies, the radiant energy of the structure is determined by the length of the quantum well. According to the laboratory results reported for this structure, light is emitted at 792 nm at zero Kelvin temperature and at 808±1 nm at room temperature when a quantum well with a thickness of 8 nm is employed.
  <br>
  <br>
  </div>
