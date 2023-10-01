@@ -80,7 +80,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 
 
-<h1>1. Employing Shadow Mask and DC Sputtering Techniques in Electrode Designmmmmmmmmmmm</h1>
+<h1>1. Employing Shadow Mask and DC Sputtering Techniques in Electrode Design</h1>
 <div style='text-align: justify;'>
 The selection of silver as the electrode material for the sensor was based on its superior conductivity attributed to its single valence electron. To achieve high precision in electrode fabrication, the DC-Sputtering method was chosen.
 </div>
