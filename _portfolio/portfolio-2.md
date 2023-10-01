@@ -71,6 +71,22 @@ To assess the impact of these three mentioned parameters, two of them are design
 </style>
 </head>
 <body>
+
+
+
+
+
+<h1>1. Employing Shadow Mask and DC Sputtering Techniques in Electrode Design</h1>
+<img src='/images/project2_1.jpg' alt="Image 1">
+<figcaption><span class="fig-caption">Fig.1</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</figcaption>
+
+
+
+
+
+
+
+ 
 <h1>1. The First Laser Structure</h1>
  <div style='text-align: justify;'>
  The laser structure proposed here comprises three GaAs quantum wells that are separated by Al<sub>0.35</sub>Ga<sub>0.65</sub>As barriers. The presence of more than one quantum well in the structure leads to an elevation in the probability of radiative recombination, driven by the heightened quantum confinement of electrons and holes and the augmented density of states. Furthermore, increased radiative recombination guarantees an enhancement in output efficiency.
