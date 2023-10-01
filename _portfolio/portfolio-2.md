@@ -53,7 +53,7 @@ After the silver nanowires were synthesized and centrifuged, photolithography wa
 
 
 <div class="image-container">
-  <img src='/images/project2_4.jpg' alt="Image 4" width="350" class="centered-image"> <!-- Adjust the width as needed -->
+  <img src='/images/project2_4.jpg' alt="Image 4" width="400" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.4</span>: ?</figcaption>
 </div>
 
