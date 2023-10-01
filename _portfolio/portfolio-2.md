@@ -53,7 +53,7 @@ collection: portfolio
 <h1>3. ?</h1>
 <div class="image-container">
   <img src='/images/project2_3.jpg' alt="Image 3" width="50" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.3</span>: ?</figcaption>
+  <figcaption><span class="fig-caption">Fig.3</span>: bkl6xz;lkmspolnml?</figcaption>
 </div>
 
 <!-- Repeat for other images -->
