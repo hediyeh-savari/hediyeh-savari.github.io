@@ -56,6 +56,7 @@ After the silver nanowires were synthesized and centrifuged, photolithography wa
 <h1>2. Fabrication of Flexible Electrode via 3D Printing</h1>
 <div style='text-align: justify;'>
  In another attempt, a 3D printer was employed to design the silver nanowires. The setup of a 3D printer was established for coating silver nanowires on three different substrates: polyethylene terephthalate, polycarbonate, and thermoplastic polyurethane. The final result was deemed inappropriate. The reason for this was attributed to the low viscosity of the silver nanowire solution.
+ <br>
 </div>
 
 
@@ -102,6 +103,7 @@ The resistance of each electrode was found to be 2.2 kΩ, which was deemed high 
 <h1>5. Fabrication of Flexible Electrode Using Shadow Mask and DC Sputtering</h1>
 <div style='text-align: justify;'>
 High precision was required for the fabrication of flexible electrodes, and conventional coating methods were found to be inadequate in producing appropriate results. None of the previous methods were deemed accurate enough. Consequently, the DC Sputtering method was employed for deposition. Additionally, a silver metal target was utilized in place of silver nanowires.
+ <br>
  <br>
 </div>
 
