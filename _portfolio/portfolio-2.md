@@ -77,13 +77,13 @@ collection: portfolio
 <!-- Repeat for other images -->
 
 <h1>9. ?</h1>
-<img src='/images/project2_9.jpg' alt="Image 9" width="400"> <!-- Adjust the width as needed -->
+<img src='/images/project2_9.jpg' alt="Image 9" width="200"> <!-- Adjust the width as needed -->
 <figcaption><span class="fig-caption">Fig.9</span>: Silver interdigital electrode fabricated on the TPU substrate using the DC-sputtering method.</figcaption>
 
 <!-- Repeat for other images -->
 
 <h1>10. ?</h1>
-<img src='/images/project2_10.jpg' alt="Image 10" width="350"> <!-- Adjust the width as needed -->
+<img src='/images/project2_10.jpg' alt="Image 10" width="200"> <!-- Adjust the width as needed -->
 <figcaption><span class="fig-caption">Fig.10</span>: ?</figcaption>
 
 
