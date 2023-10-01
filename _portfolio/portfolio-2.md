@@ -1,6 +1,6 @@
 ---
 title: "Portfolio Project Number 2"
-excerpt: "Project Title:<br>Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates<br/><img src='/images/front_image_project_2.JPG'>"
+excerpt: "Project Title:<br>Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates<br/><br><img src='/images/front_image_project_2.JPG'>"
 collection: portfolio
 ---
 
