@@ -245,13 +245,48 @@ Through this novel method, electrodes were patterned with an exceptional level o
  
 <!-- Center-aligned image container for each image -->
 <div class="image-container">
-  <img src='/images/project2_7.jpg' alt="Image 6">
+  <img src='/images/project2_7.jpg' alt="Image 7">
 </div>
 <figcaption><span class="fig-caption">Fig.7</span>: Images of the TPU sample with silver coating layer and design. (a) shows the silver coating layer on TPU, (b) displays the design created on TPU after the shadow mask was removed, (c) depicts the transparency and flexibility of the final sample, and (d) shows the proper adaptation of the sample on a human hand.</figcaption>
 <br>
 <div style='text-align: justify;'>
 The remarkable flexibility and adaptability of silver electrodes deposited on a thermoplastic-polyurethane substrate to curved surfaces, such as the human hand, were demonstrated in the presented figure. The measurement of the sheet resistance of the electrodes yielded a value of 3 (Ω/sq).
 </div>
+
+</body>
+</html>
+
+
+
+
+
+
+<html>
+<head>
+<style>
+  /* CSS to center-align the images */
+  .image-container {
+    text-align: center; /* Center-align the container */
+  }
+
+  .image-container img {
+    max-width: 100%; /* Set the maximum width of images to 100% of their parent container */
+    height: auto; /* Automatically adjust the height to maintain the aspect ratio */
+    display: inline-block; /* Make the images display as inline-block to center-align them */
+  }
+</style>
+</head>
+<body>
+<h1>8. ?</h1>
+ <div style='text-align: justify;'>
+?
+ </div>
+
+<!-- Center-aligned image container for each image -->
+<div class="image-container">
+  <img src='/images/project2_8.jpg' alt="Image 8">
+</div>
+<figcaption><span class="fig-caption">Fig.8</span>: Optical microscope image of sputter-printed electrodes. The accuracy of the printing method used is clearly visible.</figcaption>
 
 </body>
 </html>
