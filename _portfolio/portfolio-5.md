@@ -23,6 +23,7 @@ To assess the impact of these three mentioned parameters, two of them are design
 </div>
 
 
+
 <html>
 <head>
 <style>
@@ -129,5 +130,58 @@ According to band edge calculations, the band gap energy corresponding to the In
 </table>
 
 </body>
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+    <style>
+     
+
+        /* Style for the left column */
+        .column-left {
+            float: left;
+            width: 50%;
+        }
+
+        /* Style for the right column */
+        .column-right {
+            float: left;
+            width: 50%;
+        }
+
+        /* Style for the image container */
+        .image-container {
+            max-width: 300px; /* Set the maximum width for your images */
+            margin-bottom: 20px; /* Add spacing between images and captions */
+            font-size: 20px; /* Adjust the value to your preferred font size */
+        }
+
+        /* Style for images */
+        .image-container img {
+            width: 100%; /* Make the image width match the container width */
+            height: auto; /* Maintain aspect ratio */
+        }
+
+        /* Style for captions */
+        .image-container figcaption {
+            text-align: center; /* Center-align the caption */
+        }
+
+        
+        /* Style for the "Fig." label */
+        .fig-caption {
+           font-weight: bold; /* Make the "Fig." text bold */
+            font-size: 20px; /* Set the desired font size (adjust the value as needed) */
+        }
+
+    </style>
 </head>
 </html>
