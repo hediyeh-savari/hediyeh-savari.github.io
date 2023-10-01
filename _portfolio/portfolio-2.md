@@ -75,7 +75,7 @@ Another method that was explored involved the deposition of silver nanowires usi
 
 
 
-<h1>4. Flexible Electrode Design through Silver Nanowire Patterning Using Drop-Casting Method with Shadow Mask</h1>
+<h1>4. Fabrication of Flexible Electrode via Silver Nanowire Patterning Using the Drop-Casting Method with a Shadow Mask</h1>
 <div style='text-align: justify;'>
 The solution of silver nanowires dissolved in water was combined with HEC and rendered uniform through esterification. Additionally, the shadow mask was affixed to the TPU sheet. Subsequently, this solution was poured onto the mask using the drop-casting method to fill the empty areas of the TPU. The sample was then positioned on a hot plate for 30 minutes, heated to 80°C, and dried. Finally, the mask was gently removed from the TPU surface, yielding the following result.
 </div>
