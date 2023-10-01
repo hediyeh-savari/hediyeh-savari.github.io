@@ -13,6 +13,32 @@ This is an item in your portfolio. It can be have images or nice text. If you na
   * Duties included: Examining various materials to select the **most suitable** one for use as the **electrode**; Investigating different materials for potential use as a **flexible, transparent, and stretchable substrate**; Exploring various coating methods to **create precise electrode patterns**; Assessing the **durability**, **stability**, and **conductivity** of fabricated flexible electrodes and **optimizing** their **characteristics**.
 
 
+<h1>1. Employing Shadow Mask and DC Sputtering Techniques in Electrode Design</h1>
+<img src='/images/project2_1.jpg' alt="Image 1">
+<figcaption><span class="fig-caption">Fig.1</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</figcaption>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1>Abstract</h1>
 <div style='text-align: justify;'>
 In the simulation conducted for this thesis, the effect of various laser parameters on its output spectrum is examined. Through these investigations, it was determined that the laser bandwidth is directly influenced by three parameters: t (the width of the active area), d (the total width of the active area and waveguide layers), and Jth (the threshold current density). However, no effect on the laser output spectrum was observed from other parameters, such as γ (cavity loss), L (cavity length), A (cavity cross-sectional area), etc.
