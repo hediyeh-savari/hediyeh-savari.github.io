@@ -168,7 +168,7 @@ collection: portfolio
 
 
 <div class="image-container">
-  <img src='/images/project2_11.png' alt="Image 11" width="350" class="centered-image"> <!-- Adjust the width as needed -->
+  <img src='/images/project2_11.png' alt="Image 11" width="500" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.11</span>: ?</figcaption>
 </div>
 
