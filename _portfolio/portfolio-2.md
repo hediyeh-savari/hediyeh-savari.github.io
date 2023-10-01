@@ -13,6 +13,74 @@ collection: portfolio
 
 
 
+<style>
+  /* Center the image containers */
+  .image-container {
+    text-align: center;
+  }
+
+  /* Center the images within their containers */
+  .centered-image {
+    display: inline-block;
+  }
+</style>
+
+<h1>1. Employing Shadow Mask and DC Sputtering Techniques in Electrode Design</h1>
+<!-- ... (Your content) ... -->
+
+<div class="image-container">
+  <img src='/images/project2_1.jpg' alt="Image 1" width="300" class="centered-image"> <!-- Adjust the width as needed -->
+  <figcaption><span class="fig-caption">Fig.1</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</figcaption>
+</div>
+
+<!-- Repeat the same structure for other images -->
+
+<h1>2. ?</h1>
+<div class="image-container">
+  <img src='/images/project2_2.jpg' alt="Image 2" width="400" class="centered-image"> <!-- Adjust the width as needed -->
+  <figcaption><span class="fig-caption">Fig.2</span>: ?</figcaption>
+</div>
+
+<!-- Repeat for other images -->
+
+<h1>3. ?</h1>
+<div class="image-container">
+  <img src='/images/project2_3.jpg' alt="Image 3" width="350" class="centered-image"> <!-- Adjust the width as needed -->
+  <figcaption><span class="fig-caption">Fig.3</span>: ?</figcaption>
+</div>
+
+<!-- Repeat for other images -->
+
+<!-- ... (Your content) ... -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1>1. Employing Shadow Mask and DC Sputtering Techniques in Electrode Design</h1>
 <div style='text-align: justify;'>
   The selection of silver as the electrode material for the sensor was based on its superior conductivity attributed to its single valence electron. To achieve high precision in electrode fabrication, the DC-Sputtering method was chosen.
