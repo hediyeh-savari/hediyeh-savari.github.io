@@ -22,7 +22,7 @@ collection: portfolio
 <style>
   /* CSS to resize images proportionally */
   img {
-    max-width: 100%; /* Set the maximum width of images to 100% of their parent container */
+    max-width: 50%; /* Set the maximum width of images to 100% of their parent container */
     height: auto; /* Automatically adjust the height to maintain the aspect ratio */
   }
 </style>
