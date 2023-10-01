@@ -155,7 +155,7 @@ High precision was required for the fabrication of flexible electrodes, and conv
 
 <div class="image-container">
   <img src='/images/project2_9.jpg' alt="Image 9" width="200" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.9</span>: ?</figcaption>
+  <figcaption><span class="fig-caption">Fig.8</span>: A silver interdigit electrode was deposited onto the TPU surface.</figcaption>
 </div>
 
 <!-- Repeat the same structure for other images -->
