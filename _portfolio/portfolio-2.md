@@ -41,7 +41,7 @@ After the silver nanowires were synthesized and centrifuged, photolithography wa
 <br>
 <div class="image-container">
   <img src='/images/project2_2.jpg' alt="Image 2" width="400" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.2</span>: ?</figcaption>
+  <figcaption><span class="fig-caption">Fig.2</span>: (a) The mask was positioned on the TPU sheet for electrode photolithography. (b) The photolithography process was conducted.</figcaption>
 </div>
 
 
