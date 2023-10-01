@@ -68,7 +68,7 @@ collection: portfolio
 
 
 <div class="image-container">
-  <img src='/images/project2_4.jpg' alt="Image 4" width="300" class="centered-image"> <!-- Adjust the width as needed -->
+  <img src='/images/project2_4.jpg' alt="Image 4" width="350" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.4</span>: ?</figcaption>
 </div>
 
@@ -83,7 +83,7 @@ collection: portfolio
 
 
 <div class="image-container">
-  <img src='/images/project2_5.jpg' alt="Image 5" width="300" class="centered-image"> <!-- Adjust the width as needed -->
+  <img src='/images/project2_5.jpg' alt="Image 5" width="400" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.5</span>: ?</figcaption>
 </div>
 
@@ -98,7 +98,7 @@ collection: portfolio
 
 
 <div class="image-container">
-  <img src='/images/project2_6.jpg' alt="Image 6" width="300" class="centered-image"> <!-- Adjust the width as needed -->
+  <img src='/images/project2_6.jpg' alt="Image 6" width="400" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.6</span>: ?</figcaption>
 </div>
 
@@ -130,7 +130,7 @@ collection: portfolio
 
 
 <div class="image-container">
-  <img src='/images/project2_8.png' alt="Image 8" width="300" class="centered-image"> <!-- Adjust the width as needed -->
+  <img src='/images/project2_8.png' alt="Image 8" width="350" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.8</span>: ?</figcaption>
 </div>
 
@@ -145,7 +145,7 @@ collection: portfolio
 
 
 <div class="image-container">
-  <img src='/images/project2_9.jpg' alt="Image 9" width="300" class="centered-image"> <!-- Adjust the width as needed -->
+  <img src='/images/project2_9.jpg' alt="Image 9" width="200" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.9</span>: ?</figcaption>
 </div>
 
@@ -160,7 +160,7 @@ collection: portfolio
 
 
 <div class="image-container">
-  <img src='/images/project2_10.jpg' alt="Image 10" width="300" class="centered-image"> <!-- Adjust the width as needed -->
+  <img src='/images/project2_10.jpg' alt="Image 10" width="350" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.10</span>: ?</figcaption>
 </div>
 
