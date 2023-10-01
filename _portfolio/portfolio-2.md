@@ -45,23 +45,49 @@ In this research, two types of masks were designed for electrode fabrication usi
 <figcaption><span class="fig-caption">Fig.1</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</figcaption>
 
 
-<!-- Center-aligned image container for each image -->
-<div class="image-container">
-  <img src='/images/project2_1.jpg' alt="Image 1">
-</div>
-<figcaption><span class="fig-caption">Fig.1</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</figcaption>
-?
-
-
-
-
-<!-- Continue with other sections and images -->
-
 </body>
 </html>
 
 
 
+
+
+--------------------------------------------------------------------------------------------------
+
+
+
+<html>
+<head>
+<style>
+  /* CSS to center-align the images */
+  .image-container {
+    text-align: center; /* Center-align the container */
+  }
+
+  .image-container img {
+    max-width: 50%; /* Set the maximum width of images to 100% of their parent container */
+    height: auto; /* Automatically adjust the height to maintain the aspect ratio */
+    display: inline-block; /* Make the images display as inline-block to center-align them */
+  }
+</style>
+</head>
+<body>
+<h1>2. ?</h1>
+ <div style='text-align: justify;'>
+?
+ </div>
+
+<!-- Center-aligned image container for each image -->
+<div class="image-container">
+  <img src='/images/project2_2.jpg' alt="Image 1">
+</div>
+<figcaption><span class="fig-caption">Fig.1</span>: ?</figcaption>
+
+</body>
+</html>
+
+
+--------------------------------------------------------------------------------------------
 
 <h1>2. ?</h1>
 <img src='/images/project2_2.jpg' alt="Image 1">
