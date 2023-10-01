@@ -35,9 +35,12 @@ collection: portfolio
   <figcaption><span class="fig-caption">Fig.1</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</figcaption>
 </div>
 
-<!-- Repeat the same structure for other images -->
 
-<h1>2. ?</h1>
+<div style='text-align: justify;'>
+After the silver nanowires were synthesized and centrifuged, photolithography was performed on them using the lift-off method to obtain the mask pattern. To carry out photolithography on the TPU electrodes, the designed mask was inserted onto the TPU. However, due to the high flexibility of the TPU sheet, a lam was employed as a support to facilitate the fitting of the mask, as demonstrated in the figure below. The settings of the photolithography device were configured as follows: Time was set to 10 seconds, intensity was set at 100%, and the LED was turned on. The result of the photolithography of silver nanowires was not favorable, and the mask's pattern did not appear on the TPU.
+</div>
+
+
 <div class="image-container">
   <img src='/images/project2_2.jpg' alt="Image 2" width="400" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.2</span>: ?</figcaption>
