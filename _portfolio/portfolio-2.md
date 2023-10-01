@@ -22,7 +22,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
     <style>
         .image-container {
             position: relative;
-            max-width: 1000px; /* Set a maximum width for the container */
+            max-width: 10000px; /* Set a maximum width for the container */
             margin: 0 auto; /* Center the container horizontally */
         }
 
