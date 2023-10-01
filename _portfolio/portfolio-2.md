@@ -51,7 +51,11 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 </body>
 </html>
 
-
+<h1>2. ?</h1>
+<div class="image-container">
+    <img src='/images/project2_2.jpg' alt="Image 1">
+    <figcaption><span class="fig-caption">Fig.2</span>: ?</figcaption>
+</div>
 
 
 
