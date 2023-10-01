@@ -43,7 +43,7 @@ In this research, two types of masks were designed for electrode fabrication usi
   <img src='/images/project2_1.jpg' alt="Image 1">
 </div>
 <figcaption><span class="fig-caption">Fig.1</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</figcaption>
-
+<br>
 
 </body>
 </html>
