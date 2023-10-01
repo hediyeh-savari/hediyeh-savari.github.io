@@ -37,7 +37,7 @@ To assess the impact of these three mentioned parameters, two of them are design
     text-align: center;
   }
   img {
-    max-width: 200%;
+    max-width: 100%;
     height: auto;
   }
 </style>
@@ -52,7 +52,7 @@ To assess the impact of these three mentioned parameters, two of them are design
     <!-- Image container with caption -->
     <div class="image-container">
         <img src='/images/project5_16.PNG' alt="Image Alt Text">
-        <figcaption><span class="fig-caption">Fig.1</span>: Ttttttttttttthe first configuration of the semiconductor laser.</figcaption>
+        <figcaption><span class="fig-caption">Fig.1</span>: T1111111he first configuration of the semiconductor laser.</figcaption>
     </div>
 
 
@@ -164,7 +164,7 @@ According to band edge calculations, the band gap energy corresponding to the In
 
         /* Style for images */
         .image-container img {
-            width: 100%; /* Make the image width match the container width */
+            width: 200%; /* Make the image width match the container width */
             height: auto; /* Maintain aspect ratio */
         }
 
