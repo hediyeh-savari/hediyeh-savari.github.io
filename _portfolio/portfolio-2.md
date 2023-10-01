@@ -12,40 +12,31 @@ This is an item in your portfolio. It can be have images or nice text. If you na
   * Title: Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates
   * Duties included: Examining various materials to select the **most suitable** one for use as the **electrode**; Investigating different materials for potential use as a **flexible, transparent, and stretchable substrate**; Exploring various coating methods to **create precise electrode patterns**; Assessing the **durability**, **stability**, and **conductivity** of fabricated flexible electrodes and **optimizing** their **characteristics**.
 
-<html>
-<head>
-    <style>
 
-div {
-    width: 800px;
-    border: 1px solid pink;
+
+
+.image-container {
+    max-width: 100%; /* Set a maximum width for the container */
+    height: auto; /* Automatically adjust the height to maintain aspect ratio */
+    text-align: center; /* Optional: Center the image horizontally */
 }
 
-img {
-    max-width: 100%;
-    object-fit: contain;
+.image-container img {
+    max-width: 100%; /* Make sure the image doesn't exceed the container's width */
+    height: auto; /* Automatically adjust the height to maintain aspect ratio */
 }
 
 
-    </style>
-</head>
-</head>html>
 
 
 
-
-<h1>1. Employing Shadow Mask and DC Sputtering Techniques in Electrode Designzzzzzzzzzzz</h1>
+<h1>1. Employing Shadow Mask and DC Sputtering Techniques in Electrode Design</h1>
 <div style='text-align: justify;'>
 The selection of silver as the electrode material for the sensor was based on its superior conductivity attributed to its single valence electron. To achieve high precision in electrode fabrication, the DC-Sputtering method was chosen.
 </div>
 
 <div style='text-align: justify;'>
 In this research, two types of masks were designed for electrode fabrication using CorelDRAW, as illustrated in Figure 3. The electrode displayed in Figure 3-(a) was found to be appropriate for the sensor array. In fact, by employing these electrodes, it is possible to fabricate four different types of sensors on a common substrate based on the number of fingers. However, if the electrode (b) type is utilized, only one type of sensor can be produced on the substrate. The measurement accuracy of the electrode (b) type is higher than that of the other type. Therefore, for this study, the electrode (b) type was chosen.
-</div>
-
-<div class="image-container">
-    <img src='/images/project2_1.jpg' style='max-width: 3200px; max-height: auto;' alt="Image 1">
-    <figcaption><span class="fig-caption">Fig.111</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</figcaption>
 </div>
 
 
