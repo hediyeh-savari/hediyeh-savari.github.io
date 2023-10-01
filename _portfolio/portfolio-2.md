@@ -25,7 +25,7 @@ collection: portfolio
   }
 </style>
 
-<h1>1. </h1>
+<h1>1. Designing flexible electrodes using the photolithography method</h1>
 <div style='text-align: justify;'>
   In this research, two types of masks were designed for electrode fabrication using CorelDRAW, as illustrated in Fig.1. The electrode displayed in Fig.1-(a) was found to be appropriate for the sensor array. In fact, by employing these electrodes, it is possible to fabricate four different types of sensors on a common substrate based on the number of fingers. However, if the electrode (b) type is utilized, only one type of sensor can be produced on the substrate. The measurement accuracy of the electrode (b) type is higher than that of the other type. Therefore, for this study, the electrode (b) type was chosen.
  <br>
