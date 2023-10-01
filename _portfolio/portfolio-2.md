@@ -22,7 +22,7 @@ collection: portfolio
   }
 
   .image-container img {
-    max-width: 75%; /* Set the maximum width of images to 100% of their parent container */
+    max-width: 65%; /* Set the maximum width of images to 100% of their parent container */
     height: auto; /* Automatically adjust the height to maintain the aspect ratio */
     display: inline-block; /* Make the images display as inline-block to center-align them */
   }
