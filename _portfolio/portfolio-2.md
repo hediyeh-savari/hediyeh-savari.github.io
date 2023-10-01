@@ -320,7 +320,7 @@ In this manner, achieving an output wavelength of 808 nm at room temperature can
 
         /* Style for the image container */
         .image-container {
-            max-width: 400px; /* Set the maximum width for your images */
+            max-width: 200px; /* Set the maximum width for your images */
             margin-bottom: 20px; /* Add spacing between images and captions */
             font-size: 20px; /* Adjust the value to your preferred font size */
         }
