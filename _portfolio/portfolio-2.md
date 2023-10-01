@@ -60,7 +60,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 <h1>9. ?</h1>
 <img src='/images/project2_9.jpg' alt="Image 1">
-<figcaption><span class="fig-caption">Fig.9</span>: ?</figcaption>
+<figcaption><span class="fig-caption">Fig.9</span>: Silver interdigital electrode fabricated on the TPU substrate using the DC-sputtering method.</figcaption>
 
 
 <h1>2. ?</h1>
