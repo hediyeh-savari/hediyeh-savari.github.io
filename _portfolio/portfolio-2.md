@@ -27,6 +27,67 @@ This is an item in your portfolio. It can have images or nice text. If you name 
   * Title: Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates
   * Duties included: Examining various materials to select the **most suitable** one for use as the **electrode**; Investigating different materials for potential use as a **flexible, transparent, and stretchable substrate**; Exploring various coating methods to **create precise electrode patterns**; Assessing the **durability**, **stability**, and **conductivity** of fabricated flexible electrodes and **optimizing** their **characteristics**.
 
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image with Caption</title>
+    <style>
+        .image-container {
+            position: relative;
+            max-width: 400px; /* Set a maximum width for the container */
+            margin: 0 auto; /* Center the container horizontally */
+        }
+
+        .image-container img {
+            max-width: 100%; /* Ensure the image does not exceed the container's width */
+            height: auto; /* Automatically adjust the height to preserve aspect ratio */
+        }
+
+        .caption {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background-color: rgba(0, 0, 0, 0.7);
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="image-container">
+        <img src="/images/project2_1.jpg" alt="Image 1">
+        <div class="caption"><span class="fig-caption">Fig.1</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</div>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1>1. Employing Shadow Mask and DC Sputtering Techniques in Electrode Design</h1>
 <div style='text-align: justify;'>
 The selection of silver as the electrode material for the sensor was based on its superior conductivity attributed to its single valence electron. To achieve high precision in electrode fabrication, the DC-Sputtering method was chosen.
