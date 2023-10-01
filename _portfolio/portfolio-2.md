@@ -54,7 +54,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 
 <h1>8. ?</h1>
-<img src='/images/project2_8.jpg' alt="Image 1">
+<img src='/images/project2_8.png' alt="Image 1">
 <figcaption><span class="fig-caption">Fig.8</span>: Optical microscope image of sputter-printed electrodes. The accuracy of the printing method used is clearly visible.</figcaption>
 
 
@@ -66,6 +66,23 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 <h1>2. ?</h1>
 <img src='/images/project2_10.jpg' alt="Image 1">
 <figcaption><span class="fig-caption">Fig.10</span>: ?</figcaption>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
