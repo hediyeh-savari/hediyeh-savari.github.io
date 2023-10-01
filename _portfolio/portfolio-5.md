@@ -47,7 +47,7 @@ To assess the impact of these three mentioned parameters, two of them are design
 <body>
 <h1>1. The First Laser Structure</h1>
  <div style='text-align: justify;'>
- The laser structure proposed here comprises three GaAs quantum wells that are separated by Al<sub>0.35</sub>Ga<sub>0.65</sub>As barriers. The presence of more than one quantum well in the structure leads to an elevation in the probability of radiative recombination, driven by the heightened quantum confinement of electrons and holes and the augmented density of states. Furthermore, increased radiative recombination guarantees an enhancement in output efficiency.
+ The laser structure proposed here comprises three GaAs quantum wells that are separated by Al<sub>0.35</sub>Ga<sub>0.65</sub>As barriers. The presence of more than one quantum well in the structure leads to an elevation in the probability of radiative recombination, driven by the heightened quantum confinement of electrons and holes and the augmented density of states. Furthermore, increased radiative recombination guarantees an enhancement in output efficiency [1].
  <br>
  <br>
  </div>
@@ -79,7 +79,7 @@ To assess the impact of these three mentioned parameters, two of them are design
 <body>
 <h1>2. The Second Laser Structure</h1>
   <div style='text-align: justify;'>
-According to band edge calculations, the band gap energy corresponding to the In<sub>x</sub>Al<sub>y</sub>Ga<sub>1-x-y</sub>As structure with In and Al contents of 0.12 and 0.15, respectively, is found to be 1.48 eV at room temperature. Since the limitation of the quantum well is causing the energy levels of the ground state to be shifted towards higher energies, the radiant energy of the structure is determined by the length of the quantum well. According to the laboratory results reported for this structure, light is emitted at 792 nm at zero Kelvin temperature and at 808±1 nm at room temperature when a quantum well with a thickness of 8 nm is employed.
+According to band edge calculations, the band gap energy corresponding to the In<sub>x</sub>Al<sub>y</sub>Ga<sub>1-x-y</sub>As structure with In and Al contents of 0.12 and 0.15, respectively, is found to be 1.48 eV at room temperature. Since the limitation of the quantum well is causing the energy levels of the ground state to be shifted towards higher energies, the radiant energy of the structure is determined by the length of the quantum well. According to the laboratory results reported for this structure, light is emitted at 792 nm at zero Kelvin temperature and at 808±1 nm at room temperature when a quantum well with a thickness of 8 nm is employed [1].
  <br>
  <br>
  </div>
@@ -112,7 +112,7 @@ According to band edge calculations, the band gap energy corresponding to the In
    <div style='text-align: justify;'>
    It was observed that light is emitted at a wavelength of 805 nm at room temperature by the two structures that were previously investigated for this system. Due to the considerably larger active layer thickness of 40 nm in the previous structures compared to the typical thickness (t < 15 nm) used for quantum wells, it was found that the impact of thickness on the wavelength of the output light in this system is not substantial, and the edge of the conduction band and the capacitance are regarded as the ground state energy of the electron and the hole, respectively.
 <br>
-In this manner, achieving an output wavelength of 808 nm at room temperature can only be accomplished by altering the content of participating elements in the active region. The calculations conducted on the band structure reveal that the structure in which the active region In<sub>x</sub>Ga<sub>1-x</sub>As<sub>y</sub>P<sub>1-y</sub> has an In content equal to 0.16 (with Ga content of 0.84) and an As content equal to 0.71 (with P content of 0.29) emits light at a wavelength of approximately 808 nm at room temperature. In such a case, the inconsistency of the In<sub>0.16</sub>Ga<sub>0.84</sub>As<sub>0.71</sub>P<sub>0.29</sub> network with the GaAs network is only 0.09%. This slight inconsistency ensures the possibility of two-dimensional growth with significant thicknesses of In<sub>0.16</sub>Ga<sub>0.84</sub>As<sub>0.71</sub>P<sub>0.29</sub>. Additionally, In<sub>0.16</sub>Ga<sub>0.84</sub>As<sub>0.71</sub>P<sub>0.29</sub> possesses a direct energy gap, indicating a high probability of electron-hole recombination within this system.
+In this manner, achieving an output wavelength of 808 nm at room temperature can only be accomplished by altering the content of participating elements in the active region. The calculations conducted on the band structure reveal that the structure in which the active region In<sub>x</sub>Ga<sub>1-x</sub>As<sub>y</sub>P<sub>1-y</sub> has an In content equal to 0.16 (with Ga content of 0.84) and an As content equal to 0.71 (with P content of 0.29) emits light at a wavelength of approximately 808 nm at room temperature. In such a case, the inconsistency of the In<sub>0.16</sub>Ga<sub>0.84</sub>As<sub>0.71</sub>P<sub>0.29</sub> network with the GaAs network is only 0.09%. This slight inconsistency ensures the possibility of two-dimensional growth with significant thicknesses of In<sub>0.16</sub>Ga<sub>0.84</sub>As<sub>0.71</sub>P<sub>0.29</sub>. Additionally, In<sub>0.16</sub>Ga<sub>0.84</sub>As<sub>0.71</sub>P<sub>0.29</sub> possesses a direct energy gap, indicating a high probability of electron-hole recombination within this system [1].
  <br>
  <br>
  </div>
@@ -196,7 +196,7 @@ In this manner, achieving an output wavelength of 808 nm at room temperature can
 <br>
 <p>
   <h2>Reference:</h2>
-  <cite>Semiconductor Optoelectronic Devices</cite><br>
+  <cite>[1] Semiconductor Optoelectronic Devices</cite><br>
   Author(s): Bhattacharya, Pallab<br>
   Publisher: Prentice-Hall, Inc.<br>
   Publication Year: 1997
