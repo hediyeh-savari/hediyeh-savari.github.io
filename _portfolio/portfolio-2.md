@@ -14,6 +14,72 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 
 
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .image-container {
+            text-align: center;
+        }
+
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .fig-caption {
+            display: block;
+            text-align: center;
+            font-style: italic;
+        }
+
+        div[style*='text-align: justify;'] {
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+
+<h1>1. Employing Shadow Mask and DC Sputtering Techniques in Electrode Design</h1>
+<div style='text-align: justify;'>
+    The selection of silver as the electrode material for the sensor was based on its superior conductivity attributed to its single valence electron. To achieve high precision in electrode fabrication, the DC-Sputtering method was chosen.
+</div>
+
+<div style='text-align: justify;'>
+    In this research, two types of masks were designed for electrode fabrication using CorelDRAW, as illustrated in Figure 3. The electrode displayed in Figure 3-(a) was found to be appropriate for the sensor array. In fact, by employing these electrodes, it is possible to fabricate four different types of sensors on a common substrate based on the number of fingers. However, if the electrode (b) type is utilized, only one type of sensor can be produced on the substrate. The measurement accuracy of the electrode (b) type is higher than that of the other type. Therefore, for this study, the electrode (b) type was chosen.
+</div>
+
+<div class="image-container">
+    <img src='/images/project2_1.jpg' alt="Image 1">
+    <figcaption><span class="fig-caption">Fig.1</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</figcaption>
+</div>
+
+<h1>2. ?</h1>
+<div class="image-container">
+    <img src='/images/project2_2.jpg' alt="Image 2">
+    <figcaption><span class="fig-caption">Fig.2</span>: ?</figcaption>
+</div>
+
+<!-- Add more sections with images as needed -->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
 <h1>1. Employing Shadow Mask and DC Sputtering Techniques in Electrode Designmmmmmmmmmmm</h1>
 <div style='text-align: justify;'>
 The selection of silver as the electrode material for the sensor was based on its superior conductivity attributed to its single valence electron. To achieve high precision in electrode fabrication, the DC-Sputtering method was chosen.
