@@ -24,7 +24,7 @@ collection: portfolio
   }
 
   .image-container img {
-    width: 100%; /* Set the width of images to 100% of their parent container */
+    width: 50%; /* Set the width of images to 100% of their parent container */
     height: auto; /* Automatically adjust the height to maintain the aspect ratio */
     display: block; /* Make the images display as block elements to center-align them */
     margin: 0 auto; /* Center-align images horizontally */
