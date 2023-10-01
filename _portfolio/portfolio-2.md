@@ -57,7 +57,7 @@ After the silver nanowires were synthesized and centrifuged, photolithography wa
 
 <div class="image-container">
   <img src='/images/project2_4.jpg' alt="Image 4" width="450" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.3</span>: ?</figcaption>
+  <figcaption><span class="fig-caption">Fig.3</span>: (a) The 3D printer setup was arranged for the coating of silver nanowires on three different substrates: polyethylene terephthalate, polycarbonate, and thermoplastic polyurethane. (b) Silver nanowires were printed using a 3D printer. (c) The drops were subsequently connected after a short period of time.</figcaption>
 </div>
 
 <!-- Repeat the same structure for other images -->
