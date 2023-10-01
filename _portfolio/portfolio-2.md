@@ -89,6 +89,7 @@ The solution of silver nanowires dissolved in water was combined with HEC and re
 
 <div style='text-align: justify;'>
 The resistance of each electrode was found to be 2.2 kΩ, which was deemed high for silver nanowires with a conductivity of 3 Ω. Conversely, when the mask was removed from the TPU surface, some of the silver nanowires that had adhered to the mask were lifted along with it. Furthermore, the layer on the TPU surface was found to be non-uniform. Consequently, this method was also rejected.
+ <br>
 </div>
 
 
