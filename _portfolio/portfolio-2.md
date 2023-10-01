@@ -23,7 +23,7 @@ collection: portfolio
   }
 
   .image-container img {
-    max-width: 150px; /* Set a fixed maximum width for the images (adjust the value as needed) */
+    max-width: 10px; /* Set a fixed maximum width for the images (adjust the value as needed) */
     height: auto; /* Automatically adjust the height to maintain the aspect ratio */
     display: inline-block; /* Make the images display as inline-block to center-align them */
   }
@@ -43,7 +43,7 @@ In this research, two types of masks were designed for electrode fabrication usi
 <div class="image-container">
   <img src='/images/project2_1.jpg' alt="Image 1">
 </div>
-<figcaption><span class="fig-caption">Fig.1111111</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</figcaption>
+<figcaption><span class="fig-caption">Fig.22222222</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</figcaption>
 <br>
 
 </body>
