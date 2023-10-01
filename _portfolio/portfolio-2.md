@@ -95,6 +95,7 @@ The solution of silver nanowires dissolved in water was combined with HEC and re
 <div style='text-align: justify;'>
 The resistance of each electrode was found to be 2.2 kΩ, which was deemed high for silver nanowires with a conductivity of 3 Ω. Conversely, when the mask was removed from the TPU surface, some of the silver nanowires that had adhered to the mask were lifted along with it. Furthermore, the layer on the TPU surface was found to be non-uniform. Consequently, this method was also rejected.
  <br>
+  <br>
 </div>
 
 
@@ -106,7 +107,7 @@ High precision was required for the fabrication of flexible electrodes, and conv
 
 <div class="image-container">
   <img src='/images/project2_6.jpg' alt="Image 6" width="400" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.6</span>: ?</figcaption>
+  <figcaption><span class="fig-caption">Fig.</span>: (a) The samples were positioned within the DC Sputtering machine. (b) Argon plasma was generated, and silver was physically sputtered to form the deposition.</figcaption>
 </div>
 
 <!-- Repeat the same structure for other images -->
