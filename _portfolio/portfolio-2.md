@@ -157,7 +157,7 @@ According to band edge calculations, the band gap energy corresponding to the In
 
         /* Style for the image container */
         .image-container {
-            max-width: 300px; /* Set the maximum width for your images */
+            max-width: 500px; /* Set the maximum width for your images */
             margin-bottom: 20px; /* Add spacing between images and captions */
             font-size: 20px; /* Adjust the value to your preferred font size */
         }
