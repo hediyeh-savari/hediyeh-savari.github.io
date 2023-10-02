@@ -219,12 +219,13 @@ In this method, the silver nanowires on the substrate are placed on a hot plate 
 Halide Welding for Silver Nanowire Network Electrode:
 In this method, a 0.5M solution of NaCl salt is first prepared. Then, the silver nanowires coated on the substrate are immersed in this solution for 30 seconds and subsequently rinsed with distilled water (DI) for another 30 seconds.
  <br>
+  <br>
 </div>
 
 
 <div class="image-container">
-  <img src='/images/project3_7.JPG' alt="Image 7" width="300" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption"><strong>Fig.7</strong></span>: ?</figcaption>
+  <img src='/images/project3_7.JPG' alt="Image 5" width="300" class="centered-image"> <!-- Adjust the width as needed -->
+  <figcaption><span class="fig-caption"><strong>Fig.5</strong></span>: ?</figcaption>
  <br>
 </div>
 
@@ -242,12 +243,6 @@ When these nanowires were coated onto various surfaces, it was observed that the
 </div>
 
 
-
-
-
-
-
-
 <div style='text-align: justify;'>
 The sheet resistance of the AgNWs/HEC composite layer was found to be 70 (Ω/sq). The adhesion of the AgNWs/HEC conductive solution to the substrate was evaluated by subjecting it to contact with harsh objects, and it was observed that detachment from the surface did not occur. Therefore, the problem of non-adhesion of silver nanowires to the surface was resolved through the utilization of HEC. This level of adhesion is considered excellent for conductive and transparent layers without the need for any restoration operations.
  <br>
@@ -261,11 +256,7 @@ The sheet resistance of the AgNWs/HEC composite layer was found to be 70 (Ω/sq)
   Author(s): Bhattacharya, Pallab<br>
   Publisher: Prentice-Hall, Inc.<br>
   Publication Year: 1997
-</p>
 
-
-<p>
-  <h2>Reference:</h2>
   <cite>[2] Semiconductor Optoelectronic Devices</cite><br>
   Author(s): Bhattacharya, Pallab<br>
   Publisher: Prentice-Hall, Inc.<br>
