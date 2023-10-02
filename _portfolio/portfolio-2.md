@@ -143,7 +143,7 @@ As demonstrated in Fig. 6, silver electrodes fabricated on thermoplastic polyure
 
 <div class="image-container">
   <img src='/images/project2_8.png' alt="Image 8" width="350" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.8</span>: The flexible electrodes, created through the DC sputtering method, are observed under the optical microscope. The image illustrates the accuracy of this method.</figcaption>
+  <figcaption><span class="fig-caption">Fig.7</span>: The flexible electrodes, created through the DC sputtering method, are observed under the optical microscope. The image illustrates the accuracy of this method.</figcaption>
 </div>
 
 <!-- Repeat the same structure for other images -->
@@ -159,7 +159,7 @@ As demonstrated in Fig. 6, silver electrodes fabricated on thermoplastic polyure
 
 <div class="image-container">
   <img src='/images/project2_11.png' alt="Image 11" width="500" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.9</span>: A scanning electron microscope (SEM) image of the silver flexible electrodes deposited on TPU using the DC sputtering method. (a) Image captured from one section of the electrodes. (b) Image captured from the gap between the left and right sections.</figcaption>
+  <figcaption><span class="fig-caption">Fig.8</span>: A scanning electron microscope (SEM) image of the silver flexible electrodes deposited on TPU using the DC sputtering method. (a) Image captured from one section of the electrodes. (b) Image captured from the gap between the left and right sections.</figcaption>
 </div>
 
 <!-- Repeat the same structure for other images -->
@@ -177,7 +177,7 @@ Considering the favorable outcome obtained from sputtering silver onto TPU, this
 
 <div class="image-container">
   <img src='/images/project2_10.jpg' alt="Image 10" width="350" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.10</span>: Silver was deposited onto a fabric substrate using the DC Sputtering method. (a) The state of the samples after they were removed from the DC Sputtering machine. (b) The state of the samples after the shadow mask was removed.</figcaption>
+  <figcaption><span class="fig-caption">Fig.9</span>: Silver was deposited onto a fabric substrate using the DC Sputtering method. (a) The state of the samples after they were removed from the DC Sputtering machine. (b) The state of the samples after the shadow mask was removed.</figcaption>
 </div>
 
 <!-- Repeat the same structure for other images -->
@@ -192,6 +192,6 @@ Considering the favorable outcome obtained from sputtering silver onto TPU, this
 
 <div class="image-container">
   <img src='/images/project2_12.JPG' alt="Image 10" width="250" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.11</span>: Measurement of the electrical conductivity of fabric coated with flexible silver electrodes.</figcaption>
+  <figcaption><span class="fig-caption">Fig.10</span>: Measurement of the electrical conductivity of fabric coated with flexible silver electrodes.</figcaption>
 </div>
 
