@@ -136,6 +136,8 @@ Using this first-of-its-kind method, fine electrodes were patterned with 100-mic
 <div style='text-align: justify;'>
 As demonstrated in Fig. 6, silver electrodes fabricated on thermoplastic polyurethane exhibit good flexibility. Their conductivity was measured using a multimeter, and a sheet resistance of 3 (Ω/sq) was determined.
   <br>
+ To examine the precision of the deposited flexible electrode, a picture of them was taken using an optical microscope, as depicted in Fig.7.
+   <br>
    <br>
 </div>
 
