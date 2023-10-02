@@ -1,10 +1,8 @@
 ---
 title: "Portfolio Project Number 3"
-excerpt: "Project Title:<br>Synthesis of Ultra-Thin, Long Silver Nanowires (AgNWs) for the Fabrication of Flexible, Transparent, and Conductive Electrodes<br/><img src='/images/name.png'>"
+excerpt: "Project Title:<br>Synthesis of Ultra-Thin, Long Silver Nanowires (AgNWs) for the Fabrication of Flexible, Transparent, and Conductive Electrodes<br/><img src='/images/project3_6.JPG'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
 
 * Feb. 2019 - Feb. 2020: Research Assistant
