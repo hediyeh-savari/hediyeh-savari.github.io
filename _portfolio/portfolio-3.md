@@ -165,17 +165,6 @@ In the next step, a drop of the silver nanowire solution was diluted in a large 
 
 
 
-
-
-<body>
- 
-<div style='text-align: justify;'>
-?
- <br>
- <br>
- </div>
-
-
 <table>
   <tr>
     <td><img src='/images/project3_5.JPG' alt="Image 1"></td>
