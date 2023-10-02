@@ -69,9 +69,12 @@ To achieve the synthesis of long nanowires, high molecular weight PVP should be 
 
 <h1>Synthesis of Silver Nanowires Using the Polyol Method</h1>
 
-
-
-
+<div style='text-align: justify;'>
+At room temperature, 100 ml of ethylene glycol was poured into a beaker, and 0.32 grams of PVP was added to it. The beaker was then placed on a hot plate to have PVP dissolved in ethylene glycol using a magnet. Subsequently, 0.72 grams of silver nitrate was added to the solution, and it was dissolved in ethylene glycol with a magnet. On the other hand, a 10 mL solution of 600 µM FeCl3 in ethylene glycol (i.e., 0.0009 g FeCl3 in 10 mL ethylene glycol) was added to the previous solution, and it was stirred on a magnetic stirrer for one minute. The solution was then placed on a hot plate at 130 (°C) and dissolved for 10 minutes with a magnetic stirrer. Next, the beaker was transferred to the oven, and the reaction was allowed to continue for 3 and a half hours without stirring. After this period, the beaker was removed from the oven and placed under the hood until the next day to cool.
+<br>
+The next day, when the synthesized solution had cooled to room temperature, it was centrifuged to obtain pure silver nanowires. The contents of the beaker were divided into four falcon tubes. Falcons placed opposite each other in the centrifuge had to be of equal weight. Subsequently, all the falcon tubes were weighed and placed in the centrifuge. The solution was centrifuged at a temperature of 11°C for 10 minutes at a speed of 4500 rpm. The separated liquid, which was actually ethylene glycol, was discarded, and DI water was poured into the falcon tubes to separate the excess material from the nanowires after centrifugation. The solution was centrifuged again at a temperature of 11 (°C) at a speed of 4500 (rpm) for 10 minutes, and the separated liquid was discarded. Then, ethanol was poured into the falcon tubes to dissolve the PVP attached to the nanowires, which was subsequently discarded. Finally, the resulting silver nanowires were dispersed in water or ethanol and stored in the refrigerator.
+ <br>
+</div>
 
 
 
