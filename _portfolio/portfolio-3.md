@@ -112,7 +112,7 @@ At room temperature, 100 ml of ethylene glycol was poured into a beaker, and 0.3
   <tr>
     <td><strong>Fig.1_1</strong>: PVP is dissolved in ethylene glycol on a hot plate.</td>
     <td><strong>Fig.1_2</strong>: The solution of silver nanowires being synthesized on a hot plate.</td>
-    <td><strong>Fig.1_3</strong>: ?</td>
+    <td><strong>Fig.1_3</strong>: The solution of silver nanowires after synthesis is completed and prior to the centrifugation process.</td>
   </tr>
 </table>
 
