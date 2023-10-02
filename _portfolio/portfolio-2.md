@@ -173,7 +173,7 @@ High precision was required for the fabrication of flexible electrodes, and conv
 
 <div class="image-container">
   <img src='/images/project2_10.jpg' alt="Image 10" width="350" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.10</span>: ?</figcaption>
+  <figcaption><span class="fig-caption">Fig.9</span>: Silver was deposited onto a fabric substrate using the DC Sputtering method. (a) The state of the samples after they were removed from the DC Sputtering machine. (b) The state of the samples after the shadow mask was removed.</figcaption>
 </div>
 
 <!-- Repeat the same structure for other images -->
