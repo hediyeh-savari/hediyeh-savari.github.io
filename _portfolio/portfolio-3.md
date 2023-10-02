@@ -32,13 +32,43 @@ collection: portfolio
 <h1>Abstract</h1>
 <div style='text-align: justify;'>
 In recent years, transparent and flexible materials such as conductive polymers, nanotube networks, graphene electrodes, and metal nanowires have been employed for the fabrication of electrodes, instead of ITO. Among the mentioned items, metal nanowires, especially silver nanowires, are considered the best options for the fabrication of conductive, transparent, and flexible electrodes (FTCEs). The reasons for this preference are as follows:
+  <br>
 • Compatibility with the environment is ensured.
+  <br>
 • The manufacturing process is based on solutions.
+  <br>
 • High conductivity is exhibited.
+  <br>
 • Synthesis on a large scale can be carried out.
  <br>
   <br>
 </div>
+
+
+
+<div style='text-align: justify;'>
+In this research, the synthesis of silver nanowires was carried out using the polyol method in accordance with the reference recipe [1].
+  <br>
+The required materials for this synthesis include the following:
+• Ethylene glycol
+  <br>
+• Polyvinyl pyrrolidone (Mw=360000)
+  <br>
+• Silver nitrate
+  <br>
+• Iron (III) chloride
+  <br>
+To achieve the synthesis of long nanowires, high molecular weight PVP should be employed. This is because the high molecular weight of PVP results in the generation of longer PVP molecular chains, consequently leading to the production of longer nanowires.
+  <br>
+</div>
+
+
+
+
+
+
+
+
 
 <div class="image-container">
   <img src='/images/project3_1.JPG' alt="Image 1" width="250" class="centered-image"> <!-- Adjust the width as needed -->
