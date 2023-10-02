@@ -211,6 +211,7 @@ For further investigation, SEM images of the AgNWs thin film were captured with 
 <div style='text-align: justify;'>
 After the synthesis and centrifugation of silver nanowires, a very high initial resistance is exhibited by them. While silver nanowires are being coated on the substrate, they are stacked on top of each other, and at the junction spots, the resistance reaches approximately 10<sup>12</sup> - 10<sup>14</sup>. Therefore, the necessity for welding silver nanowires arises.
  <br>
+  <br>
  In this research, a combination of the following two methods has been employed for this purpose. Indeed, the purpose has been served by initially performing the Rapid Thermal Welding Method, followed by the Halide Welding for Silver Nanowire Network Electrodes.
  <br>
    <br>
@@ -256,9 +257,6 @@ The sheet resistance of the AgNWs/HEC composite layer was found to be 70 (Ω/sq)
 
 <p>
   <h2>Reference:</h2>
-  <cite>[2] Kang, H., Kim, Y., Cheon, S., Yi, G.-R., & Cho, J. H. (2017). Halide welding for silver nanowire network electrode. ACS Applied Materials & Interfaces, 9(36), 30779–30785.
- <br>
-
-  <cite>[2] Semiconductor Optoelectronic Devices</cite><br>
-
+  <cite>[1] ?</cite><br>
+  <cite>[2] Kang, H., Kim, Y., Cheon, S., Yi, G.-R., & Cho, J. H. (2017). Halide welding for silver nanowire network electrode. ACS Applied Materials & Interfaces, 9(36), 30779–30785.</cite><br>
 </p>
