@@ -128,6 +128,7 @@ Using this first-of-its-kind method, fine electrodes were patterned with 100-mic
 <div class="image-container">
   <img src='/images/project2_7.jpg' alt="Image 7" width="300" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.6</span>: (a) TPU was coated with silver. (b) A pattern was created on TPU after the removal of the shadow mask. (c) The transparency and flexibility of the resulting sample were demonstrated. (d) The sample's proper adaptation to human skin was displayed by placing it on my hand.</figcaption>
+  <br>
 </div>
 
 
