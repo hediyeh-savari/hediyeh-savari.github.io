@@ -168,11 +168,11 @@ collection: portfolio
 
 
 
-<!--
+
 
 <div class="image-container">
-  <img src='/images/project2_11.png' alt="Image 11" width="600" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.8</span>: A scanning electron microscope (SEM) image of the silver flexible electrodes deposited on TPU using the DC sputtering method. (a) Image captured from one section of the electrodes. (b) Image captured from the gap between the left and right sections.</figcaption>
+  <img src='/images/project2_111.png' alt="Image 11" width="600" class="centered-image"> <!-- Adjust the width as needed -->
+  <figcaption><span class="fig-caption">Fig.8</span>: ?</figcaption>
   <br>
 </div>
 
@@ -181,30 +181,28 @@ collection: portfolio
 
 
 <div style='text-align: justify;'>
-Considering the favorable outcome obtained from sputtering silver onto TPU, this work was also tested on fabric, and the result is depicted in Fig. 9.
+?
  <br>
   <br>
 </div>
 
 
 <div class="image-container">
-  <img src='/images/project2_10.jpg' alt="Image 10" width="450" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.9</span>: Silver was deposited onto a fabric substrate using the DC Sputtering method. (a) The state of the samples after they were removed from the DC Sputtering machine. (b) The state of the samples after the shadow mask was removed.</figcaption>
+  <img src='/images/project2_100.jpg' alt="Image 10" width="450" class="centered-image"> <!-- Adjust the width as needed -->
+  <figcaption><span class="fig-caption">Fig.9</span>: ?</figcaption>
   <br>
 </div>
 
 
 
 <div style='text-align: justify;'>
-The electrical conductivity of these fabric-based electrodes was not as high as that on TPU, but their electrical conductivity was still good enough.
+?
  <br>
   <br>
 </div>
 
 
 <div class="image-container">
-  <img src='/images/project2_12.JPG' alt="Image 10" width="200" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.10</span>: Measurement of the electrical conductivity of fabric coated with flexible silver electrodes.</figcaption>
+  <img src='/images/project2_122.JPG' alt="Image 10" width="200" class="centered-image"> <!-- Adjust the width as needed -->
+  <figcaption><span class="fig-caption">Fig.10</span>: ?</figcaption>
 </div>
-
--->
