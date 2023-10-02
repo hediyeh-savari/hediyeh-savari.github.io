@@ -175,7 +175,6 @@ At room temperature, 100 ml of ethylene glycol was poured into a beaker, and 0.3
 
 
 
-<h1>2. ?</h1>
 <div style='text-align: justify;'>
 ?
  <br>
@@ -192,7 +191,6 @@ At room temperature, 100 ml of ethylene glycol was poured into a beaker, and 0.3
 
 
 
-<h1>3. ?</h1>
 <div style='text-align: justify;'>
 ?
   <br>
