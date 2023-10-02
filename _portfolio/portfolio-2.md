@@ -171,6 +171,7 @@ As demonstrated in Fig. 6, silver electrodes fabricated on thermoplastic polyure
 <div style='text-align: justify;'>
 Considering the favorable outcome obtained from sputtering silver onto TPU, this work was also tested on fabric, and the result is depicted in the figure below.
  <br>
+  <br>
 </div>
 
 
@@ -193,16 +194,4 @@ Considering the favorable outcome obtained from sputtering silver onto TPU, this
   <img src='/images/project2_12.JPG' alt="Image 10" width="250" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.11</span>: Measurement of the electrical conductivity of fabric coated with flexible silver electrodes.</figcaption>
 </div>
-
-<!-- Repeat the same structure for other images -->
-
-
-
-
-
-
-
-
-
-
 
