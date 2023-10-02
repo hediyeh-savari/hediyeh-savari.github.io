@@ -209,7 +209,7 @@ For further investigation, SEM images of the AgNWs thin film were captured with 
 <h2>Step 4: Junction Welding Process</h2>
 
 <div style='text-align: justify;'>
-After the synthesis and centrifugation of silver nanowires, a very high initial resistance is exhibited by them. While silver nanowires are being coated on the substrate, they are stacked on top of each other, and at the junction spots, the resistance reaches approximately 10^12 - 10^14. 
+After the synthesis and centrifugation of silver nanowires, a very high initial resistance is exhibited by them. While silver nanowires are being coated on the substrate, they are stacked on top of each other, and at the junction spots, the resistance reaches approximately 10<sup>12</sup> - 10<sup>14</sup>. Therefore, the necessity for welding silver nanowires arises.
 </div>
 
 
