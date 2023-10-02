@@ -35,7 +35,7 @@ collection: portfolio
 
 <div class="image-container">
   <img src='/images/project2_1.jpg' alt="Image 1" width="300" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.1</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</figcaption>
+  <figcaption><span class="fig-caption"><strong>Fig.1</strong></span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</figcaption>
  <br>
 </div>
 
