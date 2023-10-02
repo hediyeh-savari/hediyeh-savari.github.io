@@ -164,7 +164,7 @@ A drop of the final solution is poured onto a microscope slide, and it is observ
 
 <div class="image-container">
   <img src='/images/project3_5.JPG' alt="Image 5" width="400" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.5</span>: (a) The samples were positioned within the DC Sputtering machine. (b) Argon plasma was generated, and silver was physically sputtered to form the deposition.</figcaption>
+  <figcaption><span class="fig-caption"><strong>Fig.5</strong></span>: (a) The samples were positioned within the DC Sputtering machine. (b) Argon plasma was generated, and silver was physically sputtered to form the deposition.</figcaption>
  <br>
 </div>
 
@@ -178,7 +178,7 @@ In the next step, a drop of the silver nanowire solution was diluted in a large 
 
 <div class="image-container">
   <img src='/images/project3_6.JPG' alt="Image 6" width="300" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.6</span>: Examining the synthesized silver nanowires after dilution using an optical microscope.</figcaption>
+  <figcaption><span class="fig-caption"><strong>Fig.6</strong></span>: Examining the synthesized silver nanowires after dilution using an optical microscope.</figcaption>
   <br>
 </div>
 
@@ -201,7 +201,7 @@ In the next step, a drop of the silver nanowire solution was diluted in a large 
 
 <div class="image-container">
   <img src='/images/project3_7.JPG' alt="Image 7" width="400" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.7</span>: ?</figcaption>
+  <figcaption><span class="fig-caption"><strong>Fig.7</strong></span>: ?</figcaption>
  <br>
 </div>
 
