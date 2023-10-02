@@ -96,7 +96,7 @@ At room temperature, 100 ml of ethylene glycol was poured into a beaker, and 0.3
 
 <div class="image-container">
   <img src='/images/project3_3.JPG' alt="Image 2" width="200" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.2</span>: ?</figcaption>
+  <figcaption><span class="fig-caption">Fig.2</span>: The solution of silver nanowires being synthesized on a hot plate.</figcaption>
   <br>
 </div>
 
