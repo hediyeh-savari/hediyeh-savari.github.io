@@ -111,8 +111,8 @@ To achieve the synthesis of long nanowires, high molecular weight PVP should be 
   </tr>
   <tr>
     <td><strong>Fig.1_1</strong>: In this case, it is assumed that the parameters 'd' and 't' are variable, while the 'J<sub>th</sub>' parameter is held constant. The bandwidth diagram is created using the Plot-3D command in Wolfram Mathematica. As indicated by the plot, Δλ is found to be independent of 't,' but it is influenced by changes in 'd'. It is noteworthy that the slope of Δλ experiences an increasing shift for 'd' values smaller than 60 nm.</td>
-    <td><strong>Fig.1_2</strong>: With the assumption that the two parameters, 'd' and 'J<sub>th</sub>', are variable, while the parameter 't' remains constant, the bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As illustrated in the plot, Δλ is observed to be responsive to variations in both 'd' and 'J<sub>th</sub>' in this particular scenario. These changes peak when 'J<sub>th</sub>' values exceed 1x10<sup>6</sup> A/m<sup>2</sup> and 'd' values are below 40 nm.</td>
-    <td><strong>Fig.1_3</strong>: With the assumption that the two parameters, 't' and 'J<sub>th</sub>', are variable, while the parameter 'd' is held constant, the bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As portrayed in the plot, in this scenario, Δλ is found to be unaffected by 't' but exhibits a linear response to alterations in 'J<sub>th</sub>'.</td>
+    <td><strong>Fig.1_2</strong>: The solution of silver nanowires being synthesized on a hot plate.</td>
+    <td><strong>Fig.1_3</strong>: ?</td>
   </tr>
 </table>
 
@@ -144,53 +144,6 @@ At room temperature, 100 ml of ethylene glycol was poured into a beaker, and 0.3
 
 
 
-
-
-
-
-
-
-<div class="image-container">
-  <img src='/images/project3_1.JPG' alt="Image 1" width="250" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.1</span>: ?</figcaption>
- <br>
-</div>
-
-<div style='text-align: justify;'>
-?
- <br>
-  <br>
-</div>
-
-<div class="image-container">
-  <img src='/images/project3_3.JPG' alt="Image 2" width="200" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.2</span>: The solution of silver nanowires being synthesized on a hot plate.</figcaption>
-  <br>
-</div>
-
-
-
-<div style='text-align: justify;'>
-?
- <br>
-  <br>
-</div>
-
-
-<div class="image-container">
-  <img src='/images/project3_2.JPG' alt="Image 3" width="200" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.3</span>: ?</figcaption>
- <br>
-</div>
-
-
-
-
-<div style='text-align: justify;'>
-?
-  <br>
-   <br>
-</div>
 
 
 
