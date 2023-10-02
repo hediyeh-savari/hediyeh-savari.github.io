@@ -182,7 +182,7 @@ In the next step, a drop of the silver nanowire solution was diluted in a large 
 <body>
  
 <div style='text-align: justify;'>
-For further investigation, SEM images of the AgNWs thin film were captured with a resolution of 500 nm and 5 μm, as depicted in Fig. 4. According to these images, it can be observed that silver nanowires synthesized using the described Polyol method exhibit a high aspect ratio, consequently resulting in their possession of very high transparency, flexibility, and electrical conductivity.
+For further investigation, SEM images of the AgNWs thin film were captured with a resolution of 500nm and 5μm, as depicted in Fig. 4. According to these images, it can be observed that silver nanowires synthesized using the described Polyol method exhibit a high aspect ratio, consequently resulting in their possession of very high transparency, flexibility, and electrical conductivity.
  <br>
  <br>
  </div>
@@ -195,8 +195,8 @@ For further investigation, SEM images of the AgNWs thin film were captured with 
     <td><img src='/images/project3_10.jpeg' alt="Image 3"></td>
   </tr>
   <tr>
-    <td><strong>Fig.4_1</strong>: An SEM photograph of a single silver nanowire was taken at a 500 nm resolution.</td>
-    <td><strong>Fig.4_2</strong>: An SEM image was captured depicting a small number of silver nanowires together, with a resolution of 500 nm.</td>
+    <td><strong>Fig.4_1</strong>: An SEM photograph of a single silver nanowire was taken at a 500nm resolution.</td>
+    <td><strong>Fig.4_2</strong>: An SEM image was captured depicting a small number of silver nanowires together, with a resolution of 500nm.</td>
     <td><strong>Fig.4_3</strong>: An SEM image showing a large number of silver nanowires was obtained at a resolution of 5&micro;m.</td>
   </tr>
 </table>
