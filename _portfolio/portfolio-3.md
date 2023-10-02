@@ -255,3 +255,19 @@ The sheet resistance of the AgNWs/HEC composite layer was found to be 70 (Ω/sq)
 </div>
 
 
+<p>
+  <h2>Reference:</h2>
+  <cite>[1] Semiconductor Optoelectronic Devices</cite><br>
+  Author(s): Bhattacharya, Pallab<br>
+  Publisher: Prentice-Hall, Inc.<br>
+  Publication Year: 1997
+</p>
+
+
+<p>
+  <h2>Reference:</h2>
+  <cite>[2] Semiconductor Optoelectronic Devices</cite><br>
+  Author(s): Bhattacharya, Pallab<br>
+  Publisher: Prentice-Hall, Inc.<br>
+  Publication Year: 1997
+</p>
