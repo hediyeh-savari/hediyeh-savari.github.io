@@ -169,7 +169,8 @@ As demonstrated in Fig. 6, silver electrodes fabricated on thermoplastic polyure
 
 
 <div style='text-align: justify;'>
- ?
+Considering the favorable outcome obtained from sputtering silver onto TPU, this work was also tested on fabric, and the result is depicted in the figure below.
+ <br>
 </div>
 
 
