@@ -131,7 +131,7 @@ High precision was required for the fabrication of flexible electrodes, and conv
 
 
 <div style='text-align: justify;'>
-Using this first-of-its-kind method, fine electrodes were patterned with 100-micron precision and exceptional uniformity on a fully flexible thermoplastic polyurethane surface. The accuracy and cleanliness of this method were excellent, and the sensor substrate remained uncontaminated, allowing the desired design to function effectively. With this method, any metal can be deposited with any desired design on any desired substrate.
+Using this first-of-its-kind method, fine electrodes were patterned with 100-micron precision and exceptional uniformity on a fully flexible thermoplastic polyurethane surface. The accuracy and cleanliness of this method were excellent, and the sensor substrate remained uncontaminated, allowing the desired design to function effectively. With this method, any metal can be deposited with any desired design on any desired substrate. As demonstrated in Fig. 6, silver electrodes fabricated on thermoplastic polyurethane exhibit good flexibility. Their conductivity was measured using a multimeter, and a sheet resistance of 3 (Ω/sq) was determined.
  <br>
   <br>
 </div>
@@ -139,8 +139,6 @@ Using this first-of-its-kind method, fine electrodes were patterned with 100-mic
 
 
 <div style='text-align: justify;'>
-As demonstrated in Fig. 6, silver electrodes fabricated on thermoplastic polyurethane exhibit good flexibility. Their conductivity was measured using a multimeter, and a sheet resistance of 3 (Ω/sq) was determined.
-  <br>
  To examine the precision of the deposited flexible electrode, a picture of them was taken using an optical microscope, as depicted in Fig.7.
    <br>
    <br>
