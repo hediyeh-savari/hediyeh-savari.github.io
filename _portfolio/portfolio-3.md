@@ -136,7 +136,7 @@ The next day, when the synthesized solution had cooled to room temperature, it w
 
 <div class="image-container">
   <img src='/images/project3_4.JPG' alt="Image 4" width="300" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption"><strong>Fig.4</strong></span>: ?</figcaption>
+  <figcaption><span class="fig-caption"><strong>Fig.4</strong></span>: Silver nanowire solution after the centrifugation process</figcaption>
  <br> 
 </div>
 
