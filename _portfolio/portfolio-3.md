@@ -51,9 +51,6 @@ In recent years, transparent and flexible materials such as conductive polymers,
 
 <h1>Synthesis of Silver Nanowires Using the Polyol Method</h1>
 
-
-
-
 <div style='text-align: justify;'>
 In this research, the synthesis of silver nanowires was carried out using the polyol method in accordance with the reference recipe [1].
   <br>
