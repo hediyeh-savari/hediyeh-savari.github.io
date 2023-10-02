@@ -136,7 +136,7 @@ At room temperature, 100 ml of ethylene glycol was poured into a beaker, and 0.3
 
 <div class="image-container">
   <img src='/images/project3_4.JPG' alt="Image 4" width="300" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.4</span>: ?</figcaption>
+  <figcaption><span class="fig-caption"><strong>Fig.4</strong></span>: ?</figcaption>
  <br> 
 </div>
 
