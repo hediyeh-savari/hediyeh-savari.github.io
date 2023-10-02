@@ -70,7 +70,7 @@ To achieve the synthesis of long nanowires, high molecular weight PVP should be 
 <h1>Synthesis of Silver Nanowires Using the Polyol Method</h1>
 
 <div style='text-align: justify;'>
-At room temperature, 100 ml of ethylene glycol was poured into a beaker, and 0.32 grams of PVP was added to it. The beaker was then placed on a hot plate to have PVP dissolved in ethylene glycol using a magnet. Subsequently, 0.72 grams of silver nitrate was added to the solution, and it was dissolved in ethylene glycol with a magnet. On the other hand, a 10 mL solution of 600 µM FeCl3 in ethylene glycol (i.e., 0.0009 g FeCl3 in 10 mL ethylene glycol) was added to the previous solution, and it was stirred on a magnetic stirrer for one minute. The solution was then placed on a hot plate at 130 (°C) and dissolved for 10 minutes with a magnetic stirrer. Next, the beaker was transferred to the oven, and the reaction was allowed to continue for 3 and a half hours without stirring. After this period, the beaker was removed from the oven and placed under the hood until the next day to cool.
+At room temperature, 100 ml of ethylene glycol was poured into a beaker, and 0.32 grams of PVP was added to it. The beaker was then placed on a hot plate to have PVP dissolved in ethylene glycol using a magnet (Fig.1). Subsequently, 0.72 grams of silver nitrate was added to the solution, and it was dissolved in ethylene glycol with a magnet. On the other hand, a 10 mL solution of 600 µM FeCl3 in ethylene glycol (i.e., 0.0009 g FeCl3 in 10 mL ethylene glycol) was added to the previous solution, and it was stirred on a magnetic stirrer for one minute. The solution was then placed on a hot plate at 130 (°C) and dissolved for 10 minutes with a magnetic stirrer. Next, the beaker was transferred to the oven, and the reaction was allowed to continue for 3 and a half hours without stirring. After this period, the beaker was removed from the oven and placed under the hood until the next day to cool (Fig.3).
 <br>
 <br>
 </div>
@@ -90,7 +90,7 @@ At room temperature, 100 ml of ethylene glycol was poured into a beaker, and 0.3
 </div>
 
 <div class="image-container">
-  <img src='/images/project3_2.JPG' alt="Image 2" width="200" class="centered-image"> <!-- Adjust the width as needed -->
+  <img src='/images/project3_3.JPG' alt="Image 2" width="200" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.2</span>: ?</figcaption>
   <br>
 </div>
@@ -106,7 +106,7 @@ At room temperature, 100 ml of ethylene glycol was poured into a beaker, and 0.3
 
 
 <div class="image-container">
-  <img src='/images/project3_3.JPG' alt="Image 3" width="200" class="centered-image"> <!-- Adjust the width as needed -->
+  <img src='/images/project3_2.JPG' alt="Image 3" width="200" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.3</span>: ?</figcaption>
  <br>
 </div>
