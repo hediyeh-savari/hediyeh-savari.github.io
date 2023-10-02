@@ -143,7 +143,6 @@ The next day, when the synthesized solution had cooled to room temperature, it w
 <div style='text-align: justify;'>
 Finally, the resulting silver nanowires were dispersed in water or ethanol and stored in the refrigerator.
  <br>
-  <br>
 </div>
 
 
