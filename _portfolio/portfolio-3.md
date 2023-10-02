@@ -180,7 +180,7 @@ In the next step, a drop of the silver nanowire solution was diluted in a large 
 
 <div class="image-container">
   <img src='/images/project3_6.JPG' alt="Image 6" width="300" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.6</span>: ?</figcaption>
+  <figcaption><span class="fig-caption">Fig.6</span>: Examining the synthesized silver nanowires after dilution using an optical microscope.</figcaption>
   <br>
 </div>
 
