@@ -110,7 +110,7 @@ At room temperature, 100 ml of ethylene glycol was poured into a beaker, and 0.3
     <td><img src='/images/project3_2.JPG' alt="Image 3"></td>
   </tr>
   <tr>
-    <td><strong>Fig.1_1</strong>: In this case, it is assumed that the parameters 'd' and 't' are variable, while the 'J<sub>th</sub>' parameter is held constant. The bandwidth diagram is created using the Plot-3D command in Wolfram Mathematica. As indicated by the plot, Δλ is found to be independent of 't,' but it is influenced by changes in 'd'. It is noteworthy that the slope of Δλ experiences an increasing shift for 'd' values smaller than 60 nm.</td>
+    <td><strong>Fig.1_1</strong>: PVP is dissolved in ethylene glycol on a hot plate.</td>
     <td><strong>Fig.1_2</strong>: The solution of silver nanowires being synthesized on a hot plate.</td>
     <td><strong>Fig.1_3</strong>: ?</td>
   </tr>
