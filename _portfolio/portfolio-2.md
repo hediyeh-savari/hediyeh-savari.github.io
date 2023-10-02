@@ -154,7 +154,7 @@ To assess the precision of the deposited flexible electrodes, their structure wa
 
 
 <div style='text-align: justify;'>
-For a more in-depth analysis of these electrodes, SEM photos were taken, and the results are displayed in Fig.8.
+For a comprehensive analysis of these electrodes, SEM images were captured, as illustrated in Fig. 8, and an in-depth investigation of their properties was undertaken.
  <br>
   <br>
 </div>
