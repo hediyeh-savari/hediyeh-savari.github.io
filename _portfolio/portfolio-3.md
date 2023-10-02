@@ -274,6 +274,14 @@ In the next step, a drop of the silver nanowire solution was diluted in a large 
 </div>
 
 
+<div style='text-align: justify;'>
+When these nanowires were coated onto various surfaces, it was observed that they did not adhere to the surface adequately and could be detached from the surface with minimal contact. To address this issue, different methods of enhancing adhesion were explored. Ultimately, Hydroxyethyl cellulose (HEC) material was employed for this purpose, representing a cost-effective, straightforward, and efficient method.
+ <br>
+  <br>
+</div>
+
+
+
 <div class="image-container">
   <img src='/images/project3_7.JPG' alt="Image 7" width="400" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption"><strong>Fig.7</strong></span>: ?</figcaption>
@@ -282,11 +290,6 @@ In the next step, a drop of the silver nanowire solution was diluted in a large 
 
 
 
-<div style='text-align: justify;'>
-When these nanowires were coated onto various surfaces, it was observed that they did not adhere to the surface adequately and could be detached from the surface with minimal contact. To address this issue, different methods of enhancing adhesion were explored. Ultimately, Hydroxyethyl cellulose (HEC) material was employed for this purpose, representing a cost-effective, straightforward, and efficient method.
- <br>
-  <br>
-</div>
 
 
 <div style='text-align: justify;'>
