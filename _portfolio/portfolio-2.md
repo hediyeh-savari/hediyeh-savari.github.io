@@ -114,11 +114,13 @@ High precision was required for the fabrication of flexible electrodes, and conv
 <div class="image-container">
   <img src='/images/project2_6.jpg' alt="Image 6" width="400" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.5</span>: (a) The samples were positioned within the DC Sputtering machine. (b) Argon plasma was generated, and silver was physically sputtered to form the deposition.</figcaption>
+ <br>
 </div>
 
 
 <div style='text-align: justify;'>
 Using this first-of-its-kind method, fine electrodes were patterned with 100-micron precision and exceptional uniformity on a fully flexible thermoplastic polyurethane surface. The accuracy and cleanliness of this method were excellent, and the sensor substrate remained uncontaminated, allowing the desired design to function effectively. With this method, any metal can be deposited with any desired design on any desired substrate.
+ <br>
 </div>
 
 
