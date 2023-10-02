@@ -221,7 +221,7 @@ In this method, the silver nanowires on the substrate are placed on a hot plate 
    <br>
 2. Halide Welding for Silver Nanowire Network Electrode:
   <br>
-In this method, a 0.5M solution of NaCl salt is first prepared. Then, the silver nanowires coated on the substrate are immersed in this solution for 30 seconds and subsequently rinsed with distilled water (DI) for another 30 seconds.
+In this method, a 0.5M solution of NaCl salt is first prepared. Then, the silver nanowires coated on the substrate are immersed in this solution for 30 seconds and subsequently rinsed with distilled water (DI) for another 30 seconds [2].
  <br>
   <br>
 </div>
@@ -256,7 +256,7 @@ The sheet resistance of the AgNWs/HEC composite layer was found to be 70 (Ω/sq)
 
 <p>
   <h2>Reference:</h2>
-  <cite>[1] Kang, H., Kim, Y., Cheon, S., Yi, G.-R., & Cho, J. H. (2017). Halide welding for silver nanowire network electrode. ACS Applied Materials & Interfaces, 9(36), 30779–30785.
+  <cite>[2] Kang, H., Kim, Y., Cheon, S., Yi, G.-R., & Cho, J. H. (2017). Halide welding for silver nanowire network electrode. ACS Applied Materials & Interfaces, 9(36), 30779–30785.
  <br>
 
   <cite>[2] Semiconductor Optoelectronic Devices</cite><br>
