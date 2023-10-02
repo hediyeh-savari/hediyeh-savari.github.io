@@ -214,8 +214,11 @@ When these nanowires were coated onto various surfaces, it was observed that the
 </div>
 
 
-
-
+<div style='text-align: justify;'>
+The sheet resistance of the AgNWs/HEC composite layer was found to be 70 (Ω/sq). The adhesion of the AgNWs/HEC conductive solution to the substrate was evaluated by subjecting it to contact with harsh objects, and it was observed that detachment from the surface did not occur. Therefore, the problem of non-adhesion of silver nanowires to the surface was resolved through the utilization of HEC. This level of adhesion is considered excellent for conductive and transparent layers without the need for any restoration operations.
+ <br>
+  <br>
+</div>
 
 
 
