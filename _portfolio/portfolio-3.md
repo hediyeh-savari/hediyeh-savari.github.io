@@ -31,60 +31,60 @@ collection: portfolio
 <br>
 <h1>1. Fabrication of Flexible Electrode Using the Photolithography Method</h1>
 <div style='text-align: justify;'>
-  In this research, two types of masks were designed for electrode fabrication using CorelDRAW, as illustrated in Fig.1. The electrode displayed in Fig.1-(a) was found to be appropriate for the sensor array. In fact, by employing these electrodes, it is possible to fabricate four different types of sensors on a common substrate based on the number of fingers. However, if the electrode (b) type is utilized, only one type of sensor can be produced on the substrate. The measurement accuracy of the electrode (b) type is higher than that of the other type. Therefore, for this study, the electrode (b) type was chosen.
+?
  <br>
   <br>
 </div>
 
 <div class="image-container">
-  <img src='/images/project2_1.jpg' alt="Image 1" width="300" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.1</span>: Two mask models were created using Corel software for the design of electrodes: (a) configuration with four separate electrodes, and (b) interdigitated electrode design</figcaption>
+  <img src='/images/project3_1.JPG' alt="Image 1" width="300" class="centered-image"> <!-- Adjust the width as needed -->
+  <figcaption><span class="fig-caption">Fig.1</span>: ?</figcaption>
  <br>
 </div>
 
 <div style='text-align: justify;'>
-After the silver nanowires were synthesized and centrifuged, photolithography was performed on them using the lift-off method to obtain the mask pattern. To carry out photolithography on the TPU electrodes, the designed mask was inserted onto the TPU. However, due to the high flexibility of the TPU sheet, a lam was employed as a support to facilitate the fitting of the mask, as demonstrated in the figure below. The settings of the photolithography device were configured as follows: Time was set to 10 seconds, intensity was set at 100%, and the LED was turned on. The result of the photolithography of silver nanowires was not favorable, and the mask pattern did not appear on the TPU.
+?
  <br>
   <br>
 </div>
 
 <div class="image-container">
-  <img src='/images/project2_2.jpg' alt="Image 2" width="400" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.2</span>: (a) The mask was positioned on the TPU sheet for electrode photolithography. (b) The photolithography process was conducted.</figcaption>
+  <img src='/images/project3_2.JPG' alt="Image 2" width="400" class="centered-image"> <!-- Adjust the width as needed -->
+  <figcaption><span class="fig-caption">Fig.2</span>: ?</figcaption>
   <br>
 </div>
 
 
 
-<h1>2. Fabrication of Flexible Electrode via 3D Printing</h1>
+<h1>2. ?</h1>
 <div style='text-align: justify;'>
- In another attempt, a 3D printer was employed to design the silver nanowires. The setup of a 3D printer was established for coating silver nanowires on three different substrates: polyethylene terephthalate, polycarbonate, and thermoplastic polyurethane. The final result was deemed inappropriate. The reason for this was attributed to the low viscosity of the silver nanowire solution.
+?
  <br>
   <br>
 </div>
 
 
 <div class="image-container">
-  <img src='/images/project2_4.jpg' alt="Image 4" width="450" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.3</span>: (a) The 3D printer setup was arranged for the coating of silver nanowires on three different substrates: polyethylene terephthalate, polycarbonate, and thermoplastic polyurethane. (b) Silver nanowires were printed using a 3D printer. (c) The drops were subsequently connected after a short period of time.</figcaption>
+  <img src='/images/project3_3.JPG' alt="Image 3" width="450" class="centered-image"> <!-- Adjust the width as needed -->
+  <figcaption><span class="fig-caption">Fig.3</span>: ?</figcaption>
  <br>
 </div>
 
 
 
 
-<h1>3. Fabrication of Flexible Electrodes through Silver Nanowire Deposition Using a Spray Gun</h1>
+<h1>3. ?</h1>
 <div style='text-align: justify;'>
-Another method that was explored involved the deposition of silver nanowires using a spray gun. In this method, the nanowires were subjected to significant pressure, resulting in their crushing and breakage, which led to the manifestation of very high resistance. With high applied pressure, a relatively uniform layer was formed on the surface, but it resulted in the deformation of the nanowires. Conversely, when the pressure was reduced, the coating became non-uniform. This method also yielded unsatisfactory results, leading to its rejection.
+?
   <br>
    <br>
 </div>
 
 
 
-<h1>4. Fabrication of Flexible Electrode via Silver Nanowire Patterning Using the Drop-Casting Method with a Shadow Mask</h1>
+<h1>4. ?</h1>
 <div style='text-align: justify;'>
-The solution of silver nanowires dissolved in water was combined with HEC and rendered uniform through esterification. Additionally, the shadow mask was affixed to the TPU sheet. Subsequently, this solution was poured onto the mask using the drop-casting method to fill the empty areas of the TPU. The sample was then positioned on a hot plate for 30 minutes, heated to 80°C, and dried. Finally, the mask was gently removed from the TPU surface, yielding the following result.
+?
  <br>
   <br>
 </div>
