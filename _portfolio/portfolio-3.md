@@ -152,8 +152,11 @@ The next day, when the synthesized solution had cooled to room temperature, it w
 </div>
 
 
-
-
+<div style='text-align: justify;'>
+A drop of the final solution is poured onto a microscope slide, and it is observed and examined under an optical microscope. According to the picture below, the synthesized silver nanowires are found to be of very high quality. However, due to its high concentration, it needs to be diluted for further investigation.
+ <br>
+ <br>
+</div>
 
 
 <div class="image-container">
