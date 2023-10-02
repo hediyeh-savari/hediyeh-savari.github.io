@@ -168,6 +168,25 @@ High precision was required for the fabrication of flexible electrodes, and conv
 <!-- Repeat the same structure for other images -->
 
 
+
+
+
+<div style='text-align: justify;'>
+ ?
+</div>
+
+
+<div class="image-container">
+  <img src='/images/project2_11.png' alt="Image 11" width="500" class="centered-image"> <!-- Adjust the width as needed -->
+  <figcaption><span class="fig-caption">Fig.11</span>: A scanning electron microscope (SEM) image of the silver flexible electrodes deposited on TPU using the DC sputtering method. (a) Image captured from one section of the electrodes. (b) Image captured from the gap between the left and right sections.</figcaption>
+</div>
+
+<!-- Repeat the same structure for other images -->
+
+
+
+
+
 <div style='text-align: justify;'>
  ?
 </div>
@@ -183,18 +202,19 @@ High precision was required for the fabrication of flexible electrodes, and conv
 
 
 
-
 <div style='text-align: justify;'>
  ?
 </div>
 
 
 <div class="image-container">
-  <img src='/images/project2_11.png' alt="Image 11" width="500" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.11</span>: A scanning electron microscope (SEM) image of the silver flexible electrodes deposited on TPU using the DC sputtering method. (a) Image captured from one section of the electrodes. (b) Image captured from the gap between the left and right sections.</figcaption>
+  <img src='/images/project2_12.JPG' alt="Image 10" width="350" class="centered-image"> <!-- Adjust the width as needed -->
+  <figcaption><span class="fig-caption">Fig.12</span>: ?</figcaption>
 </div>
 
 <!-- Repeat the same structure for other images -->
+
+
 
 
 
