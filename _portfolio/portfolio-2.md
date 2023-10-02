@@ -129,15 +129,12 @@ Using this first-of-its-kind method, fine electrodes were patterned with 100-mic
   <figcaption><span class="fig-caption">Fig.6</span>: (a) TPU was coated with silver. (b) A pattern was created on TPU after the removal of the shadow mask. (c) The transparency and flexibility of the resulting sample were demonstrated. (d) The sample's proper adaptation to human skin was displayed by placing it on my hand.</figcaption>
 </div>
 
-<!-- Repeat the same structure for other images -->
-
-
-
 
 
 
 <div style='text-align: justify;'>
- ?
+As demonstrated in Fig. 6, silver electrodes fabricated on thermoplastic polyurethane exhibit good flexibility. Their conductivity was measured using a multimeter, and a sheet resistance of 3 (Ω/sq) was determined.
+  <br>
 </div>
 
 
