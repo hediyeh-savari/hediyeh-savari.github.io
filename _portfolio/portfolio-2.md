@@ -151,7 +151,7 @@ Using this first-of-its-kind method, fine electrodes were patterned with 100-mic
 
 <div class="image-container">
   <img src='/images/project2_9.jpg' alt="Image 9" width="200" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.8</span>: A silver interdigit electrode was deposited onto the TPU surface.</figcaption>
+  <figcaption><span class="fig-caption">Fig.7</span>: A silver interdigit electrode was deposited onto the TPU surface.</figcaption>
 </div>
 
 <!-- Repeat the same structure for other images -->
@@ -160,7 +160,7 @@ Using this first-of-its-kind method, fine electrodes were patterned with 100-mic
 
 <div class="image-container">
   <img src='/images/project2_8.png' alt="Image 8" width="350" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.7</span>: The flexible electrodes, created through the DC sputtering method, are observed under the optical microscope. The image illustrates the accuracy of this method.</figcaption>
+  <figcaption><span class="fig-caption">Fig.8</span>: The flexible electrodes, created through the DC sputtering method, are observed under the optical microscope. The image illustrates the accuracy of this method.</figcaption>
 </div>
 
 <!-- Repeat the same structure for other images -->
@@ -176,7 +176,7 @@ Using this first-of-its-kind method, fine electrodes were patterned with 100-mic
 
 <div class="image-container">
   <img src='/images/project2_11.png' alt="Image 11" width="500" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.11</span>: A scanning electron microscope (SEM) image of the silver flexible electrodes deposited on TPU using the DC sputtering method. (a) Image captured from one section of the electrodes. (b) Image captured from the gap between the left and right sections.</figcaption>
+  <figcaption><span class="fig-caption">Fig.9</span>: A scanning electron microscope (SEM) image of the silver flexible electrodes deposited on TPU using the DC sputtering method. (a) Image captured from one section of the electrodes. (b) Image captured from the gap between the left and right sections.</figcaption>
 </div>
 
 <!-- Repeat the same structure for other images -->
@@ -192,7 +192,7 @@ Using this first-of-its-kind method, fine electrodes were patterned with 100-mic
 
 <div class="image-container">
   <img src='/images/project2_10.jpg' alt="Image 10" width="350" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.9</span>: Silver was deposited onto a fabric substrate using the DC Sputtering method. (a) The state of the samples after they were removed from the DC Sputtering machine. (b) The state of the samples after the shadow mask was removed.</figcaption>
+  <figcaption><span class="fig-caption">Fig.10</span>: Silver was deposited onto a fabric substrate using the DC Sputtering method. (a) The state of the samples after they were removed from the DC Sputtering machine. (b) The state of the samples after the shadow mask was removed.</figcaption>
 </div>
 
 <!-- Repeat the same structure for other images -->
@@ -207,7 +207,7 @@ Using this first-of-its-kind method, fine electrodes were patterned with 100-mic
 
 <div class="image-container">
   <img src='/images/project2_12.JPG' alt="Image 10" width="250" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.12</span>: ?</figcaption>
+  <figcaption><span class="fig-caption">Fig.11</span>: ?</figcaption>
 </div>
 
 <!-- Repeat the same structure for other images -->
