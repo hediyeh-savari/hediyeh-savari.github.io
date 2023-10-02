@@ -214,7 +214,7 @@ After the synthesis and centrifugation of silver nanowires, a very high initial 
 
 
 <div class="image-container">
-  <img src='/images/project3_7.JPG' alt="Image 7" width="400" class="centered-image"> <!-- Adjust the width as needed -->
+  <img src='/images/project3_7.JPG' alt="Image 7" width="300" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption"><strong>Fig.7</strong></span>: ?</figcaption>
  <br>
 </div>
