@@ -187,7 +187,7 @@ In the next step, a drop of the silver nanowire solution was diluted in a large 
 <body>
  
 <div style='text-align: justify;'>
-At room temperature, 100 ml of ethylene glycol was poured into a beaker, and 0.32 grams of PVP was added to it. The beaker was then placed on a hot plate to have PVP dissolved in ethylene glycol using a magnet (Fig.1_1). Subsequently, 0.72 grams of silver nitrate was added to the solution, and it was dissolved in ethylene glycol with a magnet. On the other hand, a 10 mL solution of 600 µM FeCl3 in ethylene glycol (i.e., 0.0009 g FeCl3 in 10 mL ethylene glycol) was added to the previous solution, and it was stirred on a magnetic stirrer for one minute. The solution was then placed on a hot plate at 130 (°C) and dissolved for 10 minutes with a magnetic stirrer (Fig.1_2). Next, the beaker was transferred to the oven, and the reaction was allowed to continue for 3 and a half hours without stirring. After this period, the beaker was removed from the oven and placed under the hood until the next day to cool (Fig.1_3).
+?
  <br>
  <br>
  </div>
@@ -195,14 +195,14 @@ At room temperature, 100 ml of ethylene glycol was poured into a beaker, and 0.3
 
 <table>
   <tr>
-    <td><img src='/images/project3_1.JPG' alt="Image 1"></td>
-    <td><img src='/images/project3_3.JPG' alt="Image 2"></td>
-    <td><img src='/images/project3_2.JPG' alt="Image 3"></td>
+    <td><img src='/images/project3_8.jpeg' alt="Image 1"></td>
+    <td><img src='/images/project3_9.jpeg' alt="Image 2"></td>
+    <td><img src='/images/project3_10.jpeg' alt="Image 3"></td>
   </tr>
   <tr>
-    <td><strong>Fig.1_1</strong>: PVP is dissolved in ethylene glycol on a hot plate.</td>
-    <td><strong>Fig.1_2</strong>: The solution of silver nanowires being synthesized on a hot plate.</td>
-    <td><strong>Fig.1_3</strong>: The solution of silver nanowires after synthesis is completed and prior to the centrifugation process.</td>
+    <td><strong>Fig.1_1</strong>: ?</td>
+    <td><strong>Fig.1_2</strong>: ?</td>
+    <td><strong>Fig.1_3</strong>: ?</td>
   </tr>
 </table>
 
