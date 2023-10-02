@@ -236,7 +236,7 @@ A drop of the final solution is poured onto a microscope slide, and it is observ
 
 
 <div class="image-container">
-  <img src='/images/project3_5.JPG' alt="Image 5" width="500" class="centered-image"> <!-- Adjust the width as needed -->
+  <img src='/images/project3_5.JPG' alt="Image 5" width="400" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.5</span>: (a) The samples were positioned within the DC Sputtering machine. (b) Argon plasma was generated, and silver was physically sputtered to form the deposition.</figcaption>
  <br>
 </div>
