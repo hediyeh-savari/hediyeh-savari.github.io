@@ -167,7 +167,7 @@ A drop of the final solution is poured onto a microscope slide, and it is observ
 
 
 <div style='text-align: justify;'>
-?
+In the next step, a drop of the silver nanowire solution was diluted in a large amount of ethanol, and subsequently, it was placed on the microscope slide with the assistance of a syringe. It was then observed via the optical microscope that a long length and a small diameter (high aspect ratio) were achieved.
  <br>
   <br>
 </div>
