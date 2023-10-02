@@ -214,9 +214,11 @@ After the synthesis and centrifugation of silver nanowires, a very high initial 
  In this research, a combination of the following two methods has been employed for this purpose. Indeed, the purpose has been served by initially performing the Rapid Thermal Welding Method, followed by the Halide Welding for Silver Nanowire Network Electrodes.
  <br>
 Rapid Thermal Welding Method:
+  <br>
 In this method, the silver nanowires on the substrate are placed on a hot plate for ten minutes and subjected to Rapid Thermal Annealing (RTA) at a temperature of 120°C.
  <br>
 Halide Welding for Silver Nanowire Network Electrode:
+  <br>
 In this method, a 0.5M solution of NaCl salt is first prepared. Then, the silver nanowires coated on the substrate are immersed in this solution for 30 seconds and subsequently rinsed with distilled water (DI) for another 30 seconds.
  <br>
   <br>
