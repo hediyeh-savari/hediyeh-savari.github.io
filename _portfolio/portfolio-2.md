@@ -139,7 +139,7 @@ Using this first-of-its-kind method, fine electrodes were patterned with 100-mic
 
 
 <div style='text-align: justify;'>
- To examine the precision of the deposited flexible electrode, a picture of them was taken using an optical microscope, as depicted in Fig.7.
+To assess the precision of the deposited flexible electrodes, their structure was analyzed using an optical microscope, as illustrated in Fig. 7.
    <br>
    <br>
 </div>
