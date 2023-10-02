@@ -230,7 +230,7 @@ In this method, a 0.5M solution of NaCl salt is first prepared. Then, the silver
 
 <div class="image-container">
   <img src='/images/project3_7.JPG' alt="Image 5" width="300" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption"><strong>Fig.5</strong></span>: ?</figcaption>
+  <figcaption><span class="fig-caption"><strong>Fig.5</strong></span>: The sheet resistance of AgNWs following a process combining Rapid Thermal Welding and Halide Welding</figcaption>
  <br>
 </div>
 
