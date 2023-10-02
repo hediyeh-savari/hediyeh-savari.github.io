@@ -31,22 +31,10 @@ collection: portfolio
 <br>
 <h1>Abstract</h1>
 <div style='text-align: justify;'>
-In recent years, transparent and flexible materials such as conductive polymers, nanotube networks, graphene electrodes, and metal nanowires have been employed for the fabrication of electrodes, instead of ITO. Among the mentioned items, metal nanowires, especially silver nanowires, are considered the best options for the fabrication of conductive, transparent, and flexible electrodes (FTCEs).
-   <br>
- The reasons for this preference are as follows:
-  <br>
-• Compatibility with the environment is ensured.
-  <br>
-• The manufacturing process is based on solutions.
-  <br>
-• High conductivity is exhibited.
-  <br>
-• Synthesis on a large scale can be carried out.
+The objective of this project is to synthesize silver nanowires with high aspect ratio, transparency, flexibility, and electrical conductivity. To achieve this goal, silver nanowires are first synthesized using the polyol method and subsequently subjected to centrifugation. Following this, AgNWs were deposited on the substrate. The characteristics of the synthesized silver nanowires were examined using an optical microscope and a scanning electron microscope (SEM). Additionally, Hydroxyethyl cellulose (HEC) material was utilized to improve the adhesion of AgNWs to the substrate.
  <br>
   <br>
 </div>
-
-
 
 
 <h1>Synthesis of Silver Nanowires Using the Polyol Method</h1>
