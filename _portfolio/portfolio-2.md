@@ -208,7 +208,7 @@ High precision was required for the fabrication of flexible electrodes, and conv
 
 
 <div class="image-container">
-  <img src='/images/project2_12.JPG' alt="Image 10" width="350" class="centered-image"> <!-- Adjust the width as needed -->
+  <img src='/images/project2_12.JPG' alt="Image 10" width="250" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.12</span>: ?</figcaption>
 </div>
 
