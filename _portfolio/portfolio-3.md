@@ -1,6 +1,6 @@
 ---
 title: "Portfolio Project Number 3"
-excerpt: "Project Title:<br>Synthesis of Ultra-Thin, Long Silver Nanowires (AgNWs) for the Fabrication of Flexible, Transparent, and Conductive Electrodes<br/><img src='/images/project3_6.JPG'>"
+excerpt: "Project Title:<br>Synthesis of Ultra-Thin, Long Silver Nanowires (AgNWs) for the Fabrication of Flexible, Transparent, and Conductive Electrodes<br/><img src='/images/project3_6.JPG' style='max-width: 320px; max-height: 240px;' alt='Your Image'>"
 collection: portfolio
 ---
 
