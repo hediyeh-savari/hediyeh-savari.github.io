@@ -171,7 +171,7 @@ For a comprehensive analysis of these electrodes, SEM images were captured, as i
 
 
 <div style='text-align: justify;'>
-Considering the favorable outcome obtained from sputtering silver onto TPU, this work was also tested on fabric, and the result is depicted in Fig.9.
+Considering the favorable outcome obtained from sputtering silver onto TPU, this work was also tested on fabric, and the result is depicted in Fig. 9.
  <br>
   <br>
 </div>
