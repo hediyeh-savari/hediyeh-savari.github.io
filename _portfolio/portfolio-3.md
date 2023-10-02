@@ -211,7 +211,7 @@ In the next step, a drop of the silver nanowire solution was diluted in a large 
   <tr>
     <td><strong>Fig.1_1</strong>: 500nm</td>
     <td><strong>Fig.1_2</strong>: 500nm</td>
-    <td><strong>Fig.1_3</strong>: 5 um</td>
+    <td><strong>Fig.1_3</strong>: 5 &micro;m</td>
   </tr>
 </table>
 
