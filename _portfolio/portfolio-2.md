@@ -125,7 +125,7 @@ Using this first-of-its-kind method, fine electrodes were patterned with 100-mic
 
 
 <div class="image-container">
-  <img src='/images/project2_7.jpg' alt="Image 7" width="300" class="centered-image"> <!-- Adjust the width as needed -->
+  <img src='/images/project2_7.jpg' alt="Image 7" width="350" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.6</span>: (a) TPU was coated with silver. (b) A pattern was created on TPU after the removal of the shadow mask. (c) The transparency and flexibility of the resulting sample were demonstrated. (d) The sample's proper adaptation to human skin was displayed by placing it on my hand.</figcaption>
   <br>
 </div>
@@ -143,7 +143,7 @@ As demonstrated in Fig. 6, silver electrodes fabricated on thermoplastic polyure
 
 
 <div class="image-container">
-  <img src='/images/project2_8.png' alt="Image 8" width="350" class="centered-image"> <!-- Adjust the width as needed -->
+  <img src='/images/project2_8.png' alt="Image 8" width="400" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.7</span>: The flexible electrodes, created through the DC sputtering method, are observed under the optical microscope. The image illustrates the accuracy of this method.</figcaption>
  <br>
 </div>
@@ -158,7 +158,7 @@ For a more in-depth analysis of these electrodes, SEM photos were taken, and the
 
 
 <div class="image-container">
-  <img src='/images/project2_11.png' alt="Image 11" width="500" class="centered-image"> <!-- Adjust the width as needed -->
+  <img src='/images/project2_11.png' alt="Image 11" width="600" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.8</span>: A scanning electron microscope (SEM) image of the silver flexible electrodes deposited on TPU using the DC sputtering method. (a) Image captured from one section of the electrodes. (b) Image captured from the gap between the left and right sections.</figcaption>
   <br>
 </div>
