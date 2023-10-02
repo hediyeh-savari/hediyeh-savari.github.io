@@ -147,7 +147,7 @@ At room temperature, 100 ml of ethylene glycol was poured into a beaker, and 0.3
 </div>
 
 
-<h2>Step 3</h2>
+<h2>Step 3: Investigating Properties and Structure</h2>
 <div style='text-align: justify;'>
 The next day, when the synthesized solution had cooled to room temperature, it was centrifuged to obtain pure silver nanowires. The contents of the beaker were divided into four falcon tubes. Falcons placed opposite each other in the centrifuge had to be of equal weight. Subsequently, all the falcon tubes were weighed and placed in the centrifuge. The solution was centrifuged at a temperature of 11°C for 10 minutes at a speed of 4500 rpm. The separated liquid, which was actually ethylene glycol, was discarded, and DI water was poured into the falcon tubes to separate the excess material from the nanowires after centrifugation. The solution was centrifuged again at a temperature of 11 (°C) at a speed of 4500 (rpm) for 10 minutes, and the separated liquid was discarded. Then, ethanol was poured into the falcon tubes to dissolve the PVP attached to the nanowires, which was subsequently discarded. Finally, the resulting silver nanowires were dispersed in water or ethanol and stored in the refrigerator.
  <br>
