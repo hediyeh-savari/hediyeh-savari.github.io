@@ -190,8 +190,8 @@ In the next step, a drop of the silver nanowire solution was diluted in a large 
     <td><img src='/images/project3_6.JPG' alt="Image 2"></td>
   </tr>
   <tr>
-    <td><strong>Fig.1_1</strong>: ?</td>
-    <td><strong>Fig.1_2</strong>: ?</td>
+    <td><strong>Fig.3_1</strong>: High-concentration silver nanowire solution post-centrifugation examination using an optical microscope</td>
+    <td><strong>Fig.3_2</strong>: Examining the synthesized silver nanowires after dilution using an optical microscope.</td>
   </tr>
 </table>
 
