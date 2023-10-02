@@ -135,7 +135,7 @@ Certificates
 <br> 
   offered by [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), Instructor: [Jang-Ung Park](https://yonsei.elsevierpure.com/en/persons/jang-ung-park)
 <br> 
-Coursera, Credential ID: [QCVZFHCKBF37]((https://www.coursera.org/account/accomplishments/verify/QCVZFHCKBF37))
+Coursera, Credential ID: [QCVZFHCKBF37](https://www.coursera.org/account/accomplishments/verify/QCVZFHCKBF37)
 <br> 
 Issued May 2023
 * **Programming for Everybody (Getting Started with Python)**
