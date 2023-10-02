@@ -66,7 +66,6 @@ The required materials for this synthesis include the following:
   <br>
 To achieve the synthesis of long nanowires, high molecular weight PVP should be employed. This is because the high molecular weight of PVP results in the generation of longer PVP molecular chains, consequently leading to the production of longer nanowires.
   <br>
-   <br>
 </div>
 
 
