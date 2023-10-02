@@ -37,7 +37,7 @@ collection: portfolio
 </div>
 
 <div class="image-container">
-  <img src='/images/project3_1.JPG' alt="Image 1" width="300" class="centered-image"> <!-- Adjust the width as needed -->
+  <img src='/images/project3_1.JPG' alt="Image 1" width="250" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.1</span>: ?</figcaption>
  <br>
 </div>
@@ -49,7 +49,7 @@ collection: portfolio
 </div>
 
 <div class="image-container">
-  <img src='/images/project3_2.JPG' alt="Image 2" width="400" class="centered-image"> <!-- Adjust the width as needed -->
+  <img src='/images/project3_2.JPG' alt="Image 2" width="200" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.2</span>: ?</figcaption>
   <br>
 </div>
@@ -65,7 +65,7 @@ collection: portfolio
 
 
 <div class="image-container">
-  <img src='/images/project3_3.JPG' alt="Image 3" width="450" class="centered-image"> <!-- Adjust the width as needed -->
+  <img src='/images/project3_3.JPG' alt="Image 3" width="200" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.3</span>: ?</figcaption>
  <br>
 </div>
@@ -91,7 +91,7 @@ collection: portfolio
 
 
 <div class="image-container">
-  <img src='/images/project3_4.JPG' alt="Image 4" width="600" class="centered-image"> <!-- Adjust the width as needed -->
+  <img src='/images/project3_4.JPG' alt="Image 4" width="300" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.4</span>: ?</figcaption>
  <br> 
 </div>
@@ -126,7 +126,7 @@ collection: portfolio
 
 
 <div class="image-container">
-  <img src='/images/project3_6.JPG' alt="Image 6" width="350" class="centered-image"> <!-- Adjust the width as needed -->
+  <img src='/images/project3_6.JPG' alt="Image 6" width="300" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption">Fig.6</span>: ?</figcaption>
   <br>
 </div>
@@ -168,7 +168,7 @@ collection: portfolio
 
 
 
-
+<!--
 
 <div class="image-container">
   <img src='/images/project2_11.png' alt="Image 11" width="600" class="centered-image"> <!-- Adjust the width as needed -->
@@ -207,3 +207,4 @@ The electrical conductivity of these fabric-based electrodes was not as high as 
   <figcaption><span class="fig-caption">Fig.10</span>: Measurement of the electrical conductivity of fabric coated with flexible silver electrodes.</figcaption>
 </div>
 
+-->
