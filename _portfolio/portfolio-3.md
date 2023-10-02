@@ -195,13 +195,15 @@ For further investigation, SEM images of the AgNWs thin film were captured with 
     <td><img src='/images/project3_10.jpeg' alt="Image 3"></td>
   </tr>
   <tr>
-    <td><strong>Fig.4_1</strong>: 500nm</td>
-    <td><strong>Fig.4_2</strong>: 500nm</td>
-    <td><strong>Fig.4_3</strong>: 5&micro;m</td>
+    <td><strong>Fig.4_1</strong>: An SEM photograph of a single silver nanowire was taken at a 500 nm resolution.</td>
+    <td><strong>Fig.4_2</strong>: An SEM image was captured depicting a small number of silver nanowires together, with a resolution of 500 nm.</td>
+    <td><strong>Fig.4_3</strong>: An SEM image showing a large number of silver nanowires was obtained at a resolution of 5&micro;m.</td>
   </tr>
 </table>
 
 </body>
+
+
 
 
 
