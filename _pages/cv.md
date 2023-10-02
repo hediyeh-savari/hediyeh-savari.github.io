@@ -118,8 +118,7 @@ Test Date: September 10, 2023
   
 Publications
 ======
-H.Savari, A.Nikfarjam - ”Design and fabrication of a flexible strain and pressure sensor based on
-conductive nanocomposites,” 2023. under preparation
+H.Savari, A.Nikfarjam - ”Design and Fabrication of a Multifunctional Flexible Strain and Pressure Sensor based on Conductive Nanocomposites,” 2023. under preparation
 
 <!--
 <ul>{% for post in site.publications %}
