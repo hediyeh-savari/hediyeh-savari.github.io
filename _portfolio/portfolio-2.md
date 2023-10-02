@@ -148,8 +148,9 @@ As demonstrated in Fig. 6, silver electrodes fabricated on thermoplastic polyure
 
 
 <div style='text-align: justify;'>
-For a more in-depth analysis of these electrodes, SEM photos were taken, and the results are displayed in Figure 8.
+For a more in-depth analysis of these electrodes, SEM photos were taken, and the results are displayed in Fig.8.
  <br>
+  <br>
 </div>
 
 
