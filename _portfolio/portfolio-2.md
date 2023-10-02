@@ -179,6 +179,7 @@ Considering the favorable outcome obtained from sputtering silver onto TPU, this
 <div style='text-align: justify;'>
 The electrical conductivity of these fabric-based electrodes was not as high as that on TPU, but their electrical conductivity was still good enough.
  <br>
+  <br>
 </div>
 
 
