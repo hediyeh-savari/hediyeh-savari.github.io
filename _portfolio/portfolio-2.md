@@ -104,8 +104,6 @@ The resistance of each electrode was found to be 2.2 kΩ, which was deemed high 
 <div style='text-align: justify;'>
 High precision was required for the fabrication of flexible electrodes, and conventional coating methods were found to be inadequate in producing appropriate results. None of the previous methods were deemed accurate enough. Consequently, the DC Sputtering method was employed for deposition. Additionally, a silver metal target was utilized in place of silver nanowires.
  <br>
- To deposit silver on the TPU surface, the silver target surface is first cleaned with acetone to remove grease and impurities, and the acetone is allowed to evaporate completely. Then, the target and the samples are placed in the device as shown below. The chamber is closed, and argon gas is introduced. The power is set to 20%, and the time is set to 300 seconds. Purple plasma is generated inside the chamber, and physical sputtering is conducted. The sputtering operation is then performed four times to deposit a thin, highly conductive silver layer onto the TPU surface.
- <br>
  <br>
 </div>
 
@@ -117,6 +115,11 @@ High precision was required for the fabrication of flexible electrodes, and conv
 </div>
 
 
+<div style='text-align: justify;'>
+ To deposit silver on the TPU surface, the silver target surface is first cleaned with acetone to remove grease and impurities, and the acetone is allowed to evaporate completely. Then, the target and the samples are placed in the device as shown below. The chamber is closed, and argon gas is introduced. The power is set to 20%, and the time is set to 300 seconds. Purple plasma is generated inside the chamber, and physical sputtering is conducted. The sputtering operation is then performed four times to deposit a thin, highly conductive silver layer onto the TPU surface.
+ <br>
+  <br>
+</div>
 
 
 <div class="image-container">
