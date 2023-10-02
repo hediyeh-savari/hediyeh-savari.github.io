@@ -210,6 +210,15 @@ For further investigation, SEM images of the AgNWs thin film were captured with 
 
 <div style='text-align: justify;'>
 After the synthesis and centrifugation of silver nanowires, a very high initial resistance is exhibited by them. While silver nanowires are being coated on the substrate, they are stacked on top of each other, and at the junction spots, the resistance reaches approximately 10<sup>12</sup> - 10<sup>14</sup>. Therefore, the necessity for welding silver nanowires arises.
+ <br>
+ In this research, a combination of the following two methods has been employed for this purpose. Indeed, the purpose has been served by initially performing the Rapid Thermal Welding Method, followed by the Halide Welding for Silver Nanowire Network Electrodes.
+ <br>
+Rapid Thermal Welding Method:
+In this method, the silver nanowires on the substrate are placed on a hot plate for ten minutes and subjected to Rapid Thermal Annealing (RTA) at a temperature of 120°C.
+ <br>
+Halide Welding for Silver Nanowire Network Electrode:
+In this method, a 0.5M solution of NaCl salt is first prepared. Then, the silver nanowires coated on the substrate are immersed in this solution for 30 seconds and subsequently rinsed with distilled water (DI) for another 30 seconds.
+ <br>
 </div>
 
 
@@ -219,7 +228,10 @@ After the synthesis and centrifugation of silver nanowires, a very high initial 
  <br>
 </div>
 
-
+<div style='text-align: justify;'>
+Through this approach, a sheet resistance of 5.7Ω/sq is attained for AgNWs, and an increase in light transmittance up to 92% is observed. Additionally, an enhancement in mechanical flexibility is noted.
+<br>
+</div>
 
 <h2>Step 5: Addressing and Resolving the Challenge of Silver Nanowire Adhesion to Substrates</h2>
 
