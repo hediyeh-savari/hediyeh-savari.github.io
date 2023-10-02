@@ -175,19 +175,22 @@ Scientific Association Membership
 <br>
 [Department of Electrical Engineering, Iran University of Science and Technology](http://ee.iust.ac.ir/)
 <br>
+<br>
 * Documentary Writer of the Student Scientific Association of Electrical Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016-2017
 <br>
 [Department of Electrical Engineering, Iran University of Science and Technology](http://ee.iust.ac.ir/)
+<br>
 <br>
 * Honorary Member of the Student Scientific Association of Electrical Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015-2016
 <br>
 [Department of Electrical Engineering, Iran University of Science and Technology](http://ee.iust.ac.ir/)
 <br>
+<br>
 * Honorary Member of the Cultural Office of the Faculty of Electrical Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014-2015
 <br>
 [Department of Electrical Engineering, Iran University of Science and Technology](http://ee.iust.ac.ir/)
 <br>
-
+<br>
 
 
 CV File
