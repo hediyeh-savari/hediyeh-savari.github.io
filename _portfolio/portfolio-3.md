@@ -206,7 +206,18 @@ For further investigation, SEM images of the AgNWs thin film were captured with 
 
 
 
-<h2>Step 4: Addressing and Resolving the Challenge of Silver Nanowire Adhesion to Substrates</h2>
+<h2>Step 4: ?</h2>
+
+
+<div class="image-container">
+  <img src='/images/project3_7.JPG' alt="Image 7" width="400" class="centered-image"> <!-- Adjust the width as needed -->
+  <figcaption><span class="fig-caption"><strong>Fig.7</strong></span>: ?</figcaption>
+ <br>
+</div>
+
+
+
+<h2>Step 5: Addressing and Resolving the Challenge of Silver Nanowire Adhesion to Substrates</h2>
 
 <div style='text-align: justify;'>
 When these nanowires were coated onto various surfaces, it was observed that they did not adhere to the surface adequately and could be detached from the surface with minimal contact. To address this issue, different methods of enhancing adhesion were explored. Ultimately, Hydroxyethyl cellulose (HEC) material was employed for this purpose, representing a cost-effective, straightforward, and efficient method.
@@ -216,11 +227,6 @@ When these nanowires were coated onto various surfaces, it was observed that the
 
 
 
-<div class="image-container">
-  <img src='/images/project3_7.JPG' alt="Image 7" width="400" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption"><strong>Fig.7</strong></span>: ?</figcaption>
- <br>
-</div>
 
 
 
