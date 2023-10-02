@@ -191,7 +191,7 @@ Considering the favorable outcome obtained from sputtering silver onto TPU, this
 
 <div class="image-container">
   <img src='/images/project2_12.JPG' alt="Image 10" width="250" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.11</span>: ?</figcaption>
+  <figcaption><span class="fig-caption">Fig.11</span>: Measurement of the electrical conductivity of fabric coated with flexible silver electrodes.</figcaption>
 </div>
 
 <!-- Repeat the same structure for other images -->
