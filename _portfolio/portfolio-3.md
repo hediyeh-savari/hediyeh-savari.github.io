@@ -101,18 +101,13 @@ To achieve the synthesis of long nanowires, high molecular weight PVP should be 
  <br>
  <br>
  </div>
-    <!-- Image container with caption -->
-    <div class="image-container">
-        <img src='/images/project5_16.PNG' alt="Image Alt Text">
-        <figcaption><span class="fig-caption">Fig.1</span>: The first configuration of the semiconductor laser.</figcaption>
-    </div>
 
 
 <table>
   <tr>
-    <td><img src='/images/project5_17.png' alt="Image 1"></td>
-    <td><img src='/images/project5_18.png' alt="Image 2"></td>
-    <td><img src='/images/project5_19.png' alt="Image 3"></td>
+    <td><img src='/images/project3_1.JPG' alt="Image 1"></td>
+    <td><img src='/images/project3_3.JPG' alt="Image 2"></td>
+    <td><img src='/images/project3_2.JPG' alt="Image 3"></td>
   </tr>
   <tr>
     <td><strong>Fig.1_1</strong>: In this case, it is assumed that the parameters 'd' and 't' are variable, while the 'J<sub>th</sub>' parameter is held constant. The bandwidth diagram is created using the Plot-3D command in Wolfram Mathematica. As indicated by the plot, Δλ is found to be independent of 't,' but it is influenced by changes in 'd'. It is noteworthy that the slope of Δλ experiences an increasing shift for 'd' values smaller than 60 nm.</td>
