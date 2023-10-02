@@ -189,7 +189,7 @@ High precision was required for the fabrication of flexible electrodes, and conv
 
 <div class="image-container">
   <img src='/images/project2_11.png' alt="Image 11" width="500" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.11</span>: ?</figcaption>
+  <figcaption><span class="fig-caption">Fig.11</span>: A scanning electron microscope (SEM) image of the silver flexible electrodes deposited on TPU using the DC sputtering method. (a) Image captured from one section of the electrodes. (b) Image captured from the gap between the left and right sections.</figcaption>
 </div>
 
 <!-- Repeat the same structure for other images -->
