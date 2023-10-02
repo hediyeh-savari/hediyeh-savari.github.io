@@ -186,8 +186,8 @@ In the next step, a drop of the silver nanowire solution was diluted in a large 
 
 <table>
   <tr>
-    <td><img src='/images/project3_8.jpeg' alt="Image 1"></td>
-    <td><img src='/images/project3_9.jpeg' alt="Image 2"></td>
+    <td><img src='/images/project3_5.JPG' alt="Image 1"></td>
+    <td><img src='/images/project3_6.JPG' alt="Image 2"></td>
   </tr>
   <tr>
     <td><strong>Fig.1_1</strong>: ?</td>
