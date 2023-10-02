@@ -31,7 +31,11 @@ collection: portfolio
 <br>
 <h1>Abstract</h1>
 <div style='text-align: justify;'>
-?
+In recent years, transparent and flexible materials such as conductive polymers, nanotube networks, graphene electrodes, and metal nanowires have been employed for the fabrication of electrodes, instead of ITO. Among the mentioned items, metal nanowires, especially silver nanowires, are considered the best options for the fabrication of conductive, transparent, and flexible electrodes (FTCEs). The reasons for this preference are as follows:
+• Compatibility with the environment is ensured.
+• The manufacturing process is based on solutions.
+• High conductivity is exhibited.
+• Synthesis on a large scale can be carried out.
  <br>
   <br>
 </div>
