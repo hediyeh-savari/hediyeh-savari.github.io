@@ -71,11 +71,87 @@ To achieve the synthesis of long nanowires, high molecular weight PVP should be 
 
 
 <h2>Step 1</h2>
+
+
+
+<html>
+<head>
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  table, td {
+    border: none;
+  }
+  td {
+    vertical-align: middle;
+    text-align: center;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+</head>
+<body>
+<h1>1. The First Laser Structure</h1>
+ <div style='text-align: justify;'>
+ The laser structure proposed here comprises three GaAs quantum wells that are separated by Al<sub>0.35</sub>Ga<sub>0.65</sub>As barriers. The presence of more than one quantum well in the structure leads to an elevation in the probability of radiative recombination, driven by the heightened quantum confinement of electrons and holes and the augmented density of states. Furthermore, increased radiative recombination guarantees an enhancement in output efficiency [1].
+ <br>
+ <br>
+ </div>
+    <!-- Image container with caption -->
+    <div class="image-container">
+        <img src='/images/project5_16.PNG' alt="Image Alt Text">
+        <figcaption><span class="fig-caption">Fig.1</span>: The first configuration of the semiconductor laser.</figcaption>
+    </div>
+
+
+<table>
+  <tr>
+    <td><img src='/images/project5_17.png' alt="Image 1"></td>
+    <td><img src='/images/project5_18.png' alt="Image 2"></td>
+    <td><img src='/images/project5_19.png' alt="Image 3"></td>
+  </tr>
+  <tr>
+    <td><strong>Fig.1_1</strong>: In this case, it is assumed that the parameters 'd' and 't' are variable, while the 'J<sub>th</sub>' parameter is held constant. The bandwidth diagram is created using the Plot-3D command in Wolfram Mathematica. As indicated by the plot, Δλ is found to be independent of 't,' but it is influenced by changes in 'd'. It is noteworthy that the slope of Δλ experiences an increasing shift for 'd' values smaller than 60 nm.</td>
+    <td><strong>Fig.1_2</strong>: With the assumption that the two parameters, 'd' and 'J<sub>th</sub>', are variable, while the parameter 't' remains constant, the bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As illustrated in the plot, Δλ is observed to be responsive to variations in both 'd' and 'J<sub>th</sub>' in this particular scenario. These changes peak when 'J<sub>th</sub>' values exceed 1x10<sup>6</sup> A/m<sup>2</sup> and 'd' values are below 40 nm.</td>
+    <td><strong>Fig.1_3</strong>: With the assumption that the two parameters, 't' and 'J<sub>th</sub>', are variable, while the parameter 'd' is held constant, the bandwidth diagram is generated using the Plot-3D command in Wolfram Mathematica. As portrayed in the plot, in this scenario, Δλ is found to be unaffected by 't' but exhibits a linear response to alterations in 'J<sub>th</sub>'.</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div style='text-align: justify;'>
 At room temperature, 100 ml of ethylene glycol was poured into a beaker, and 0.32 grams of PVP was added to it. The beaker was then placed on a hot plate to have PVP dissolved in ethylene glycol using a magnet (Fig.1). Subsequently, 0.72 grams of silver nitrate was added to the solution, and it was dissolved in ethylene glycol with a magnet. On the other hand, a 10 mL solution of 600 µM FeCl3 in ethylene glycol (i.e., 0.0009 g FeCl3 in 10 mL ethylene glycol) was added to the previous solution, and it was stirred on a magnetic stirrer for one minute. The solution was then placed on a hot plate at 130 (°C) and dissolved for 10 minutes with a magnetic stirrer. Next, the beaker was transferred to the oven, and the reaction was allowed to continue for 3 and a half hours without stirring. After this period, the beaker was removed from the oven and placed under the hood until the next day to cool (Fig.3).
 <br>
 <br>
 </div>
+
+
+
+
+
+
+
 
 
 
