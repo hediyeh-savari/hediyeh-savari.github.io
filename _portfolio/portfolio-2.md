@@ -47,7 +47,7 @@ After the silver nanowires were synthesized and centrifuged, photolithography wa
 
 <div class="image-container">
   <img src='/images/project2_2.jpg' alt="Image 2" width="400" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.2</span>: (a) The mask was positioned on the TPU sheet for electrode photolithography. (b) The photolithography process was conducted.</figcaption>
+  <figcaption><span class="fig-caption"><strong>Fig.2</strong></span>: (a) The mask was positioned on the TPU sheet for electrode photolithography. (b) The photolithography process was conducted.</figcaption>
   <br>
 </div>
 
@@ -63,7 +63,7 @@ After the silver nanowires were synthesized and centrifuged, photolithography wa
 
 <div class="image-container">
   <img src='/images/project2_4.jpg' alt="Image 4" width="450" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.3</span>: (a) The 3D printer setup was arranged for the coating of silver nanowires on three different substrates: polyethylene terephthalate, polycarbonate, and thermoplastic polyurethane. (b) Silver nanowires were printed using a 3D printer. (c) The drops were subsequently connected after a short period of time.</figcaption>
+  <figcaption><span class="fig-caption"><strong>Fig.3</strong></span>: (a) The 3D printer setup was arranged for the coating of silver nanowires on three different substrates: polyethylene terephthalate, polycarbonate, and thermoplastic polyurethane. (b) Silver nanowires were printed using a 3D printer. (c) The drops were subsequently connected after a short period of time.</figcaption>
  <br>
 </div>
 
@@ -89,7 +89,7 @@ The solution of silver nanowires dissolved in water was combined with HEC and re
 
 <div class="image-container">
   <img src='/images/project2_5.jpg' alt="Image 5" width="600" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.4</span>: (a) The shadow mask was adhered to the TPU sheet. (b) Silver nanowires were coated onto the substrate using the drop-casting method. (c) The solution was dried by heating it on a hot plate. (d) The shadow mask was removed from the TPU sheet. (e) The electrical resistance of the electrodes formed on the TPU was measured.</figcaption>
+  <figcaption><span class="fig-caption"><strong>Fig.4</strong></span>: (a) The shadow mask was adhered to the TPU sheet. (b) Silver nanowires were coated onto the substrate using the drop-casting method. (c) The solution was dried by heating it on a hot plate. (d) The shadow mask was removed from the TPU sheet. (e) The electrical resistance of the electrodes formed on the TPU was measured.</figcaption>
  <br> 
 </div>
 
@@ -110,7 +110,7 @@ High precision was required for the fabrication of flexible electrodes, and conv
 
 <div class="image-container">
   <img src='/images/project2_6.jpg' alt="Image 6" width="500" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.5</span>: (a) The samples were positioned within the DC Sputtering machine. (b) Argon plasma was generated, and silver was physically sputtered to form the deposition.</figcaption>
+  <figcaption><span class="fig-caption"><strong>Fig.5</strong></span>: (a) The samples were positioned within the DC Sputtering machine. (b) Argon plasma was generated, and silver was physically sputtered to form the deposition.</figcaption>
  <br>
 </div>
 
@@ -124,7 +124,7 @@ High precision was required for the fabrication of flexible electrodes, and conv
 
 <div class="image-container">
   <img src='/images/project2_7.jpg' alt="Image 7" width="350" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.6</span>: (a) TPU was coated with silver. (b) A pattern was created on TPU after the removal of the shadow mask. (c) The transparency and flexibility of the resulting sample were demonstrated. (d) The sample's proper adaptation to human skin was displayed by placing it on my hand.</figcaption>
+  <figcaption><span class="fig-caption"><strong>Fig.6</strong></span>: (a) TPU was coated with silver. (b) A pattern was created on TPU after the removal of the shadow mask. (c) The transparency and flexibility of the resulting sample were demonstrated. (d) The sample's proper adaptation to human skin was displayed by placing it on my hand.</figcaption>
   <br>
 </div>
 
@@ -147,7 +147,7 @@ To assess the precision of the deposited flexible electrodes, their structure wa
 
 <div class="image-container">
   <img src='/images/project2_8.png' alt="Image 8" width="400" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.7</span>: The flexible electrodes, created through the DC sputtering method, are observed under the optical microscope. The image illustrates the accuracy of this method.</figcaption>
+  <figcaption><span class="fig-caption"><strong>Fig.7</strong></span>: The flexible electrodes, created through the DC sputtering method, are observed under the optical microscope. The image illustrates the accuracy of this method.</figcaption>
  <br>
 </div>
 
@@ -162,7 +162,7 @@ For a comprehensive analysis of these electrodes, SEM images were captured, as i
 
 <div class="image-container">
   <img src='/images/project2_11.png' alt="Image 11" width="600" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.8</span>: A scanning electron microscope (SEM) image of the silver flexible electrodes deposited on TPU using the DC sputtering method. (a) Image captured from one section of the electrodes. (b) Image captured from the gap between the left and right sections.</figcaption>
+  <figcaption><span class="fig-caption"><strong>Fig.8</strong></span>: A scanning electron microscope (SEM) image of the silver flexible electrodes deposited on TPU using the DC sputtering method. (a) Image captured from one section of the electrodes. (b) Image captured from the gap between the left and right sections.</figcaption>
   <br>
 </div>
 
@@ -179,7 +179,7 @@ Considering the favorable outcome obtained from sputtering silver onto TPU, this
 
 <div class="image-container">
   <img src='/images/project2_10.jpg' alt="Image 10" width="450" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.9</span>: Silver was deposited onto a fabric substrate using the DC Sputtering method. (a) The state of the samples after they were removed from the DC Sputtering machine. (b) The state of the samples after the shadow mask was removed.</figcaption>
+  <figcaption><span class="fig-caption"><strong>Fig.9</strong></span>: Silver was deposited onto a fabric substrate using the DC Sputtering method. (a) The state of the samples after they were removed from the DC Sputtering machine. (b) The state of the samples after the shadow mask was removed.</figcaption>
   <br>
 </div>
 
@@ -194,6 +194,6 @@ The electrical conductivity of these fabric-based electrodes was not as high as 
 
 <div class="image-container">
   <img src='/images/project2_12.JPG' alt="Image 10" width="200" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption">Fig.10</span>: Measurement of the electrical conductivity of fabric coated with flexible silver electrodes.</figcaption>
+  <figcaption><span class="fig-caption"><strong>Fig.10</strong></span>: Measurement of the electrical conductivity of fabric coated with flexible silver electrodes.</figcaption>
 </div>
 
