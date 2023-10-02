@@ -135,8 +135,8 @@ The next day, when the synthesized solution had cooled to room temperature, it w
 
 
 <div class="image-container">
-  <img src='/images/project3_4.JPG' alt="Image 4" width="300" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption"><strong>Fig.4</strong></span>: Silver nanowire solution after the centrifugation process</figcaption>
+  <img src='/images/project3_4.JPG' alt="Image 2" width="300" class="centered-image"> <!-- Adjust the width as needed -->
+  <figcaption><span class="fig-caption"><strong>Fig.2</strong></span>: Silver nanowire solution after the centrifugation process</figcaption>
  <br> 
 </div>
 
@@ -158,8 +158,8 @@ A drop of the final solution is poured onto a microscope slide, and it is observ
 
 
 <div class="image-container">
-  <img src='/images/project3_5.JPG' alt="Image 5" width="400" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption"><strong>Fig.5</strong></span>: High-concentration silver nanowire solution post-centrifugation examination using an optical microscope</figcaption>
+  <img src='/images/project3_5.JPG' alt="Image 3" width="400" class="centered-image"> <!-- Adjust the width as needed -->
+  <figcaption><span class="fig-caption"><strong>Fig.3</strong></span>: High-concentration silver nanowire solution post-centrifugation examination using an optical microscope</figcaption>
  <br>
 </div>
 
