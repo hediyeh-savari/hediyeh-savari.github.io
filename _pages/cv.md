@@ -41,7 +41,7 @@ Research Experience
   * Duties included: Examining various materials to select the **most suitable** one for use as the **electrode**; Investigating different materials for potential use as a **flexible, transparent, and stretchable substrate**; Exploring various coating methods to **create precise electrode patterns**; Assessing the **durability**, **stability**, and **conductivity** of fabricated flexible electrodes and **optimizing** their **characteristics**.
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
     <br> 
-    For further information, please visit the project's portfolio [here](https://hediyeh-savari.github.io/portfolio/portfolio-2/).
+    For further information, please visit the project's portfolio [<span style="color: blue;">here</span>](https://hediyeh-savari.github.io/portfolio/portfolio-2/).
     <p>This is a <span style="color: blue;">blue</span> word.</p>
 <br>
 <br> 
