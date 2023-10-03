@@ -99,6 +99,9 @@ Research Interests
         <li>&#x2022; Lab-on-a-Chip Technology</li>
         <li>&#x2022; Nanotechnology</li>
         <li>&#x2022; Nanoelectronics</li>
+        <li>&#x2022; Optics</li>
+        <li>&#x2022; Photonics</li>
+        <li>&#x2022; Optoelectronics</li>                                      
         <li>&#x2022; Wearable Electronics</li>
         <li>&#x2022; Printed Electronics</li>
         <li>&#x2022; Transparent Electronics</li>
