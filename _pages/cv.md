@@ -58,6 +58,8 @@ Research Experience
   * Title: Design and Fabrication of a Nickel-Based Micro-Heater
   * Duties included: Designing photolithography masks; Fabricating a **micro-interdigitated electrode** pattern; Performing **RCA-1** cleaning processes; Applying **chrome** and **nickel** coatings using the **PVD method**; Applying **gold** coating through the **DC sputtering** technique; **Spin-coating** of photoresists; **Lift-off Photoresist Processing**; Performing **photolithography** and **etching** on the gold, chrome, and nickel layers.
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
+     <br> 
+    For further information, please visit the project's portfolio [here](https://hediyeh-savari.github.io/portfolio/portfolio-4/).
 <br>
 <br>
 * May 2018 - Sep. 2018: Undergraduate Project
