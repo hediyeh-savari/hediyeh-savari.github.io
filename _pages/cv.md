@@ -42,7 +42,6 @@ Research Experience
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
     <br> 
     For further information, please visit the project's portfolio [<span style="color: blue;">here</span>](https://hediyeh-savari.github.io/portfolio/portfolio-2/).
-    <p>This is a <span style="color: blue;">blue</span> word.</p>
 <br>
 <br> 
 * Feb. 2019 - Feb. 2020: Research Assistant
@@ -51,7 +50,7 @@ Research Experience
   * Duties included: Examining various methods for **synthesizing silver nanowires** to achieve a high aspect ratio (ultra-thin, long AgNWs); Investigating approaches to **weld AgNWs** to enhance their conductivity and reshape the network; **Patterning AgNWs** in different configurations to create various patterns; and Exploring methods to **simultaneously improve transparency** and **conductivity**.
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
      <br> 
-    For further information, please visit the project's portfolio [here](https://hediyeh-savari.github.io/portfolio/portfolio-3/).
+    For further information, please visit the project's portfolio [<span style="color: blue;">here</span>](https://hediyeh-savari.github.io/portfolio/portfolio-3/).
 <br>
 <br>
 * May 2019 - Jul. 2019: Research Assistant
@@ -60,7 +59,7 @@ Research Experience
   * Duties included: Designing photolithography masks; Fabricating a **micro-interdigitated electrode** pattern; Performing **RCA-1** cleaning processes; Applying **chrome** and **nickel** coatings using the **PVD method**; Applying **gold** coating through the **DC sputtering** technique; **Spin-coating** of photoresists; **Lift-off Photoresist Processing**; Performing **photolithography** and **etching** on the gold, chrome, and nickel layers.
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
      <br> 
-    For further information, please visit the project's portfolio [here](https://hediyeh-savari.github.io/portfolio/portfolio-4/).
+    For further information, please visit the project's portfolio [<span style="color: blue;">here</span>](https://hediyeh-savari.github.io/portfolio/portfolio-4/).
 <br>
 <br>
 * May 2018 - Sep. 2018: Undergraduate Project
@@ -69,7 +68,7 @@ Research Experience
   * Duties included: Investigating and analyzing the structure of **Quantum Well Lasers**; Modeling 808 nm Laser **Structures** using **Wolfram Mathematica** Software and **Silvaco** Software; **Optimizing** the **bandwidth** of **semiconductor laser** output spectrum; Examining the influence of various laser **characteristics**, including the **active region** width, **waveguide layer** width, and **threshold current density**, on laser bandwidth.
   * Supervisor: [Prof. Yazdanpanah](https://www.linkedin.com/in/vahid-yazdanpanah-83a57231/)
     <br> 
-    For further information, please visit the project's portfolio [here](https://hediyeh-savari.github.io/portfolio/portfolio-5/).
+    For further information, please visit the project's portfolio [<span style="color: blue;">here</span>](https://hediyeh-savari.github.io/portfolio/portfolio-5/).
 
 
 TA-Ship Experiences
