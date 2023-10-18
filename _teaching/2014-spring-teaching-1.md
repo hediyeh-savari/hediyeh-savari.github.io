@@ -25,12 +25,3 @@ Lift-off Process Execution
 Wet and Dry Etching Procedures
 Compound Light Microscopic Analysis
 Device Fabrication Essentials
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
