@@ -8,7 +8,8 @@ date: Feb. 2021 - Sep. 2022
 location: "Tehran, Iran"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching new students the fundamentals of working in the cleanroom environment and instructing them
+in various fabrication techniques.
 
 Heading 1
 ======
