@@ -5,8 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper focuses on designing and fabricating a multifunctional flexible sensor.'
 date: 2023-11-15
 venue: 'under preparation'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'H. Savari, et. al. (2023). &quot;Design and Fabrication of a Multifunctional Flexible Strain and Pressure Sensor based on Conductive Nanocomposites.&quot; <i>?</i>.'
+citation: 'H. Savari, et. al. (2023). &quot;Design and Fabrication of a Multifunctional Flexible Strain and Pressure Sensor based on Conductive Nanocomposites.&quot; <i>NA</i>.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
