@@ -12,6 +12,8 @@ location: "Tehran, Iran"
 Instructing graduate students specializing in MEMS and Nanophotonics on designing photolithography masks using CorelDRAW software.
 </div>
 
+ <br>
+
 <div class="image-container">
   <img src='/images/image1.png' alt="Image 6" width="500" class="centered-image"> <!-- Adjust the width as needed -->
   <figcaption><span class="fig-caption"><strong>Fig.1</strong></span>: Online CorelDRAW Workshop Customized for Graduate Students Specializing in MEMS and Nanophotonics, Presented by Me.</figcaption>
