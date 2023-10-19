@@ -8,7 +8,9 @@ date: 2022-01-01
 location: "Tehran, Iran"
 ---
 
+<div style='text-align: justify;'>
 Introducing new students to the essential principles of working within a cleanroom environment and providing comprehensive guidance on various fabrication techniques, including:
+</div>
 
 * RCA-1 Cleaning Procedures
 * Microfabrication Methods
