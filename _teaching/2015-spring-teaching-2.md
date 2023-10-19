@@ -12,6 +12,6 @@ Instructing graduate students specializing in MEMS and Nanophotonics on designin
 
 <div class="image-container">
   <img src='/images/image1.png' alt="Image 6" width="500" class="centered-image"> <!-- Adjust the width as needed -->
-  <figcaption><span class="fig-caption"><strong>Fig.5</strong></span>: (a) The samples were positioned within the DC Sputtering machine. (b) Argon plasma was generated, and silver was physically sputtered to form the deposition.</figcaption>
+  <figcaption><span class="fig-caption"><strong>Fig.1</strong></span>: Online CorelDRAW Workshop</figcaption>
  <br>
 </div>
