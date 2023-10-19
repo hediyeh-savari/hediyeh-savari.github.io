@@ -10,9 +10,6 @@ location: "Tehran, Iran"
 
 Introducing new students to the essential principles of working within a cleanroom environment and providing comprehensive guidance on various fabrication techniques, including:
 
-
-<li>&#x2022; Wearable ssssssSensors</li>
-
 * RCA-1 Cleaning Procedures
 * Microfabrication Methods
 * Synthesis of Nanomaterials
