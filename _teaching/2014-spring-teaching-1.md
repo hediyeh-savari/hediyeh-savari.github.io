@@ -2,7 +2,7 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2022-fall-teaching-1
 venue: "University of Tehran, Faculty of New Sciences and Technologies"
 date: 2022-01-01
 location: "Tehran, Iran"
