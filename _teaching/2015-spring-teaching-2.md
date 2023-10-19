@@ -8,7 +8,9 @@ date: 2021-01-01
 location: "Tehran, Iran"
 ---
 
+<div style='text-align: justify;'>
 Instructing graduate students specializing in MEMS and Nanophotonics on designing photolithography masks using CorelDRAW software.
+</div>
 
 <div class="image-container">
   <img src='/images/image1.png' alt="Image 6" width="500" class="centered-image"> <!-- Adjust the width as needed -->
