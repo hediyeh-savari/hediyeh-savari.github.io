@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2022-spring-teaching-1
 venue: "University of Tehran, Faculty of New Sciences and Technologies"
-date: 2021-01-01
+date: 2022-01-01
 location: "Tehran, Iran"
 ---
 
