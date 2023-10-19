@@ -5,4 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-<strong>No Published Papers available yet!</strong>
+<strong>No available published papers yet!</strong>
