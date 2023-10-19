@@ -9,12 +9,3 @@ location: "Tehran, Iran"
 ---
 
 Instructing graduate students specializing in MEMS and Nanophotonics on designing photolithography masks using CorelDRAW software.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
