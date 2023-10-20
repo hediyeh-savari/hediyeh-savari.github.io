@@ -195,7 +195,7 @@ Skills
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Self-Motivation</td>
     </tr>
     <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Doctor Blade Coating</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Lift-off Process</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">LaTeX</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Public Speaking</td>
     </tr>
