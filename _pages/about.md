@@ -205,7 +205,7 @@ Skills
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Active Listening</td>
     </tr>
     <tr>
-      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Lithography</td>
+      <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Photolithography</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Photoshop</td>
       <td style="width: 33.33%;text-align: center; background-color: #F8F8F8">Adaptability</td>
     </tr>
