@@ -13,13 +13,10 @@ collection: portfolio
 
 <br>
 
-
-<br>
 <h1>Abstract</h1>
 <div style='text-align: justify;'>
 This project focuses on the synthesis of silver nanowires using the Polyol method, with a specific emphasis on enhancing their properties and adhesion to substrates. The synthesis involves the use of high molecular weight PVP to produce long nanowires, and subsequent steps include centrifugation, examination of properties and structure, junction welding to reduce resistance, and addressing the issue of poor adhesion to substrates. The resulting silver nanowires exhibit high transparency, flexibility, and electrical conductivity, and their adhesion to surfaces is significantly improved through the incorporation of Hydroxyethyl cellulose (HEC). The project offers a comprehensive approach to the fabrication of high-quality silver nanowires with improved performance characteristics and substrate adhesion.
  <br>
-  <br>
 </div>
 
 Here is a visual showcase depicting various steps of the project through the following images.
