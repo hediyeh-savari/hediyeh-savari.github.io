@@ -13,6 +13,16 @@ collection: portfolio
 
 
 
+<br>
+<h1>Abstract</h1>
+<div style='text-align: justify;'>
+In this project, the examination of the output spectrum of the laser under various laser parameters is performed via simulation using Wolfram Mathematica software. It was found that the laser bandwidth is directly affected by three parameters: t (the width of the active area), d (the total width of the active area and waveguide layers), and Jth (the threshold current density). In each trial, two of these parameters were designated as variables, while the remaining parameter was kept constant. Subsequently, the bandwidth diagram was generated with respect to the two variable parameters. The impact of these parameters on the laser bandwidth was observed and assessed.
+  <br>
+  <br>
+</div>
+
+
+
 <style>
   /* Center the image containers */
   .image-container {
