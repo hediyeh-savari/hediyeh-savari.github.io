@@ -16,7 +16,7 @@ collection: portfolio
 <br>
 <h1>Abstract</h1>
 <div style='text-align: justify;'>
-In this project, the examination of the output spectrum of the laser under various laser parameters is performed via simulation using Wolfram Mathematica software. It was found that the laser bandwidth is directly affected by three parameters: t (the width of the active area), d (the total width of the active area and waveguide layers), and Jth (the threshold current density). In each trial, two of these parameters were designated as variables, while the remaining parameter was kept constant. Subsequently, the bandwidth diagram was generated with respect to the two variable parameters. The impact of these parameters on the laser bandwidth was observed and assessed.
+This research project explores various methods for the fabrication of flexible electrodes using different techniques such as photolithography, 3D printing, spray deposition, drop-casting method, and DC sputtering. Despite initial challenges and unsatisfactory outcomes encountered in the early stages, the DC sputtering method emerged as the most promising approach for the deposition of silver electrodes onto thermoplastic polyurethane (TPU) and fabric substrates. This novel method demonstrated exceptional precision and uniformity, resulting in fully flexible electrodes with a sheet resistance of 3 (Ω/sq). The study extensively examines the structural and electrical properties of the fabricated electrodes using optical microscopy and scanning electron microscopy (SEM), establishing the efficacy and versatility of the DC sputtering technique in producing highly functional and adaptable flexible electrodes for flexible electronics applications.
   <br>
   <br>
 </div>
