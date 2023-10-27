@@ -250,4 +250,6 @@ The sheet resistance of the AgNWs/HEC composite layer was found to be 70 (Ω/sq)
   <cite>[2] Tokuno, T., Nogi, M., Karakawa, M., Jiu, J., Nge, T. T., Aso, Y., & Suganuma, K. (2011). Fabrication of silver nanowire transparent electrodes at room temperature. Nano Research, 4, 1215–1222.</cite><br>
    <br>
   <cite>[3] Kang, H., Kim, Y., Cheon, S., Yi, G.-R., & Cho, J. H. (2017). Halide welding for silver nanowire network electrode. ACS Applied Materials & Interfaces, 9(36), 30779–30785.</cite><br>
+   <br>
+  <cite>[4] Y Li, S Guo, H Yang, Y Chao, S Jiang, C Wang (2018). One-step synthesis of ultra-long silver nanowires of over 100 μm and their application in flexible transparent conductive films, RSC advances, (2018), 8057-8063, 8(15).</cite><br>
 </p>
