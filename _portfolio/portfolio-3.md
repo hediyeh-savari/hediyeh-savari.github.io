@@ -230,7 +230,7 @@ Through this approach, a sheet resistance of 5.7Ω/sq is attained for AgNWs, and
 <h2>Step 5: Addressing and Resolving the Challenge of Silver Nanowire Adhesion to Substrates</h2>
 
 <div style='text-align: justify;'>
-When these nanowires were coated onto various surfaces, it was observed that they did not adhere to the surface adequately and could be detached from the surface with minimal contact. To address this issue, different methods of enhancing adhesion were explored. Ultimately, Hydroxyethyl cellulose (HEC) material was employed for this purpose, representing a cost-effective, straightforward, and efficient method.
+When these nanowires were coated onto various surfaces, it was observed that they did not adhere to the surface adequately and could be detached from the surface with minimal contact. To address this issue, different methods of enhancing adhesion were explored. Ultimately, Hydroxyethyl cellulose (HEC) material was employed for this purpose [4], representing a cost-effective, straightforward, and efficient method.
  <br>
   <br>
 </div>
