@@ -93,7 +93,6 @@ Professional Skills
 * Adept with multiple **Characterization** including Compound **Light Microscope**, Scanning Electron Microscopy (**SEM**), Transmission Electron Microscopy (**TEM**) analysis, X-ray Diffraction (**XRD**), Energy Dispersive X-Ray Analysis (**EDX**), **UV/Vis** Spectroscopy, **FTIR** Spectroscopy, Scanning Tunneling Microscopy (**STM**).
 * Working with Laboratory **Ovens**, Laboratory **Furnaces**, **Ultrasonication** equipment, **Homogenizer**, **Hotplate Stirrers**, and **Centrifuge**.
 <br>
-<br> 
 
 
 Soft Skills
