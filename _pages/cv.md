@@ -169,8 +169,9 @@ Notable Courses
 * Nano-materials Characterization Methods
 * Theory and Technology of Semiconductors
 * Micro and Nano Electromechanical Laboratory
-* Radio Frequency Micro-Electro-Mechanical-Systems (RF MEMS)
 * Special Topics in Micro-and Nano-Electromechanical Systems
+* Radio Frequency Micro-Electro-Mechanical-Systems (RF MEMS)
+<br>
 <br>
 
 
