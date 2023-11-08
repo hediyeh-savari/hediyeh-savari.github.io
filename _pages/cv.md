@@ -130,8 +130,6 @@ H.Savari, A.Nikfarjam - ”Design and Fabrication of a Multifunctional Flexible 
   {% endfor %}</ul>
 --> 
 <br>
-<br> 
-
 
 
 Certificates 
