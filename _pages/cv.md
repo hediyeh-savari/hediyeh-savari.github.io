@@ -163,9 +163,10 @@ Notable Courses
 * Nanobiotechnology
 * Theory and Technology of Semiconductors
 * Nano-materials Characterization Methods
-* RF-MEMS
+* Radio Frequency Micro-Electro-Mechanical-Systems (RF MEMS)
 * Sensor and Micromachine
-* Special Topics in MEMS
+* Micro and Nano Electromechanical Laboratory
+* Special Topics in Micro-and Nano-Electromechanical Systems
 * Linear Control Systems
 * Vibrations of Mechanical Systems
 <br>
