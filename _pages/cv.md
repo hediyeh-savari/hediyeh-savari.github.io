@@ -167,8 +167,9 @@ Notable Courses
 * Sensor and Micromachine
 * Micro and Nano Electromechanical Laboratory
 * Special Topics in Micro-and Nano-Electromechanical Systems
-* Linear Control Systems
 * Vibrations of Mechanical Systems
+* Signals and Systems Theory
+* Linear Control Systems
 <br>
 
 
