@@ -161,12 +161,13 @@ Notable Courses
 * Solid State Electronic Devices
 * Nanotechnology
 * Nanobiotechnology
-* Theory and Technology of Semiconductor Devices
-* Nanomaterial Characterization Techniques
+* Theory and Technology of Semiconductors
+* Nano-materials Characterization Methods
 * RF-MEMS
-* Sensors and Micro-machining
+* Sensor and Micromachine
 * Special Topics in MEMS
 * Linear Control Systems
+* Vibrations of Mechanical Systems
 <br>
 
 
