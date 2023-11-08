@@ -190,7 +190,7 @@ Scientific Association Membership
 [Department of Electrical Engineering, Iran University of Science and Technology](http://ee.iust.ac.ir/)
 <br>
 <br>
-* Financial Manager of the Student Scientific Association of Electrical Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016-2017
+* Financial Manager of the Student Scientific Association of Electrical Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016-2017
 <br>
 [Department of Electrical Engineering, Iran University of Science and Technology](http://ee.iust.ac.ir/)
 <br>
