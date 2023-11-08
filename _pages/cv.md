@@ -158,19 +158,19 @@ Issued Mar 2023
 Notable Courses
 ======
 * Modern Physics
-* Solid State Electronic Devices
 * Nanotechnology
 * Nanobiotechnology
-* Theory and Technology of Semiconductors
-* Nano-materials Characterization Methods
-* Radio Frequency Micro-Electro-Mechanical-Systems (RF MEMS)
-* Sensor and Micromachine
-* Micro and Nano Electromechanical Laboratory
-* Special Topics in Micro-and Nano-Electromechanical Systems
-* Electric Circuit and Filter Synthesis
-* Vibrations of Mechanical Systems
-* Signals and Systems Theory
 * Linear Control Systems
+* Sensor and Micromachine
+* Signals and Systems Theory
+* Solid State Electronic Devices
+* Vibrations of Mechanical Systems
+* Electric Circuit and Filter Synthesis
+* Nano-materials Characterization Methods
+* Theory and Technology of Semiconductors
+* Micro and Nano Electromechanical Laboratory
+* Radio Frequency Micro-Electro-Mechanical-Systems (RF MEMS)
+* Special Topics in Micro-and Nano-Electromechanical Systems
 <br>
 
 
