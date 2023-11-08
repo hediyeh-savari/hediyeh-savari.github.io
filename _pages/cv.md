@@ -66,12 +66,14 @@ Research Experience
   * Duties included: Investigating and analyzing the structure of **Quantum Well Lasers**; Modeling 808 nm Laser **Structures** using **Wolfram Mathematica** Software and **Silvaco** Software; **Optimizing** the **bandwidth** of **semiconductor laser** output spectrum; Examining the influence of various laser **characteristics**, including the **active region** width, **waveguide layer** width, and **threshold current density**, on laser bandwidth.
   * For further information, please visit the project's portfolio [<span style="color: blue;">here</span>](https://hediyeh-savari.github.io/portfolio/portfolio-5/).
 <br> 
+<br>
 
 TA-Ship Experiences
 ======
 * **Teaching Assistant at Advanced Micro and Nano Device Lab**
   * Lecturer: [Alireza Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Feb. 2021 - Sep. 2022 
-<br> 
+<br>
+<br>
   
 Professional Skills
 ======
