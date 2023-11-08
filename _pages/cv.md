@@ -200,7 +200,7 @@ Scientific Association Membership
 [Department of Electrical Engineering, Iran University of Science and Technology](http://ee.iust.ac.ir/)
 <br>
 <br>
-* Honorary Member of the Cultural Office of the Faculty of Electrical Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014-2015
+* Honorary Member of the Cultural Office of the Electrical Engineering Department Engineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014-2015
 <br>
 [Department of Electrical Engineering, Iran University of Science and Technology](http://ee.iust.ac.ir/)
 <br>
