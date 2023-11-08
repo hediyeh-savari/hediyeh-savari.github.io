@@ -92,7 +92,8 @@ Professional Skills
 * Adept with **Microsoft Office** and **LaTeX**.
 * Adept with multiple **Characterization** including Compound **Light Microscope**, Scanning Electron Microscopy (**SEM**), Transmission Electron Microscopy (**TEM**) analysis, X-ray Diffraction (**XRD**), Energy Dispersive X-Ray Analysis (**EDX**), **UV/Vis** Spectroscopy, **FTIR** Spectroscopy, Scanning Tunneling Microscopy (**STM**).
 * Working with Laboratory **Ovens**, Laboratory **Furnaces**, **Ultrasonication** equipment, **Homogenizer**, **Hotplate Stirrers**, and **Centrifuge**.
-
+<br>
+<br> 
 
 
 Soft Skills
@@ -100,7 +101,8 @@ Soft Skills
 <div style='text-align: justify;'>
 Communication, Collaboration, Problem-Solving, Critical Thinking, Decision-Making, Work Ethic, Creativity, Self-Motivation, Public Speaking, Active Listening, Adaptability, Emotional Intelligence, Cultural Sensitivity, Leadership, Conflict Management, Professional Attitude, Time Management, Teamwork, Networking
   </div>
- 
+<br>
+<br> 
 
 
 
@@ -118,8 +120,7 @@ Test Date: September 10, 2023
 
 * **German** (beginner)
 <br>
-
-
+<br> 
 
   
 Publications
@@ -131,7 +132,8 @@ H.Savari, A.Nikfarjam - ”Design and Fabrication of a Multifunctional Flexible 
   {% include archive-single-cv.html %}
   {% endfor %}</ul>
 --> 
-
+<br>
+<br> 
 
 
 
@@ -151,7 +153,8 @@ Issued May 2023
 Coursera, Credential ID: [GWSLB43EDL8A](https://www.coursera.org/account/accomplishments/verify/GWSLB43EDL8A)
 <br> 
 Issued Mar 2023
-
+<br>
+<br> 
 
 
 
