@@ -3,10 +3,10 @@ title: "Design and Fabrication of a Wearable Electrochromic Display with 100 Pix
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+date: 2024-1-15
 venue: 'under preparation'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'H. Savari, et. al. (2023). &quot; Design and Fabrication of a Wearable Electrochromic Display with 100 Pixels and a Seven-Segment Configuration.&quot; <i>NA</i>.'
+citation: 'E. Zadehesmaeel, et. al. (2024). &quot; Design and Fabrication of a Wearable Electrochromic Display with 100 Pixels and a Seven-Segment Configuration.&quot; <i>NA</i>.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
