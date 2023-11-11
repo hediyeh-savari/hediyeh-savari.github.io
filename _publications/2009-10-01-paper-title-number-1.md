@@ -1,5 +1,5 @@
 ---
-title: "Design and Fabrication of a Multifunctional Flexible Strain and Pressure Sensor based on Conductive Nanocomposites,"
+title: "Design and Fabrication of a Multifunctional Flexible Strain and Pressure Sensor based on Conductive Nanocomposites"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper focuses on designing and fabricating a multifunctional flexible sensor.'
