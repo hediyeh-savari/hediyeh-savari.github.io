@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2024-1-15
-venue: 'Journal 1'
+venue: 'under preparation'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'H. Savari, et. al. (2024). &quot; Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates.&quot; <i>NA</i>.'
 ---
