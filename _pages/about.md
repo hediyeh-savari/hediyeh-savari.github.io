@@ -365,7 +365,8 @@ Contact Me
         You can also contact me by:
       </p>
       <ul>
-        <li><a href="mailto:hediyeh.savari@gmail.com">Email</a></li>
+        <li><a href="mailto:hediyeh.savari@gmail.com">Gmail</a></li>
+        <li><a href="mailto:hediehsavari@ut.ac.ir">Academic Email Address</a></li>
         <li><a href="tel:+989370763755">Phone</a></li>
         <li><a href="https://www.linkedin.com/in/hediyeh-savari-6b065b106/">LinkedIn</a></li>
         <li><a href="https://www.researchgate.net/profile/Hediyeh-Savari">ResearchGate</a></li>
