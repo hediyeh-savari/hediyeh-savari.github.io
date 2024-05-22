@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper focuses on designing and fabricating conductive electrodes on flexible substrates.'
 date: 2024-1-15
-venue: 'under preparation'
+venue: 'under submision'
 citation: 'H. Savari, et. al. (2024). &quot; Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates.&quot; <i>NA</i>.'
 ---
 <div style='text-align: justify;'>
