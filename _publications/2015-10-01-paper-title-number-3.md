@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper focuses on designing and fabricating conductive electrodes on flexible substrates.'
 date: 2024-1-15
-venue: 'under submision'
+venue: 'to be submitted'
 citation: 'H. Savari, et. al. (2024). &quot; Design and Fabrication of Patterned Flexible Electrode Using DC Sputtering and Shadow Mask.&quot; <i>NA</i>.'
 ---
 <div style='text-align: justify;'>
