@@ -38,7 +38,7 @@ Research Experience
 * May. 2021 - Sep. 2021: Research Assistant
   * University of Tehran
   * Supervisor: [Prof. Nikfarjam](https://fnst.ut.ac.ir/en/~a.nikfarjam)
-  * Title: Design and Fabrication of Superconducting, Stable, and Low-Cost Electrodes on Flexible Substrates
+  * Title: Design and Fabrication of Patterned Flexible Electrode Using DC Sputtering and Shadow Mask
   * Duties included: Examining various materials to select the **most suitable** one for use as the **electrode**; Investigating different materials for potential use as a **flexible, transparent, and stretchable substrate**; Exploring various coating methods to **create precise electrode patterns**; Assessing the **durability**, **stability**, and **conductivity** of fabricated flexible electrodes and **optimizing** their **characteristics**.
   * For further information, please visit the project's portfolio [<span style="color: blue;">here</span>](https://hediyeh-savari.github.io/portfolio/portfolio-2/).
 <br>
