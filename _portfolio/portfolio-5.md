@@ -1,6 +1,6 @@
 ---
 title: "Portfolio Project Number 3"
-excerpt: "Project Title:<br>Investigating the Structure, Properties, and Behavior Prediction of GaAs Semiconductor Lasers with 808 nm Radiation Wavelength and Bandwidth Less than 5 nm<br/><br><img src='/images/first_photo.png' style='max-width: 320px; max-height: 240px;' alt='Your Image'>"
+excerpt: "Project Title:<br>Simulation of Laser Output Bandwidth for GaAs Semiconductor Lasers at 808 nm with a Bandwidth Less than 5 nm<br/><br><img src='/images/first_photo.png' style='max-width: 320px; max-height: 240px;' alt='Your Image'>"
 collection: portfolio
 ---
 
